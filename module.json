@@ -1,8 +1,8 @@
 {
-  "id": "daggerheart-ptbr",
+  "id": "daggerheart-brazilian",
   "title": "Daggerheart - Tradução Brasileira",
   "description": "<p>Adiciona o idioma Português (Brasil) para o sistema de jogo Daggerheart.</p>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -10,7 +10,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "daggerheart",
+        "id": "daggerheart-brazilian",
         "type": "system",
         "compatibility": {}
       }
@@ -49,7 +49,7 @@
   "media": [
     {
       "type": "setup",
-      "url": "modules/daggerheart-ptbr/assets/dh-thumb.webp",
+      "url": "modules/daggerheart-brazilian/assets/dh-thumb.webp",
       "loop": false
     }
   ],  
