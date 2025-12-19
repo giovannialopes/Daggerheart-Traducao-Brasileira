@@ -8,62 +8,62 @@
     {
       "id": "Hardy",
       "name": "Resistente",
-      "description": ""
+      "description": "Uma vez por descanso, você pode ajudar um aliado a atravessar um terreno difícil sem gastar 1 Ponto de Esperança."
     },
     {
       "id": "Warborne",
       "name": "Nascido da Guerra",
-      "description": ""
+      "description": "Integrar uma comunidade devastada significa que você vem de um lugar que é, ou foi, devastado pela guerra."
     },
     {
       "id": "Unbound",
       "name": "Desatado",
-      "description": ""
+      "description": "Uma vez por sessão, quando rolar um Teste com Medo, você pode mudar o resultado para Esperança."
     },
     {
       "id": "Found Family",
       "name": "Família Encontrada",
-      "description": ""
+      "description": "Em algum momento da vida você fez parte de uma comunidade, mas você não se lembra mais disso. Uma vez por sessão, você pode gastar 1 Ponto de Esperança para usar as habilidades de comunidade de um aliado. Quando fizer isso, ganhe 1 Ponto de Esperança. A qualquer momento, quando você descobrir a qual comunidade você pertence, ou tenha se juntado a uma nova comunidade, você pode permanentemente trocar sua carta \"Sem Comunidade\" para a carta da nova Comunidade."
     },
     {
       "id": "Hearthborne",
       "name": "Nascido do Lar",
-      "description": ""
+      "description": "Integrar uma comunidade pacata significa que você vem de um lugar de origem humilde, tendo vivido em um pequeno vilarejo no interior."
     },
     {
       "id": "Brave Face",
       "name": "Rosto Corajoso",
-      "description": ""
+      "description": "Uma vez por sessão, quando um ataque fizer com que você marque 1 Ponto de Fadiga, em vez disso você pode gastar 1 Ponto de Esperança."
     },
     {
       "id": "Reborne",
       "name": "Renascido",
-      "description": ""
+      "description": "Integrar uma comunidade devastada significa que você vem de um lugar que é, ou foi, devastado pela guerra."
     },
     {
       "id": "Duneborne",
       "name": "Nascido das Dunas",
-      "description": ""
+      "description": "Integrar uma comunidade desértica significa que você foi criado entre as dunas e clima árido do deserto."
     },
     {
       "id": "Close-Knit",
       "name": "Unido",
-      "description": ""
+      "description": "Uma vez por Descanso Longo, você pode gastar qualquer quantidade de Pontos de Esperança para dar a um aliado a mesma quantidade de Esperança."
     },
     {
       "id": "Oasis",
       "name": "Oásis",
-      "description": ""
+      "description": "Durante um descanso curto, você ou um aliado podem rolar novamente um dado usado em uma ação de repouso."
     },
     {
       "id": "Frostborne",
       "name": "Nascido da Geada",
-      "description": ""
+      "description": "Integrar uma comunidade gélida significa que você vem de um lugar com neve e gelo em abundância."
     },
     {
       "id": "Freeborne",
       "name": "Nascido Livre",
-      "description": ""
+      "description": "Integrar uma comunidade liberta significa que você faz parte de um grupo de pessoas que vivia sob forte tirania e agora está livre."
     }
   ]
 }

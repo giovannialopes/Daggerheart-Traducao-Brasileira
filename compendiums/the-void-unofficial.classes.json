@@ -36,7 +36,7 @@
     {
       "id": "Marked for Death",
       "name": "Marcado para a Morte",
-      "description": ""
+      "description": "Em um ataque bem-sucedido com arma, você pode marcar 1 Ponto de Fadiga para colocar uma Marca da Morte em um alvo. Ataques que você fizer contra o alvo com Marca da Morte ganham um bônus de dano igual a +1d4 por Patamar. Você só pode ter um adversário com Marca da Morte por vez, e não pode transferir ou remover essa condição até derrotar o alvo marcado. O Mestre pode gastar uma quantidade de Pontos de Medo iguais à sua Proficiência para remover a Marca da Morte. Do contrário, a condição acaba automaticamente quando você fizer um descanso."
     },
     {
       "id": "Hand Wraps",
@@ -45,8 +45,8 @@
     },
     {
       "id": "Warlock",
-      "name": "Bruxo",
-      "description": ""
+      "name": "Ocultista",
+      "description": "Ocultistas são praticantes de magia que se comunicam com forças da natureza e entidades de outros planos. Eles invocam poderes através de rituais, encantamentos, ervas, conchas, velas e outras ferramentas para manifestar sua vontade e conjurar magias poderosas."
     },
     {
       "id": "Combo Strikes (D4)",
@@ -60,18 +60,18 @@
     },
     {
       "id": "Warlock Patron",
-      "name": "Patrono do Bruxo",
-      "description": ""
+      "name": "Patrono do Ocultista",
+      "description": "Você se comprometeu com um patrono (deus, demônio, fada ou outra entidade sobrenatural) em troca de poder. Você escolhe o nome do patrono e esferas de influência (por exemplo, Natureza & Traição, Amor & Guerra, Conhecimento & Sombras), que recebem um bônus de +2. Essas esferas ganham um bônus permanente de +1 ao subir de nível. Antes de um teste relacionado, você pode gastar um Favor para interceder e adicionar o bônus à rolagem."
     },
     {
       "id": "Commune",
       "name": "Comunhão",
-      "description": ""
+      "description": "Uma vez por descanso longo, em um momento de calma, você pode entrar em comunhão com uma entidade (criatura ancestral, divindade, espírito, aspecto da natureza, etc.). Você faz uma pergunta à entidade, então rola uma quantidade de d6 igual ao seu Atributo de Conjuração. O resultado de um dos dados determina o efeito: 1-3: Você sente um gosto, cheiro ou sensação relevante à resposta. 4-5: Você ouve um som ou tem uma visão relevante à resposta. 6: Você testemunha fisicamente a cena relevante à resposta como se estivesse lá."
     },
     {
       "id": "Brawler",
       "name": "Brigão",
-      "description": ""
+      "description": "Peritos em combate desarmado, brigões transformam seus corpos em armas letais usando destreza física impressionante. Tendo aprendido suas proezas em academias especializadas ou aprimorado suas técnicas uma luta de cada vez, o processo é sempre rigoroso, desenvolvendo tanto o corpo quanto a mente de um brigão."
     },
     {
       "id": "Steel Needle",
@@ -86,7 +86,7 @@
     {
       "id": "Get In & Get Out",
       "name": "Entrar e Sair",
-      "description": ""
+      "description": "Gaste 1 Ponto de Esperança para perguntar ao Mestre um caminho rápido e discreto para sair ou entrar em uma estrutura ou prédio no seu campo de visão. A próxima rolagem que fizer que tenha relação com essa informação terá vantagem."
     },
     {
       "id": "A List of Names with Several Marked Off",
@@ -130,8 +130,8 @@
     },
     {
       "id": "Witch",
-      "name": "Bruxa",
-      "description": ""
+      "name": "Bruxo",
+      "description": "Praticantes mágicos que se comunicam com forças da natureza e entidades de reinos além. Bruxos invocam seu poder através de artesanato, rituais, encantamentos, ervas, pedras, velas e outras ferramentas para manifestar sua vontade e conjurar magias poderosas."
     },
     {
       "id": "Mortar and Pestle Inscribed With a Mysterious Insignia",
@@ -150,7 +150,7 @@
     },
     {
       "id": "Witch's Charm",
-      "name": "Amuleto da Bruxa",
+      "name": "Amuleto do Bruxo",
       "description": ""
     },
     {
@@ -166,12 +166,12 @@
     {
       "id": "Assassin",
       "name": "Assassino",
-      "description": ""
+      "description": "Assassinos são mestres na arte de penetrar nas defesas de seus oponentes e infligir dor lancinante e ataques mortíferos. Quando um assassino marca alguém para morrer, ele persegue sua vítima com determinação inabalável."
     },
     {
       "id": "Favor",
       "name": "Favor",
-      "description": ""
+      "description": "Você começa com 3 Pontos de Favor e um máximo de 6 Espaços de Favor. Durante um descanso, você pode gastar uma ação de descanso para pagar tributo, recuperando Favor igual à sua Presença. Renunciar ao tributo concede ao Mestre 1 Ponto de Medo."
     },
     {
       "id": "Talking Skull",

@@ -29,7 +29,7 @@
     {
       "id": "Dire Strike",
       "name": "Golpe Terrível",
-      "description": ""
+      "description": "Faça um teste de Conjuração contra um alvo em alcance Distante. Em caso de sucesso, o alvo sofre d6+1 de Dano Mágico usando sua Proficiência. Da próxima vez que o alvo causar dano a um aliado, o dano é reduzido pela metade. Se o seu ataque for bem-sucedido com Medo, o alvo sofre d10+1 de Dano Mágico usando sua Proficiência."
     },
     {
       "id": "Lifeblood Talisman",
@@ -39,12 +39,12 @@
     {
       "id": "Voice of Dread",
       "name": "Voz do Pavor",
-      "description": ""
+      "description": "Através de magia você pode falar diretamente no ouvido de uma criatura no seu campo de visão. Para atormentá-la com suas palavras, faça um teste de Conjuração contra ela. Em caso de sucesso, o alvo deve marcar 1 Ponto de Fadiga e fica temporariamente Vulnerável."
     },
     {
       "id": "Hideous Retribution",
       "name": "Retribuição Hedionda",
-      "description": ""
+      "description": "Faça um teste de Conjuração contra um alvo em alcance Distante. Em caso de sucesso, o alvo sofre d6+1 de Dano Mágico usando sua Proficiência. Da próxima vez que o alvo causar dano a um aliado, o dano é reduzido pela metade. Se o seu ataque for bem-sucedido com Medo, o alvo sofre d10+1 de Dano Mágico usando sua Proficiência."
     },
     {
       "id": "Blood Spike",
@@ -54,7 +54,7 @@
     {
       "id": "Chains of Affliction",
       "name": "Correntes da Aflição",
-      "description": ""
+      "description": "Marque 2 Pontos de Fadiga para Encadear um alvo em alcance Próximo. Quando a criatura Encadeada causar dano, o alvo do ataque reduz o número de Pontos de Vida marcados em 1. Você não pode Encadear mais de uma criatura por vez."
     },
     {
       "id": "Vitality Manipulation",
@@ -69,7 +69,7 @@
     {
       "id": "Blighting Strike",
       "name": "Golpe Destrutivo",
-      "description": ""
+      "description": "Depois de um ataque bem-sucedido, você pode gastar 2 Pontos de Esperança para sugar poder do alvo. Para cada Ponto de Vida marcado pelo alvo nesse ataque, o Mestre perde 1 Ponto de Medo."
     },
     {
       "id": "Blood-Touched",
@@ -89,7 +89,7 @@
     {
       "id": "Siphon Essence",
       "name": "Sifão de Essência",
-      "description": ""
+      "description": "Faça um teste de Conjuração contra um alvo em alcance Distante. Em caso de sucesso, uma vez por descanso longo, o alvo toma d20 Dano Mágico usando sua Proficiência e você recupera uma quantidade de Pontos de Vida igual à quantidade de Pontos de vida marcada pelo alvo. Se obtiver sucesso com Medo, ganhe +1 de bônus de Proficiência nesse ataque."
     },
     {
       "id": "Grisly Harpoon",
@@ -99,22 +99,22 @@
     {
       "id": "Avatar of Terror",
       "name": "Avatar do Terror",
-      "description": ""
+      "description": "Marque 1 Ponto de Fadiga para assumir a forma de uma criatura alimentada pelo terror. Enquanto estiver nessa forma, suas rolagens de dano ganham um bônus de +1d6 para cada Ponto de Medo que o Mestre tiver em sua reserva. Além disso, você ganha 1 Ponto de Esperança quando o Mestre usar habilidades de Medo em um adversário em alcance Próximo. Você deve gastar 1 Ponto de Esperança para fazer um teste enquanto estiver nessa forma. Do contrário, sua forma de Avatar do Terror se extingue."
     },
     {
       "id": "Umbra Veil",
       "name": "Véu da Umbra",
-      "description": ""
+      "description": "Uma vez por Descanso Longo, quando fizer um teste com Medo, você pode gastar qualquer quantidade de Pontos de Esperança para colocar a mesma quantidade de marcadores na carta Véu Umbral, envolvendo-se em energia sombria. Depois que um ataque for feito contra você, você pode gastar qualquer quantidade de marcadores para aplicar penalidade de -1 no ataque para cada marcador gasto. No seu próximo descanso, remova todos os marcadores da carta Véu Umbral."
     },
     {
       "id": "Darkfire",
       "name": "Fogo Sombrio",
-      "description": ""
+      "description": "Faça um teste de Conjuração contra todos adversários em alcance Próximos. Você pode gastar 1 Ponto de Esperança para cada ataque bem-sucedido, e os alvos devem fazer um Teste de Reação (14). Em caso de falha, os alvos sofrem d8+6 de Dano Mágico usando sua Proficiência. Os alvos são engolfados por fogo sombrio. Caso os alvos rolem com sucesso, sofrem apenas metade do dano."
     },
     {
       "id": "Invoke Torment",
       "name": "Invocar Tormento",
-      "description": ""
+      "description": "Alvos com todos os Pontos de Fadiga marcados, sofrem o dobro do dano de seus ataques. Além disso, quando você derrotar uma criatura com todos os Pontos de Fadiga marcados, você recupera 1 Ponto de Fadiga."
     },
     {
       "id": "Mutual Suffering",
@@ -124,12 +124,12 @@
     {
       "id": "Terrify",
       "name": "Aterrorizar",
-      "description": ""
+      "description": "Faça um teste de Conjuração contra um alvo em alcance Distante. Em caso de sucesso, o alvo marca 1d4 Pontos de Fadiga e você pode fazer o alvo correr para longe de você em um nível de alcance (Próximo para Distante, Distante para Muito Distante, etc). Em um sucesso com Medo, o alvo fica temporariamente Vulnerável."
     },
     {
       "id": "Shared Trauma",
       "name": "Trauma Compartilhado",
-      "description": ""
+      "description": "Você pode transferir sofrimento de uma criatura para outra. Uma vez por descanso, marque uma quantidade de Pontos de Vida em uma criatura voluntária em alcance Corpo-a-Corpo para restaurar uma quantidade igual de Pontos de Vida de outra criatura voluntária em alcance Corpo-a-Corpo. Você pode escolher a si mesmo como uma das criaturas."
     },
     {
       "id": "Blood Bind",
@@ -149,22 +149,22 @@
     {
       "id": "Dark Army",
       "name": "Exército Sombrio",
-      "description": ""
+      "description": "Faça um teste de Conjuração (14). Uma vez por descanso longo, em caso de sucesso você conjura 8 corruptores que te cercam e se movimentam com você. Coloque 8 marcadores na sua carta Exército das Trevas. Sempre que você causar dano a um alvo em alcance Muito Próximo, você deve gastar 1 marcador para infligir +1d8 de dano adicional ao alvo. Além disso, quando tomar dano, você pode gastar 1 marcador para reduzir o dano em 1d8. Sempre que gastar 1 marcador, um dos corruptores age em seu favor e então desaparece. No seu próximo descanso, remova qualquer marcador remanescente na carta."
     },
     {
       "id": "Wailing Leap",
       "name": "Salto Lamentoso",
-      "description": ""
+      "description": "Sempre que você causar Dano Mágico a um alvo, você pode marcar 1 Ponto de Fadiga para teleportar imediatamente para uma distância Corpo-a-Corpo dele. Quando fizer isso, o alvo fica temporariamente Vulnerável até marcar 1 ou mais Pontos de Vida."
     },
     {
       "id": "Summon Horror",
       "name": "Invocar Horror",
-      "description": ""
+      "description": "Faça um teste de Conjuração contra um alvo em alcance Distante. Em um sucesso, gaste 1 Ponto de Esperança para invocar um demônio grande ou uma criatura sobrenatural para atacar o alvo e causar d10 de Dano Mágico usando sua Proficiência. O alvo deve passar em um Teste de Reação (12) para se proteger de tais horrores. Em caso de falha, ele marca 1d4 Pontos de Fadiga. Depois de atacar o alvo, o horror desaparece."
     },
     {
       "id": "Damnation",
       "name": "Danação",
-      "description": ""
+      "description": "Faça um teste de Conjuração contra um alvo em alcance Distante. Em um sucesso, marque qualquer quantidade de Pontos de Fadiga e role uma quantidade de d20 igual ao à quantidade de Fadiga gasta, causando essa quantidade de dano ao alvo. Se o dano for suficiente para derrotar ou destruir a criatura, todos os adversários em alcance Distante do alvo marcam 1 Ponto de Fadiga."
     },
     {
       "id": "Life Leash",
@@ -174,7 +174,7 @@
     {
       "id": "Spectral Mist",
       "name": "Névoa Espectral",
-      "description": ""
+      "description": "Marque 1 Ponto de Fadiga para criar uma névoa assustadora que se acumula à sua volta e a qualquer alvo em alcance Próximo. Todos os afetados ficam momentaneamente incorpóreos, permitindo que se movam através de objetos sólidos e também ficam imunes a Dano Físico. Esse efeito dura até que a criatura afetada atravesse um objeto sólido ou faça um teste de ataque. Do contrário, o efeito dura até o final da cena."
     },
     {
       "id": "Weave The Flesh",
@@ -194,12 +194,12 @@
     {
       "id": "Dread-Touched",
       "name": "Tocado pelo Pavor",
-      "description": ""
+      "description": "Quando 4 ou mais das suas cartas de domínios na sua Mão forem do Domínio do Pavor, ganhe os seguintes benefícios: Quando for bem-sucedido com Medo, você pode marcar 2 Pontos de Fadiga para impedir que o Mestre ganhe Ponto de Medo. Uma vez por descanso, quando fizer um teste, você pode adicionar um bônus de +1 à rolagem por cada marcador de Medo que o Mestre tem acumulado."
     },
     {
       "id": "Wall of Hunger",
       "name": "Muralha da Fome",
-      "description": ""
+      "description": "Faça um teste de Conjuração (13). Em um sucesso, você pode criar uma parede invisível de energia contorcida e necrótica em linha reta entre dois pontos em alcance Distante um do outro. Essa magia dura até que você marque 1 Ponto de Vida ou que você conjure outra Parede de Fome. Qualquer criatura que estiver na parede no momento que ela for conjurada ou atravessá-la deve marcar 2 Pontos de Fadiga, então devem fazer um Teste de Reação (16). Se falharem, eles ficam temporariamente Restringidos pela parede."
     },
     {
       "id": "Power Through Pain",
@@ -209,7 +209,7 @@
     {
       "id": "Savor the Anguish",
       "name": "Saborear a Angústia",
-      "description": ""
+      "description": "Sempre que uma criatura em alcance Próximo marcar Pontos de Fadiga ou tomar Dano Grave, você pode gastar 1 Ponto de Esperança para recuperar 1 Ponto de Fadiga ou forçar o Mestre a remover 1 Ponto de Medo de sua reserva."
     },
     {
       "id": "Burning Blood",
@@ -219,7 +219,7 @@
     {
       "id": "Eldritch Flesh",
       "name": "Carne Arcanica",
-      "description": ""
+      "description": "Você personifica as trevas com a qual você está envolvido. Enquanto a carta Carne Ancestral estiver em sua Mão: Ganhe +1 de bônus em seus limiares de dano para cada Ponto de Fadiga que você tiver marcado. Quando você rolar com Medo, você pode gastar 2 Pontos de Esperança para recuperar 1 Ponto de Armadura."
     },
     {
       "id": "Glyph of Hemorrhaging",

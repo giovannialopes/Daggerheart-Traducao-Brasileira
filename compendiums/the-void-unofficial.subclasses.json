@@ -13,57 +13,57 @@
     {
       "id": "Stance - Compounding",
       "name": "Postura - Acumulativa",
-      "description": ""
+      "description": "Quando rolar o valor máximo em um Dado de Combo, aumente o tamanho Dado de Combo que você for rolar no próximo ataque (máximo de d12)."
     },
     {
       "id": "Moonbeam",
       "name": "Raio Lunar",
-      "description": ""
+      "description": "Uma vez por sessão, você pode conjurar uma coluna de luz da lua para iluminar uma área em alcance Próximo até o fim da cena. Enquanto estiver banhado pela Chuva de Prata, você e qualquer aliado ganham bônus de +1 em testes de Conjuração e vantagem em testes para distinguir ilusões."
     },
     {
       "id": "Not Done Yet",
       "name": "Ainda Não Terminado",
-      "description": ""
+      "description": "Quando marcar mais de um Ponto de Vida em um ataque, você pode ganhar 1 Ponto de Esperança ou recuperar 1 Ponto de Fadiga."
     },
     {
       "id": "Order of the Lycan",
       "name": "Ordem do Licano",
       "description": "A Ordem do Licano é uma subclasse do Blood Hunter que permite transformação em lobisomem."
-    }
+    },
     {
       "id": "Dark Aegis",
       "name": "Égide Sombria",
-      "description": ""
+      "description": "Uma vez por descanso longo, você pode gastar 1 Ponto de Favor em vez de marcar qualquer número de Pontos de Vida."
     },
     {
       "id": "Patron's Mantle",
       "name": "Manto do Patrono",
-      "description": ""
+      "description": "Gaste 1 Ponto de Fadiga para assumir um aspecto aterrorizante do patrono até sofrer Dano Grave ou a cena acabar. Enquanto transformado: Você pode gastar 2 Pontos de Favor em vez de marcar um Ponto de Armadura. Você ganha um bônus igual ao seu Patamar atual em testes de intimidação."
     },
     {
       "id": "Poison Compendium",
       "name": "Compêndio de Venenos",
-      "description": ""
+      "description": "Você também conhece as seguintes toxinas: Véu da Meia-Noite (o alvo ganha uma penalidade permanente de -2 em suas rolagens de ataque. Isso só pode afetá-lo uma vez), Pétala-Fantasma (reduza permanentemente o dado de dano do ataque padrão do alvo em um passo (d10 para d8, d8 para d6, etc). Isso só pode afetá-lo uma vez)."
     },
     {
       "id": "Order of the Mutant",
       "name": "Ordem do Mutante",
       "description": "A Ordem do Mutante é uma subclasse do Blood Hunter que utiliza mutagênicos para aprimorar suas habilidades."
-    }
+    },
     {
       "id": "Stance - Nimble",
       "name": "Postura - Ágil",
-      "description": ""
+      "description": "Quando um adversário acertar um ataque contra você, você pode gastar uma quantidade de Foco limitada pelo seu Patamar atual. Role uma quantidade de d6 igual a 1 + a quantidade de Foco gasta. Se algum dos dados resultar em números iguais, você não toma nenhum dano nesse ataque."
     },
     {
       "id": "Divine Ire",
       "name": "Ira Divina",
-      "description": ""
+      "description": "Uma vez por descanso, quando sofrer dano, você pode gastar qualquer número de Pontos de Favor para afetar esse mesmo número de adversários dentro de alcance Muito Próximo. Cada alvo afetado marca 1 Ponto de Vida."
     },
     {
       "id": "Stance - Devastating",
       "name": "Postura - Devastadora",
-      "description": ""
+      "description": "Gaste 1 Foco antes de uma rolagem de ataque para usar d20 como seu dado de dano."
     },
     {
       "id": "Shadowed Grit",
@@ -73,22 +73,22 @@
     {
       "id": "Overwhelm",
       "name": "Sobrecarregar",
-      "description": ""
+      "description": "Em um ataque bem-sucedido, você pode gastar 1 Ponto de Esperança para forçar o alvo a marcar 1 Ponto de Fadiga ou arremessá-lo a uma distância Muito Próxima."
     },
     {
       "id": "Stance - Deadly",
       "name": "Postura - Mortal",
-      "description": ""
+      "description": "Quando causar Dano Grave, o alvo marca 1 PV adicional."
     },
     {
       "id": "Spirit Blast",
       "name": "Explosão Espiritual",
-      "description": ""
+      "description": "Gaste 1 marcador de Foco para fazer um teste de Instinto contra um adversário em alcance Próximo. Em um sucesso, você causa d20+3 de Dano Mágico usando sua Proficiência. Você pode gastar 1 marcador de Foco adicional para fazer o adversário ficar temporariamente Vulnerável."
     },
     {
       "id": "Diminish My Foes",
       "name": "Diminuir Meus Inimigos",
-      "description": ""
+      "description": "Ganhe um bônus permanente de +3 no seu limiar de Dano Grave. Além disso, sua habilidade Potente pode acertar até três alvos em vez de dois."
     },
     {
       "id": "Eye for an Eye",
@@ -98,32 +98,32 @@
     {
       "id": "Backstab",
       "name": "Golpe pelas Costas",
-      "description": ""
+      "description": "Sua habilidade \"Marca da Morte\" usa +1d8 em vez de +1d6."
     },
     {
       "id": "Stance - Immovable",
       "name": "Postura - Imóvel",
-      "description": ""
+      "description": "Ganhe um bônus de +2 em seus limiares de dano. Você não pode ser movido involuntariamente."
     },
     {
       "id": "Stance - Steady",
       "name": "Postura - Firme",
-      "description": ""
+      "description": "Ganhe -1 de penalidade em sua Evasão. Quando você causar dano em um ataque bem-sucedido, role um dado de dano adicional e ignore o valor do mais baixo."
     },
     {
       "id": "Stance - Discerning",
       "name": "Postura - Discernente",
-      "description": ""
+      "description": "Você pode escolher o alvo do seu ataque depois da rolagem de ataque. O Mestre deverá lhe contar contra qual dos inimigos o ataque seria bem-sucedido."
     },
     {
       "id": "Stance - Deflecting",
       "name": "Postura - Defletora",
-      "description": ""
+      "description": "Quando você for alvo de um ataque, pode gastar 2 Focos para ganhar bônus de Evasão igual à sua Armadura."
     },
     {
       "id": "Scorpion's Poise",
       "name": "Postura do Escorpião",
-      "description": ""
+      "description": "Você ganha +2 de bônus na sua Evasão contra qualquer ataque feito pela criatura com Marca da Morte."
     },
     {
       "id": "Lycan Regeneration",
@@ -138,12 +138,12 @@
     {
       "id": "Stance - Inexorable",
       "name": "Postura - Inexorável",
-      "description": ""
+      "description": "Ataques contra você têm desvantagem se tiver mais de dois inimigos em distância Corpo-a-Corpo a você."
     },
     {
       "id": "Draining Invoaction",
       "name": "Invocação Drenante",
-      "description": ""
+      "description": "Quando você ou um aliado é atacado dentro de alcance Muito Próximo, você pode gastar 1 Ponto de Favor para fazer o inimigo rolar um d12 em vez de um d20 para o ataque. O adversário também marca 1 Ponto de Fadiga, e você recupera 1 Ponto de Fadiga."
     },
     {
       "id": "Werewolf",
@@ -153,7 +153,7 @@
     {
       "id": "Executioner's Guild",
       "name": "Guilda do Carrasco",
-      "description": ""
+      "description": "O primeiro ataque bem-sucedido que você fizer durante a cena causará dano em dobro. Sua habilidade \"Marca da Morte\" usa +1d6 em vez de +1d4."
     },
     {
       "id": "Improved Mutagens",
@@ -163,67 +163,67 @@
     {
       "id": "Focus",
       "name": "Foco",
-      "description": ""
+      "description": "Durante o descanso, role uma quantidade de d6 igual ao seu Instinto. Receba uma quantidade de marcadores de Foco igual ao maior valor rolado nos d6 e coloque os marcadores na sua Carta de Artista Marcial. Gaste um Marcador de Foco para alternar entre poses marciais até que você sofra Dano Grave, a cena acabe ou você alterne para outra posição."
     },
     {
       "id": "Stance - Quick",
       "name": "Postura - Rápida",
-      "description": ""
+      "description": "Quando fizer uma rolagem de ataque, gaste 1 Foco para incluir um alvo adicional dentro do alcance."
     },
     {
       "id": "Stance - Brutal",
       "name": "Postura - Brutal",
-      "description": ""
+      "description": "Quando rolar o valor máximo em uma rolagem de dano, role um dado de dano adicional."
     },
     {
       "id": "Lunar Phases",
       "name": "Fases Lunares",
-      "description": ""
+      "description": "Seu espírito flui e transborda como as fases da lua. No início de cada sessão, role 1d4 e ganhe o efeito condizente com o resultado do dado: Lua Nova - Você sempre pode gastar 1 Ponto de Esperança para reduzir Dano Leve para Nenhum. Lua Crescente - Ganhe +2 de bônus nas suas rolagens de dano. Lua Cheia - Ganhe +2 de bônus em seus limiares de dano. Lua Minguante - Ganhe +1 em seu bônus de Evasão."
     },
     {
       "id": "First Strike",
       "name": "Primeiro Golpe",
-      "description": ""
+      "description": "O primeiro ataque bem-sucedido que você fizer durante a cena causará dano em dobro."
     },
     {
       "id": "Moon",
       "name": "Lua",
-      "description": ""
+      "description": "Uma vez por sessão, você pode conjurar uma coluna de luz da lua para iluminar uma área em alcance Próximo até o fim da cena. Enquanto estiver banhado pela Chuva de Prata, você e qualquer aliado ganham bônus de +1 em testes de Conjuração e vantagem em testes para distinguir ilusões."
     },
     {
       "id": "Toxic Concoctions",
       "name": "Misturas Tóxicas",
-      "description": ""
+      "description": "Marque 1 Ponto de Fadiga para adicionar 1d4+1 marcadores à carta \"Intoxicante - Fundamental\". No seu próximo descanso longo, remova todos os marcadores da carta. Você conhece as seguintes toxinas: Raiz de Górgona (o alvo ganha uma penalidade permanente de -1 em sua Dificuldade. Isso só vai afetá-lo uma vez), Esporo de Tumba (o alvo deve marcar 1 Ponto de Fadiga), Erva de Sanguessuga (ganhe um bônus de +1d6 no dano desse ataque)."
     },
     {
       "id": "True Strike",
       "name": "Golpe Verdadeiro",
-      "description": ""
+      "description": "Uma vez por descanso longo, você pode marcar 1 Ponto de Fadiga para mudar um fracasso em uma rolagem de ataque que você faça para um sucesso."
     },
     {
       "id": "Envenomate",
       "name": "Envenenar",
-      "description": ""
+      "description": "Em um ataque bem-sucedido com arma, você pode gastar um marcador da carta \"Intoxicante - Fundamental\" para afetar o alvo com uma das toxinas conhecidas."
     },
     {
       "id": "Stance - Hindering",
       "name": "Postura - Obstrutora",
-      "description": ""
+      "description": "Em um ataque bem-sucedido, você pode gastar 1 Foco para deixar o alvo Atrapalhado. Enquanto o alvo estiver Atrapalhado, as rolagens de ataques sofrem uma penalidade de -2."
     },
     {
       "id": "Martial Form",
       "name": "Forma Marcial",
-      "description": ""
+      "description": "Use a ficha de Pose Marcial. Você começa com duas posições marciais de 1º Patamar. Quando alcançar um novo Patamar, você ganha mais duas posições adicionais do seu Patamar ou inferior."
     },
     {
       "id": "Stance - Infuriating",
       "name": "Postura - Enfurecedora",
-      "description": ""
+      "description": "Em um ataque bem-sucedido, o alvo se torna Furioso. Enquanto estiver Furioso, o alvo fica Vulnerável e sofre -2 de penalidade nas rolagens de ataque. O alvo só deixa de estar Furioso sendo bem-sucedido em um ataque contra você."
     },
     {
       "id": "Limit Breaker",
       "name": "Quebrador de Limites",
-      "description": ""
+      "description": "Uma vez por descanso, você consegue realizar um feito inacreditável, como correr por cima d'água, saltar entre plataformas distantes ou escalar um prédio sem necessidade de um teste. Quando fizer isso, ganhe 1 Ponto de Esperança e recupere 1 Ponto de Fadiga."
     },
     {
       "id": "Tethered Talisman",
@@ -233,27 +233,27 @@
     {
       "id": "Venomancer",
       "name": "Venomaníaco",
-      "description": ""
+      "description": "Você também conhece as seguintes toxinas: Semente da Praga (o alvo ganha uma penalidade permanente de -3 em seus limiares de dano. Isso só pode afetá-lo uma vez), Folha do Medo (o dano desse ataque ganha um bônus igual ao resultado do seu Dado de Medo)."
     },
     {
       "id": "Stance - Dueling",
       "name": "Postura - Duelo",
-      "description": ""
+      "description": "Ganhe vantagem em rolagens de ataques quando não houver adversários e/ou aliados Muito Próximos a você e seu alvo."
     },
     {
       "id": "Martial Artist",
       "name": "Artista Marcial",
-      "description": ""
+      "description": "Use a ficha de Pose Marcial. Você começa com duas posições marciais de 1º Patamar. Quando alcançar um novo Patamar, você ganha mais duas posições adicionais do seu Patamar ou inferior. Durante o descanso, role uma quantidade de d6 igual ao seu Instinto. Receba uma quantidade de marcadores de Foco igual ao maior valor rolado nos d6 e coloque os marcadores na sua Carta de Artista Marcial. Gaste um Marcador de Foco para alternar entre poses marciais até que você sofra Dano Grave, a cena acabe ou você alterne para outra posição."
     },
     {
       "id": "Adder's Blessing",
       "name": "Bênção da Víbor",
-      "description": ""
+      "description": "Você é imune a venenos e outras toxinas."
     },
     {
       "id": "Stance - Favored",
       "name": "Postura - Favorecida",
-      "description": ""
+      "description": "Adicione um atributo à sua escolha à sua rolagem de dano."
     },
     {
       "id": "Control the Beast",
@@ -278,47 +278,47 @@
     {
       "id": "Stance - Defensive",
       "name": "Postura - Defensiva",
-      "description": ""
+      "description": "Testes de ataque contra você tem desvantagem a não ser que o adversário marque 1 Ponto de Fadiga."
     },
     {
       "id": "Pact of the Wrathful",
       "name": "Pacto dos Irados",
-      "description": ""
+      "description": "Gaste 1 Ponto de Fadiga para imbuir uma arma com a fúria do patrono. Em um ataque bem-sucedido com uma arma imbuída, você pode gastar Pontos de Favor para causar dano bônus (+1d6 por Ponto de Favor)."
     },
     {
       "id": "Stance - Otherworldly",
       "name": "Postura - Sobrenatural",
-      "description": ""
+      "description": "Você escolhe se o dano que vai causar é físico ou mágico."
     },
     {
       "id": "Rugged",
       "name": "Robusto",
-      "description": ""
+      "description": "Aumente seu dado de dano para ataque desarmado de d8 para d10. Além disso, você pode marcar 1 Ponto de Fadiga para atacar duas criaturas que estejam em alcance Corpo-a-Corpo com uma única rolagem de ataque."
     },
     {
       "id": "Menacing Reach",
       "name": "Alcance Ameaçador",
-      "description": ""
+      "description": "Quando imbuir uma arma, você pode marcar 1 Ponto de Fadiga adicional para aumentar o alcance em um passo (por exemplo, Corpo a Corpo para Muito Próximo, Muito Próximo para Próximo)."
     },
     {
       "id": "Keen Defenses",
       "name": "Defesas Aguçadas",
-      "description": ""
+      "description": "Quando você for alvo de um ataque, você pode gastar 1 marcador de Foco para fazer o adversário atacar com desvantagem."
     },
     {
       "id": "Twin Fang",
       "name": "Presas Gêmeas",
-      "description": ""
+      "description": "Quando você causar Dano Grave a uma criatura, você pode gastar 1 Ponto de Fadiga para fazer o alvo marcar 1 Ponto de Vida adicional."
     },
     {
       "id": "Stance - Precise",
       "name": "Postura - Precisa",
-      "description": ""
+      "description": "Ganhe um bônus de +1 em suas rolagens de ataque."
     },
     {
       "id": "Favored Weapon",
       "name": "Arma Favorecida",
-      "description": ""
+      "description": "Gaste 1 Ponto de Fadiga para imbuir uma arma com a fúria do patrono. Em um ataque bem-sucedido com uma arma imbuída, você pode gastar Pontos de Favor para causar dano bônus (+1d6 por Ponto de Favor)."
     },
     {
       "id": "Mutagens",
@@ -333,57 +333,57 @@
     {
       "id": "Stance - Sheltering",
       "name": "Postura - Protetora",
-      "description": ""
+      "description": "Quando você marcar um Ponto de Armadura, o dano é reduzido para você e para todos os aliados que estiverem em distância Corpo-a-Corpo de você e que sofreram o mesmo dano."
     },
     {
       "id": "Stance - Invigorating",
       "name": "Postura - Revigorante",
-      "description": ""
+      "description": "Quando fizer um ataque bem-sucedido, role em d4. Se rolar 4, ganhe 1 Foco."
     },
     {
       "id": "Stance - Crushing",
       "name": "Postura - Esmagadora",
-      "description": ""
+      "description": "Quando rolar 1 em um dado de dano, você pode tratá-lo como o valor mais alto deste dado."
     },
     {
       "id": "Volatile Toxins",
       "name": "Toxinas Voláteis",
-      "description": ""
+      "description": "Quando você infligir efeitos tóxicos em um alvo, você pode gastar um marcador adicional para aplicar uma segunda toxina."
     },
     {
       "id": "Walk Between Worlds",
       "name": "Caminhar Entre Mundos",
-      "description": ""
+      "description": "Faça um teste de Conjuração (13) para cruzar o véu da morte e conversar com quaisquer espíritos próximos. Coloque uma quantidade de marcadores igual ao seu Atributo de Conjuração na sua carta Cerca Viva e remova 1 marcador cada vez que um espírito responder uma pergunta. Você retorna ao mundo dos vivos quando o último marcador for removido."
     },
     {
       "id": "Death Strike",
       "name": "Golpe da Morte",
-      "description": ""
+      "description": "Quando você causar Dano Grave a uma criatura, você pode gastar 1 Ponto de Fadiga para fazer o alvo marcar 1 Ponto de Vida adicional."
     },
     {
       "id": "Stance - Scary",
       "name": "Postura - Assustadora",
-      "description": ""
+      "description": "Ataques bem-sucedidos também forçam o alvo a marcar 1 Ponto de Fadiga."
     },
     {
       "id": "Draining Bane",
       "name": "Maldição Drenante",
-      "description": ""
+      "description": "Quando um adversário ataca você ou um aliado dentro de alcance Muito Próximo, você pode gastar 2 Pontos de Favor para deixá-lo temporariamente Drenado. O adversário Drenado marca 1 Ponto de Fadiga, e você recupera 1 Ponto de Fadiga. A criatura Drenada usa um d12 em vez de um d20 para atacar."
     },
     {
       "id": "Herbal Remedies",
       "name": "Remédios Herbais",
-      "description": ""
+      "description": "Quando você ou um aliado recupera 1 ou mais Pontos de Vida ou Fadiga de um item consumível, eles recuperam um ponto adicional."
     },
     {
       "id": "Stance - Grappling",
       "name": "Postura - Agarrante",
-      "description": ""
+      "description": "Em um ataque bem-sucedido, você pode gastar 1 Foco para deixar o adversário temporariamente Restringido."
     },
     {
       "id": "Hedge",
       "name": "Cerca Viva",
-      "description": ""
+      "description": "Quando você ou um aliado recupera 1 ou mais Pontos de Vida ou Fadiga de um item consumível, eles recuperam um ponto adicional. Uma vez por descanso, você pode imbuir um pequeno item com sua essência protetora. Quando uma pessoa segurando o talismã sofre dano, você pode gastar a magia dentro do objeto para reduzir o número de Pontos de Vida marcados em 1. Você não pode criar outro talismã até que o atual tenha sido usado."
     },
     {
       "id": "Juggernaut",
@@ -398,12 +398,12 @@
     {
       "id": "Circle of Power",
       "name": "Círculo de Poder",
-      "description": ""
+      "description": "Uma vez por descanso, você marca um círculo no chão dentro de alcance Muito Próximo ao redor de si mesmo e coloca uma quantidade de marcadores igual ao seu Atributo de Conjuração na carta Cerca Viva - Maestria. Cada vez que você ou um aliado dentro do círculo faz um teste ou sofre um ataque bem-sucedido, um marcador é removido. Esta magia dura até que todos os marcadores sejam gastos ou você saia do círculo. Enquanto estiver dentro do círculo, você: Ganha um bônus de +4 aos seus limiares de dano. Ganha um bônus de +2 às rolagens de ataque. Ganha um bônus de +1 à sua Evasão."
     },
     {
       "id": "Deadly Devotion",
       "name": "Devoção Mortal",
-      "description": ""
+      "description": "Após um ataque bem-sucedido, você pode gastar 1 Ponto de Favor para um bônus de +1 à Evasão até sofrer um ataque bem-sucedido ou o próximo descanso."
     },
     {
       "id": "Mastered Mutagens",
@@ -413,47 +413,47 @@
     {
       "id": "Fearsome Attack",
       "name": "Ataque Temível",
-      "description": ""
+      "description": "Permite gastar 1 Ponto de Favor para rolar novamente qualquer número de dados de dano, e Pontos de Favor adicionais podem ser gastos para rolar os mesmos dados múltiplas vezes."
     },
     {
       "id": "Enhanced Hex",
       "name": "Maldição Aprimorada",
-      "description": ""
+      "description": "Ataques contra criaturas Encantadas ganham um bônus de dano igual à sua Proficiência."
     },
     {
       "id": "Ambush",
       "name": "Emboscada",
-      "description": ""
+      "description": "Sua habilidade \"Marca da Morte\" usa +1d6 em vez de +1d4."
     },
     {
       "id": "Night's Glamour",
       "name": "Glamour da Noite",
-      "description": ""
+      "description": "Marque 1 Ponto de Fadiga para ficar Glamourizado com uma fachada mágica de aparência que dura até que você marque 1 Ponto de Vida, faça um ataque ou descanse. Enquanto estiver Glamourizado, você: Toma a forma de qualquer criatura de tamanho aproximado ao seu que você já tenha visto. Melhora sua própria aparência. Você ganha vantagem em testes de Presença que se aproveitem dessa mudança de aparência."
     },
     {
       "id": "Pummeljoy",
       "name": "Pummeljoy",
-      "description": ""
+      "description": "Sempre que rolar um acerto crítico em um ataque de arma contra um inimigo em alcance Corpo-a-Corpo, você ganha um Ponto de Esperança adicional, recupera um Ponto de Fadiga adicional e ganha +1 de bônus na Proficiência para este ataque."
     },
     {
       "id": "Ire of Pale Light",
       "name": "Ira da Luz Pálida",
-      "description": ""
+      "description": "Em um ataque bem-sucedido com Esperança, você pode gastar 1 Ponto de Esperança para fazer o alvo marcar 1 Ponto de Fadiga."
     },
     {
       "id": "Stance - Sweeping",
       "name": "Postura - Varredora",
-      "description": ""
+      "description": "Seu ataque tem como alvo todos os alvos que estejam Muito Próximos a você. O ataque causa metade do dano a todos os alvos atingidos pelo ataque."
     },
     {
       "id": "Herald of Death",
       "name": "Arauto da Morte",
-      "description": ""
+      "description": "Em um ataque fracassado, você pode gastar 1 Ponto de Favor para rolar novamente. Uma segunda falha resulta em usar o segundo resultado e marcar 1 Ponto de Fadiga."
     },
     {
       "id": "Pact of the Endless",
       "name": "Pacto do Infinito",
-      "description": ""
+      "description": "Gaste 1 Ponto de Fadiga para assumir um aspecto aterrorizante do patrono até sofrer Dano Grave ou a cena acabar. Enquanto transformado: Você pode gastar 2 Pontos de Favor em vez de marcar um Ponto de Armadura. Você ganha um bônus igual ao seu Patamar atual em testes de intimidação."
     },
     {
       "id": "Powerhouse",

@@ -8,62 +8,62 @@
     {
       "id": "Demigod - Ichor of the God",
       "name": "Semideus - Ícor do Deus",
-      "description": ""
+      "description": "Seu dado de vantagem é um d10 em vez de um d6."
     },
     {
       "id": "Ghost - Ephemeral",
       "name": "Fantasma - Efêmero",
-      "description": ""
+      "description": "1 Ponto de Vida é permanentemente marcado ao adquirir a carta \"Fantasma\" e ao subir de Patamar. Quando o último Ponto de Vida for marcado, você deve escolher \"Sacrifício Glorioso\" como seu movimento de morte."
     },
     {
       "id": "Demigod - Weight of Divinity",
       "name": "Semideus - Peso da Divindade",
-      "description": ""
+      "description": "Ao ter uma falha com Medo, você deve marcar 1 Ponto de Fadiga ou conceder ao Mestre 1 Ponto de Medo adicional."
     },
     {
       "id": "Shapeshifter - Only Skin Deep",
       "name": "Metamorfo - Apenas Superficial",
-      "description": ""
+      "description": "Ao mudar de forma, você só ganha os benefícios de uma habilidade de ancestralidade escolhida, e uma ação de descanso pode ser usada para alternar entre diferentes benefícios de ancestralidade."
     },
     {
       "id": "Shapeshifter - Change Shape",
       "name": "Metamorfo - Mudar Forma",
-      "description": ""
+      "description": "Durante um Descanso Longo, você pode usar uma ação de descanso para alternar entre sua ancestralidade atual e outra, descrevendo como sua aparência muda."
     },
     {
       "id": "Werewolf - Wolf Form",
       "name": "Lobisomem - Forma de Lobo",
-      "description": ""
+      "description": "Quando marcar 1 ou mais Pontos de Vida, você pode também marcar 1 Ponto de Fadiga para assumir sua Forma Lupina. Enquanto estiver nessa forma, você ganha o Dado do Lobo, um d10 que você adiciona às suas rolagens de ataque e dano. Sempre que ganhar Esperança quando estiver na forma Lupina, em vez disso, você marca 1 Ponto de Fadiga."
     },
     {
       "id": "Ghost - Spirit Form",
       "name": "Fantasma - Forma Espiritual",
-      "description": ""
+      "description": "Você pode alternar entre formas corpóreas e incorpóreas marcando 1 Ponto de Fadiga. Na Forma Espiritual, você pode passar através de objetos sólidos, é imune a dano físico, mas toma dano mágico dobrado. Você também pode gastar 2 Pontos de Esperança para atacar ou interagir com o mundo material."
     },
     {
       "id": "Vampire - Feed",
       "name": "Vampiro - Alimentar",
-      "description": ""
+      "description": "Em um sucesso no ataque de Presas contra uma criatura viva, você pode marcar 1 Ponto de Fadiga para Alimentar-se. Coloque uma quantidade de marcadores na carta Vampiro igual à quantidade de Pontos de Vida que o alvo marcar. Você pode armazenar até um máximo de 5 marcadores por vez. Gaste 1 marcador antes de um teste de ataque para transformar seu Dado de Medo em um d20 em vez de um d12. Quando faz um Descanso Longo, remova 1 marcador. Se não houver nenhum marcador na sua carta Vampiro, todos seus testes de ação e reação são feitos com desvantagem."
     },
     {
       "id": "Reanimated - Stitch Up",
       "name": "Reanimado - Costurar",
-      "description": ""
+      "description": "Durante um descanso, você pode usar uma ação de descanso para recuperar Pontos de Vida usando restos de um cadáver recentemente falecido. Usar esses materiais afeta sua aparência e restringe outros métodos de recuperação de PV a uma ação de descanso ou ao movimento de morte \"Arrisca Tudo\"."
     },
     {
       "id": "Werewolf - Frenzy",
       "name": "Lobisomem - Frenesi",
-      "description": ""
+      "description": "Quando marcar seu último Ponto de Fadiga na Forma Lupina, você entra em Frenesi. Role uma quantidade de d20 igual ao seu Patamar atual. Com o resultado dessa rolagem, você causa dano físico automático a todas as criaturas em alcance Muito Próximo a você. Após isso, sua Forma Lupina se desfaz e você volta à sua forma normal."
     },
     {
       "id": "Vampire - Fangs",
       "name": "Vampiro - Presas",
-      "description": ""
+      "description": "Faça um teste de Força para morder alguém em alcance Corpo-a-Corpo, causando d8 de Dano Físico usando sua Proficiência."
     },
     {
       "id": "Reanimated - Corpse",
       "name": "Reanimado - Cadáver",
-      "description": ""
+      "description": "Ao falhar em um teste \"Arriscar Tudo\", você pode marcar permanentemente um Ponto de Vida para garantir um sucesso, ainda usando o Dado de Esperança para distribuir entre Pontos de Vida e Pontos de Fadiga."
     }
   ]
 }

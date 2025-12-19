@@ -15,27 +15,27 @@
     {
       "id": "Fireproof",
       "name": "À Prova de Fogo",
-      "description": ""
+      "description": "Você é imune a dano de fogo mundano ou mágico."
     },
     {
       "id": "Lifespring",
       "name": "Fonte de Vida",
-      "description": ""
+      "description": "Uma vez por descanso, quando você tiver acesso a pequenas porções de água, você pode marcar 2 Pontos de Fadiga para curar a si mesmo ou a um aliado em 1 Ponto de Vida."
     },
     {
       "id": "Divine Countenance",
       "name": "Aparência Divina",
-      "description": ""
+      "description": "Você tem vantagem em rolagens para comandar ou persuadir."
     },
     {
       "id": "Gale Force",
       "name": "Força da Rajada",
-      "description": ""
+      "description": "Marque 1 Ponto de Fadiga para conjurar uma rajada de vento que carrega você ou um aliado a até uma distância Muito Distante. Além disso, você sempre pode controlar a velocidade da queda."
     },
     {
       "id": "Amphibious",
       "name": "Anfíbio",
-      "description": ""
+      "description": "Você pode respirar e mover-se naturalmente debaixo d'água."
     },
     {
       "id": "Earthkin",
@@ -60,7 +60,7 @@
     {
       "id": "Immoveable",
       "name": "Imóvel",
-      "description": ""
+      "description": "Enquanto seus pés estiverem tocando o chão, você não pode ser levantado ou movido contra sua vontade."
     },
     {
       "id": "Aetheris",
@@ -75,7 +75,7 @@
     {
       "id": "Ignition",
       "name": "Ignição",
-      "description": ""
+      "description": "Marque 1 Ponto de Fadiga para cingir sua arma primária com chamas até o fim da cena. Enquanto estiver em chamas, a arma emite luz brilhante e ganha um bônus de 1d6 em rolagens de dano contra inimigos em alcance Corpo-a-Corpo."
     },
     {
       "id": "Gnome",
@@ -85,17 +85,17 @@
     {
       "id": "Stoneskin",
       "name": "Pele de Pedra",
-      "description": ""
+      "description": "Você ganha +1 de bônus nos seus Pontos de Armadura e limiares de dano."
     },
     {
       "id": "Eye of the Storm",
       "name": "Olho da Tempestade",
-      "description": ""
+      "description": "Gaste 2 Pontos de Esperança para conceder +1 de bônus de Evasão a você ou a um aliado até que sofra um Dano Grave ou que use Olho da Tempestade novamente."
     },
     {
       "id": "Hallowed Aura",
       "name": "Aura Sagrada",
-      "description": ""
+      "description": "Uma vez por descanso, quando um aliado em alcance Próximo rolar com Medo, você pode transformar em uma rolagem com Esperança."
     },
     {
       "id": "Tidekin",
@@ -105,7 +105,7 @@
     {
       "id": "Nimble Fingers",
       "name": "Dedos Ágeis",
-      "description": ""
+      "description": "Quando fizer um teste de Acuidade, você pode gastar 2 Ponto de Esperança para rolar novamente seu Dado de Esperança."
     }
   ]
 }
