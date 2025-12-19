@@ -1,0 +1,244 @@
+{
+  "daggerheart.consumables": {
+    "80s1FLmTLtohZ5GH": {
+      "__DOCUMENT_NAME__": "Poção do Controle Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção do Controle Maior.webp"
+    },
+    "8WkhvSzeOmLdnoLJ": {
+      "__DOCUMENT_NAME__": "Veneno de Presâmia",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Veneno de Presâmia.webp"
+    },
+    "AA7bmiwv00lshPrC": {
+      "__DOCUMENT_NAME__": "Fragmento Arcano Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fragmento Arcano Maior.webp"
+    },
+    "Aruc2NLutWuVIjP1": {
+      "__DOCUMENT_NAME__": "Poção de Vida",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção de Vida.webp"
+    },
+    "BqBWXXe9T07AMV4u": {
+      "__DOCUMENT_NAME__": "Veneno de Presâmia Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Veneno de Presâmia Aprimorado.webp"
+    },
+    "CCPFm5iXXwvyYYwR": {
+      "__DOCUMENT_NAME__": "Poção da Sintonia Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção da Sintonia Maior.webp"
+    },
+    "CVBbFfOY75YwyQsp": {
+      "__DOCUMENT_NAME__": "Poção do Charme",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção do Charme.webp"
+    },
+    "DpxEMpwfasEBpORU": {
+      "__DOCUMENT_NAME__": "Osso-pena",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Osso-pena.webp"
+    },
+    "EhaQCPJ8oiqpRIwB": {
+      "__DOCUMENT_NAME__": "Fogareiro da Esperança",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fogareiro da Esperança.webp"
+    },
+    "FOPQNqXbiVO0ilYL": {
+      "__DOCUMENT_NAME__": "Poção do Impulso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção do Impulso.webp"
+    },
+    "GrDrRqWgv7gvl9vn": {
+      "__DOCUMENT_NAME__": "Musgo Doce",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Musgo Doce.webp"
+    },
+    "HGixKenQwhyRAYNk": {
+      "__DOCUMENT_NAME__": "Poção do Encolhimento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção do Encolhimento.webp"
+    },
+    "I4cQ03xbxnc81EGa": {
+      "__DOCUMENT_NAME__": "Poção de Vigor Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção de Vigor Maior.webp"
+    },
+    "IJLAUlQymbSjzsri": {
+      "__DOCUMENT_NAME__": "Poção do Charme Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção do Charme Maior.webp"
+    },
+    "IKMVQ6VwtapwoUim": {
+      "__DOCUMENT_NAME__": "Pedra Canalizadora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pedra Canalizadora.webp"
+    },
+    "JGD3M9hBHtVAA8XP": {
+      "__DOCUMENT_NAME__": "Poção da Sintonia",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção da Sintonia.webp"
+    },
+    "Nvbb9mze6o5D0AEg": {
+      "__DOCUMENT_NAME__": "Unguento de Guelras",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Unguento de Guelras.webp"
+    },
+    "Nwv5ydGf0MWnzq1n": {
+      "__DOCUMENT_NAME__": "Frasco de Fumaça Negra",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Frasco de Fumaça Negra.webp"
+    },
+    "PfQvqopXgvroBklL": {
+      "__DOCUMENT_NAME__": "Mel da União",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mel da União.webp"
+    },
+    "RrIasiMCt6mqVTps": {
+      "__DOCUMENT_NAME__": "Semente da Ponte",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Semente da Ponte.webp"
+    },
+    "SDdv1G2veMLKrxcJ": {
+      "__DOCUMENT_NAME__": "Poção da Iluminação Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção da Iluminação Maior.webp"
+    },
+    "UFQVwgYOUZ88UxcH": {
+      "__DOCUMENT_NAME__": "Espelho Maravilha",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espelho Maravilha.webp"
+    },
+    "VSwa1LpQ9PjZKsWF": {
+      "__DOCUMENT_NAME__": "Poção Secreta de Homet",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção Secreta de Homet.webp"
+    },
+    "VlbsCjvvLNfTzNXb": {
+      "__DOCUMENT_NAME__": "Remendo de Armadura",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Remendo de Armadura.webp"
+    },
+    "VqEX5YwK5oL3r1t6": {
+      "__DOCUMENT_NAME__": "Frasco de Gota Lunar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Frasco de Gota Lunar.webp"
+    },
+    "XZavUVlHEvE2srEt": {
+      "__DOCUMENT_NAME__": "Seiva do Sono",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Seiva do Sono.webp"
+    },
+    "Zsh2AvZr8EkGtLyw": {
+      "__DOCUMENT_NAME__": "Pó Mítico",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pó Mítico.webp"
+    },
+    "aWHSO2AqDufi7nL4": {
+      "__DOCUMENT_NAME__": "Poção da Iluminação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção da Iluminação.webp"
+    },
+    "aX6NyxkNzu0LcJpt": {
+      "__DOCUMENT_NAME__": "Ceia de Xúria",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ceia de Xúria.webp"
+    },
+    "b6vGSPFWOlzZZDLO": {
+      "__DOCUMENT_NAME__": "Poção de Vigor Menor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção de Vigor Menor.webp"
+    },
+    "c2putn9apuurJhWX": {
+      "__DOCUMENT_NAME__": "Raiz da Cambalhota",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Raiz da Cambalhota.webp"
+    },
+    "cM7pHe8bBAxSZ2xR": {
+      "__DOCUMENT_NAME__": "Poção de Vida Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção de Vida Maior.webp"
+    },
+    "cfVFmS8vT9dbq9s1": {
+      "__DOCUMENT_NAME__": "Pasta Ácida",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pasta Ácida.webp"
+    },
+    "cg6VtQ0eVZjDdcK0": {
+      "__DOCUMENT_NAME__": "Pó do Estalo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pó do Estalo.webp"
+    },
+    "dvL8oaxpEF6jKvYN": {
+      "__DOCUMENT_NAME__": "Poção da Estabilidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção da Estabilidade.webp"
+    },
+    "eAXHdzA5qNPldOpn": {
+      "__DOCUMENT_NAME__": "Orbe Cegante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Orbe Cegante.webp"
+    },
+    "eU8VpbWB2NHIL47n": {
+      "__DOCUMENT_NAME__": "Veneno da Presa Gotejante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Veneno da Presa Gotejante.webp"
+    },
+    "eeBhZSGLjuNZuJuI": {
+      "__DOCUMENT_NAME__": "Poção do Controle",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção do Controle.webp"
+    },
+    "elsyP6VhHw1JjGSl": {
+      "__DOCUMENT_NAME__": "Círculo do Vazio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Círculo do Vazio.webp"
+    },
+    "f1NHVSIHJJCIOaBl": {
+      "__DOCUMENT_NAME__": "Molde de Argila",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Molde de Argila.webp"
+    },
+    "fl2f3ees8RFMze9t": {
+      "__DOCUMENT_NAME__": "Poção do Crescimento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção do Crescimento.webp"
+    },
+    "hf3k1POoVSooJyN2": {
+      "__DOCUMENT_NAME__": "Poção de Vigor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção de Vigor.webp"
+    },
+    "hvy5BkG3F6iOIXTx": {
+      "__DOCUMENT_NAME__": "Folhas de Varik",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Folhas de Varik.webp"
+    },
+    "kwexUzdM9wm1Qums": {
+      "__DOCUMENT_NAME__": "Seiva da Árvore do Sol",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Seiva da Árvore do Sol.webp"
+    },
+    "lNtcrkgFGOJNaroE": {
+      "__DOCUMENT_NAME__": "Poção da Velocidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção da Velocidade.webp"
+    },
+    "mUepnLbkvFk0ha4Z": {
+      "__DOCUMENT_NAME__": "Fragmento Arcano Instável",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fragmento Arcano Instável.webp"
+    },
+    "mnyQDRtngWWQeRXF": {
+      "__DOCUMENT_NAME__": "Poção do Impulso Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção do Impulso Maior.webp"
+    },
+    "n10vozlmosVR6lo4": {
+      "__DOCUMENT_NAME__": "Asas Mágicas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Asas Mágicas.webp"
+    },
+    "nL9IALzm9BNi5oSt": {
+      "__DOCUMENT_NAME__": "Pedra do Conhecimento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pedra do Conhecimento.webp"
+    },
+    "nQTo6mNoPTEVBtkm": {
+      "__DOCUMENT_NAME__": "Fragmento Arcano Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fragmento Arcano Aprimorado.webp"
+    },
+    "pDGzmczoTlKGmKgd": {
+      "__DOCUMENT_NAME__": "Sangue dos Yorgi",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sangue dos Yorgi.webp"
+    },
+    "qr1bosjFcUfuwq4B": {
+      "__DOCUMENT_NAME__": "Almíscar do Ogro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Almíscar do Ogro.webp"
+    },
+    "s2Exl2XFuoOhtIov": {
+      "__DOCUMENT_NAME__": "Saliva de Espinho-vermelho",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Saliva de Espinho-vermelho.webp"
+    },
+    "tPfKtKRRjv8qdSqy": {
+      "__DOCUMENT_NAME__": "Poção de Vida Menor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção de Vida Menor.webp"
+    },
+    "wM18PWWW2Ami4fBG": {
+      "__DOCUMENT_NAME__": "Chá de Erva-dragão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chá de Erva-dragão.webp"
+    },
+    "xDnJeF1grkmKck8Q": {
+      "__DOCUMENT_NAME__": "Chá da Morte",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chá da Morte.webp"
+    },
+    "y4c1jrlHrf0wBWOq": {
+      "__DOCUMENT_NAME__": "Gota Estelar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gota Estelar.webp"
+    },
+    "yJkwz4AP6yhGo8Vj": {
+      "__DOCUMENT_NAME__": "Pergaminho da Cópia",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pergaminho da Cópia.webp"
+    },
+    "yK6eEDUrsPbZA8G0": {
+      "__DOCUMENT_NAME__": "Poção da Velocidade Maior",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poção da Velocidade Maior.webp"
+    },
+    "yUol6M5b8jsbk9za": {
+      "__DOCUMENT_NAME__": "Jarra de Vozes Perdidas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Jarra de Vozes Perdidas.webp"
+    }
+  }
+}

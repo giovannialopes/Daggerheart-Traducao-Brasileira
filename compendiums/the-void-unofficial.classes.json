@@ -1,0 +1,193 @@
+{
+  "label": "Classes (The Void)",
+  "folders": {
+    "Class Features": "Características de Classe",
+    "Class Items": "Itens de Classe"
+  },
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "A Ring You Can't Remove",
+      "name": "Um Anel que Você Não Pode Remover",
+      "description": ""
+    },
+    {
+      "id": "Combo Strikes (D8)",
+      "name": "Golpes em Combo (D8)",
+      "description": ""
+    },
+    {
+      "id": "Hex",
+      "name": "Maldição",
+      "description": ""
+    },
+    {
+      "id": "Blood Hunter",
+      "name": "Caçador de Sangue",
+      "description": ""
+    },
+    {
+      "id": "Combo Strikes (D10)",
+      "name": "Golpes em Combo (D10)",
+      "description": ""
+    },
+    {
+      "id": "Marked for Death",
+      "name": "Marcado para a Morte",
+      "description": ""
+    },
+    {
+      "id": "Hand Wraps",
+      "name": "Bandagens para as Mãos",
+      "description": ""
+    },
+    {
+      "id": "Warlock",
+      "name": "Bruxo",
+      "description": ""
+    },
+    {
+      "id": "Combo Strikes (D4)",
+      "name": "Golpes em Combo (D4)",
+      "description": ""
+    },
+    {
+      "id": "Tiny Pet",
+      "name": "Animal de Estimação Pequeno",
+      "description": ""
+    },
+    {
+      "id": "Warlock Patron",
+      "name": "Patrono do Bruxo",
+      "description": ""
+    },
+    {
+      "id": "Commune",
+      "name": "Comunhão",
+      "description": ""
+    },
+    {
+      "id": "Brawler",
+      "name": "Brigão",
+      "description": ""
+    },
+    {
+      "id": "Steel Needle",
+      "name": "Agulha de Aço",
+      "description": ""
+    },
+    {
+      "id": "Grim Psychometry",
+      "name": "Psicometria Sombria",
+      "description": ""
+    },
+    {
+      "id": "Get In & Get Out",
+      "name": "Entrar e Sair",
+      "description": ""
+    },
+    {
+      "id": "A List of Names with Several Marked Off",
+      "name": "Uma Lista de Nomes com Vários Marcados",
+      "description": ""
+    },
+    {
+      "id": "Patron's Boon",
+      "name": "Benção do Patrono",
+      "description": ""
+    },
+    {
+      "id": "Blood Maledict",
+      "name": "Maldição de Sangue",
+      "description": ""
+    },
+    {
+      "id": "50ft of Rope",
+      "name": "15m de Corda",
+      "description": ""
+    },
+    {
+      "id": "Combo Strikes (D6)",
+      "name": "Golpes em Combo (D6)",
+      "description": ""
+    },
+    {
+      "id": "Vial Holding a Foe's Blood",
+      "name": "Frasco Contendo o Sangue de um Inimigo",
+      "description": ""
+    },
+    {
+      "id": "I Am the Weapon",
+      "name": "Eu Sou a Arma",
+      "description": ""
+    },
+    {
+      "id": "Crimson Rite",
+      "name": "Rito Carmesim",
+      "description": ""
+    },
+    {
+      "id": "Witch",
+      "name": "Bruxa",
+      "description": ""
+    },
+    {
+      "id": "Mortar and Pestle Inscribed With a Mysterious Insignia",
+      "name": "Pilão e Argamassa Inscritos com um Insígnia Misteriosa",
+      "description": ""
+    },
+    {
+      "id": "Book about a Hobby",
+      "name": "Livro sobre um Hobby",
+      "description": ""
+    },
+    {
+      "id": "A Carving That Symbolizes Your Patron",
+      "name": "Uma Escultura que Simboliza Seu Patrono",
+      "description": ""
+    },
+    {
+      "id": "Witch's Charm",
+      "name": "Amuleto da Bruxa",
+      "description": ""
+    },
+    {
+      "id": "Staggering Strike",
+      "name": "Golpe Atordoante",
+      "description": ""
+    },
+    {
+      "id": "Basic Supplies",
+      "name": "Suprimentos Básicos",
+      "description": ""
+    },
+    {
+      "id": "Assassin",
+      "name": "Assassino",
+      "description": ""
+    },
+    {
+      "id": "Favor",
+      "name": "Favor",
+      "description": ""
+    },
+    {
+      "id": "Talking Skull",
+      "name": "Crânio Falante",
+      "description": ""
+    },
+    {
+      "id": "Grim Resolve",
+      "name": "Resolução Sombria",
+      "description": ""
+    },
+    {
+      "id": "Torch",
+      "name": "Tocha",
+      "description": ""
+    }
+  ]
+}
+

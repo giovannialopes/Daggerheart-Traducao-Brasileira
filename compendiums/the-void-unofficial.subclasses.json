@@ -1,0 +1,470 @@
+{
+  "label": "Subclasses (The Void)",
+  "folders": {
+    "Foundation Features": "Fundamental",
+    "Specialization Features": "Especialização",
+    "Mastery Features": "Maestria",
+    "Subclass Features": "Características de Subclasse"
+  },
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Stance - Compounding",
+      "name": "Postura - Acumulativa",
+      "description": ""
+    },
+    {
+      "id": "Moonbeam",
+      "name": "Raio Lunar",
+      "description": ""
+    },
+    {
+      "id": "Not Done Yet",
+      "name": "Ainda Não Terminado",
+      "description": ""
+    },
+    {
+      "id": "Order of the Lycan",
+      "name": "Ordem do Licano",
+      "description": ""
+    },
+    {
+      "id": "Dark Aegis",
+      "name": "Égide Sombria",
+      "description": ""
+    },
+    {
+      "id": "Patron's Mantle",
+      "name": "Manto do Patrono",
+      "description": ""
+    },
+    {
+      "id": "Poison Compendium",
+      "name": "Compêndio de Venenos",
+      "description": ""
+    },
+    {
+      "id": "Order of the Mutant",
+      "name": "Ordem do Mutante",
+      "description": ""
+    },
+    {
+      "id": "Stance - Nimble",
+      "name": "Postura - Ágil",
+      "description": ""
+    },
+    {
+      "id": "Divine Ire",
+      "name": "Ira Divina",
+      "description": ""
+    },
+    {
+      "id": "Stance - Devastating",
+      "name": "Postura - Devastadora",
+      "description": ""
+    },
+    {
+      "id": "Shadowed Grit",
+      "name": "Determinação Sombria",
+      "description": ""
+    },
+    {
+      "id": "Overwhelm",
+      "name": "Sobrecarregar",
+      "description": ""
+    },
+    {
+      "id": "Stance - Deadly",
+      "name": "Postura - Mortal",
+      "description": ""
+    },
+    {
+      "id": "Spirit Blast",
+      "name": "Explosão Espiritual",
+      "description": ""
+    },
+    {
+      "id": "Diminish My Foes",
+      "name": "Diminuir Meus Inimigos",
+      "description": ""
+    },
+    {
+      "id": "Eye for an Eye",
+      "name": "Olho por Olho",
+      "description": ""
+    },
+    {
+      "id": "Backstab",
+      "name": "Golpe pelas Costas",
+      "description": ""
+    },
+    {
+      "id": "Stance - Immovable",
+      "name": "Postura - Imóvel",
+      "description": ""
+    },
+    {
+      "id": "Stance - Steady",
+      "name": "Postura - Firme",
+      "description": ""
+    },
+    {
+      "id": "Stance - Discerning",
+      "name": "Postura - Discernente",
+      "description": ""
+    },
+    {
+      "id": "Stance - Deflecting",
+      "name": "Postura - Defletora",
+      "description": ""
+    },
+    {
+      "id": "Scorpion's Poise",
+      "name": "Postura do Escorpião",
+      "description": ""
+    },
+    {
+      "id": "Lycan Regeneration",
+      "name": "Regeneração Licana",
+      "description": ""
+    },
+    {
+      "id": "Master the Beast",
+      "name": "Dominar a Fera",
+      "description": ""
+    },
+    {
+      "id": "Stance - Inexorable",
+      "name": "Postura - Inexorável",
+      "description": ""
+    },
+    {
+      "id": "Draining Invoaction",
+      "name": "Invocação Drenante",
+      "description": ""
+    },
+    {
+      "id": "Werewolf",
+      "name": "Lobisomem",
+      "description": ""
+    },
+    {
+      "id": "Executioner's Guild",
+      "name": "Guilda do Carrasco",
+      "description": ""
+    },
+    {
+      "id": "Improved Mutagens",
+      "name": "Mutagênicos Aprimorados",
+      "description": ""
+    },
+    {
+      "id": "Focus",
+      "name": "Foco",
+      "description": ""
+    },
+    {
+      "id": "Stance - Quick",
+      "name": "Postura - Rápida",
+      "description": ""
+    },
+    {
+      "id": "Stance - Brutal",
+      "name": "Postura - Brutal",
+      "description": ""
+    },
+    {
+      "id": "Lunar Phases",
+      "name": "Fases Lunares",
+      "description": ""
+    },
+    {
+      "id": "First Strike",
+      "name": "Primeiro Golpe",
+      "description": ""
+    },
+    {
+      "id": "Moon",
+      "name": "Lua",
+      "description": ""
+    },
+    {
+      "id": "Toxic Concoctions",
+      "name": "Misturas Tóxicas",
+      "description": ""
+    },
+    {
+      "id": "True Strike",
+      "name": "Golpe Verdadeiro",
+      "description": ""
+    },
+    {
+      "id": "Envenomate",
+      "name": "Envenenar",
+      "description": ""
+    },
+    {
+      "id": "Stance - Hindering",
+      "name": "Postura - Obstrutora",
+      "description": ""
+    },
+    {
+      "id": "Martial Form",
+      "name": "Forma Marcial",
+      "description": ""
+    },
+    {
+      "id": "Stance - Infuriating",
+      "name": "Postura - Enfurecedora",
+      "description": ""
+    },
+    {
+      "id": "Limit Breaker",
+      "name": "Quebrador de Limites",
+      "description": ""
+    },
+    {
+      "id": "Tethered Talisman",
+      "name": "Talismã Atado",
+      "description": ""
+    },
+    {
+      "id": "Venomancer",
+      "name": "Venomaníaco",
+      "description": ""
+    },
+    {
+      "id": "Stance - Dueling",
+      "name": "Postura - Duelo",
+      "description": ""
+    },
+    {
+      "id": "Martial Artist",
+      "name": "Artista Marcial",
+      "description": ""
+    },
+    {
+      "id": "Adder's Blessing",
+      "name": "Bênção da Víbor",
+      "description": ""
+    },
+    {
+      "id": "Stance - Favored",
+      "name": "Postura - Favorecida",
+      "description": ""
+    },
+    {
+      "id": "Control the Beast",
+      "name": "Controlar a Fera",
+      "description": ""
+    },
+    {
+      "id": "Veilwalker",
+      "name": "Caminhante do Véu",
+      "description": ""
+    },
+    {
+      "id": "Spectral Form",
+      "name": "Forma Espectral",
+      "description": ""
+    },
+    {
+      "id": "Feral Hide",
+      "name": "Pele Selvagem",
+      "description": ""
+    },
+    {
+      "id": "Stance - Defensive",
+      "name": "Postura - Defensiva",
+      "description": ""
+    },
+    {
+      "id": "Pact of the Wrathful",
+      "name": "Pacto dos Irados",
+      "description": ""
+    },
+    {
+      "id": "Stance - Otherworldly",
+      "name": "Postura - Sobrenatural",
+      "description": ""
+    },
+    {
+      "id": "Rugged",
+      "name": "Robusto",
+      "description": ""
+    },
+    {
+      "id": "Menacing Reach",
+      "name": "Alcance Ameaçador",
+      "description": ""
+    },
+    {
+      "id": "Keen Defenses",
+      "name": "Defesas Aguçadas",
+      "description": ""
+    },
+    {
+      "id": "Twin Fang",
+      "name": "Presas Gêmeas",
+      "description": ""
+    },
+    {
+      "id": "Stance - Precise",
+      "name": "Postura - Precisa",
+      "description": ""
+    },
+    {
+      "id": "Favored Weapon",
+      "name": "Arma Favorecida",
+      "description": ""
+    },
+    {
+      "id": "Mutagens",
+      "name": "Mutagênicos",
+      "description": ""
+    },
+    {
+      "id": "Chasing Death",
+      "name": "Perseguindo a Morte",
+      "description": ""
+    },
+    {
+      "id": "Stance - Sheltering",
+      "name": "Postura - Protetora",
+      "description": ""
+    },
+    {
+      "id": "Stance - Invigorating",
+      "name": "Postura - Revigorante",
+      "description": ""
+    },
+    {
+      "id": "Stance - Crushing",
+      "name": "Postura - Esmagadora",
+      "description": ""
+    },
+    {
+      "id": "Volatile Toxins",
+      "name": "Toxinas Voláteis",
+      "description": ""
+    },
+    {
+      "id": "Walk Between Worlds",
+      "name": "Caminhar Entre Mundos",
+      "description": ""
+    },
+    {
+      "id": "Death Strike",
+      "name": "Golpe da Morte",
+      "description": ""
+    },
+    {
+      "id": "Stance - Scary",
+      "name": "Postura - Assustadora",
+      "description": ""
+    },
+    {
+      "id": "Draining Bane",
+      "name": "Maldição Drenante",
+      "description": ""
+    },
+    {
+      "id": "Herbal Remedies",
+      "name": "Remédios Herbais",
+      "description": ""
+    },
+    {
+      "id": "Stance - Grappling",
+      "name": "Postura - Agarrante",
+      "description": ""
+    },
+    {
+      "id": "Hedge",
+      "name": "Cerca Viva",
+      "description": ""
+    },
+    {
+      "id": "Juggernaut",
+      "name": "Juggernaut",
+      "description": ""
+    },
+    {
+      "id": "Poisoner's Guild",
+      "name": "Guilda dos Envenenadores",
+      "description": ""
+    },
+    {
+      "id": "Circle of Power",
+      "name": "Círculo de Poder",
+      "description": ""
+    },
+    {
+      "id": "Deadly Devotion",
+      "name": "Devoção Mortal",
+      "description": ""
+    },
+    {
+      "id": "Mastered Mutagens",
+      "name": "Mutagênicos Dominados",
+      "description": ""
+    },
+    {
+      "id": "Fearsome Attack",
+      "name": "Ataque Temível",
+      "description": ""
+    },
+    {
+      "id": "Enhanced Hex",
+      "name": "Maldição Aprimorada",
+      "description": ""
+    },
+    {
+      "id": "Ambush",
+      "name": "Emboscada",
+      "description": ""
+    },
+    {
+      "id": "Night's Glamour",
+      "name": "Glamour da Noite",
+      "description": ""
+    },
+    {
+      "id": "Pummeljoy",
+      "name": "Pummeljoy",
+      "description": ""
+    },
+    {
+      "id": "Ire of Pale Light",
+      "name": "Ira da Luz Pálida",
+      "description": ""
+    },
+    {
+      "id": "Stance - Sweeping",
+      "name": "Postura - Varredora",
+      "description": ""
+    },
+    {
+      "id": "Herald of Death",
+      "name": "Arauto da Morte",
+      "description": ""
+    },
+    {
+      "id": "Pact of the Endless",
+      "name": "Pacto do Infinito",
+      "description": ""
+    },
+    {
+      "id": "Powerhouse",
+      "name": "Usina de Poder",
+      "description": ""
+    },
+    {
+      "id": "Order of the Ghost Slayer",
+      "name": "Ordem do Caçador de Fantasmas",
+      "description": ""
+    }
+  ]
+}
+

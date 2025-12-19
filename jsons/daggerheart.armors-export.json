@@ -1,0 +1,144 @@
+{
+  "daggerheart.armors": {
+    "7emTSt6nhZuTlvt5": {
+      "__DOCUMENT_NAME__": "Armadura Fortificada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Fortificada.webp"
+    },
+    "8X16lJQ3xltTwynm": {
+      "__DOCUMENT_NAME__": "Cota de Malha Salvadora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cota de Malha Salvadora.webp"
+    },
+    "9f7RozpPTqrzJS1m": {
+      "__DOCUMENT_NAME__": "Armadura de Placas Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Placas Aprimorada.webp"
+    },
+    "AQzU2RsqS5V5bd1v": {
+      "__DOCUMENT_NAME__": "Capa de Monett",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Capa de Monett.webp"
+    },
+    "EsIN5OLKe9ZYFNXZ": {
+      "__DOCUMENT_NAME__": "Cota de Malha Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cota de Malha Lendária.webp"
+    },
+    "ITAjcigTcUw5pMCN": {
+      "__DOCUMENT_NAME__": "Armadura Corporal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Corporal.webp"
+    },
+    "K5WkjS0NGqHYmhU3": {
+      "__DOCUMENT_NAME__": "Cota de Malha Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cota de Malha Aprimorada.webp"
+    },
+    "LzLOJ9EVaHWAjoq9": {
+      "__DOCUMENT_NAME__": "Cota de Malha Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cota de Malha Avançada.webp"
+    },
+    "OvzgUTYy2RCN85vV": {
+      "__DOCUMENT_NAME__": "Armadura de Opala da Verdade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Opala da Verdade.webp"
+    },
+    "P4qAEDJUoNLgVRsA": {
+      "__DOCUMENT_NAME__": "Runas da Fortificação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Runas da Fortificação.webp"
+    },
+    "PSW3BxCGmtLeWOxM": {
+      "__DOCUMENT_NAME__": "Armadura Graciosa de Tyris",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Graciosa de Tyris.webp"
+    },
+    "Q6LxmtFetDDkoZVZ": {
+      "__DOCUMENT_NAME__": "Cota de Malha Elundriana",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cota de Malha Elundriana.webp"
+    },
+    "QjwsIhXKqnlvRBMv": {
+      "__DOCUMENT_NAME__": "Armadura de Placas com Espinhos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Placas com Espinhos.webp"
+    },
+    "SXWjUR2aUR6bYvdl": {
+      "__DOCUMENT_NAME__": "Armadura de Placas Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Placas Lendária.webp"
+    },
+    "Tptgl5WOj76TyFn7": {
+      "__DOCUMENT_NAME__": "Armadura de Couro Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Couro Lendária.webp"
+    },
+    "UdUJNa31WxFW2noa": {
+      "__DOCUMENT_NAME__": "Armadura de Placas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Placas.webp"
+    },
+    "WuoVwZA53XRAIt6d": {
+      "__DOCUMENT_NAME__": "Armadura de Bellamoi",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Bellamoi.webp"
+    },
+    "bcQUh4QG3qFX0Vx6": {
+      "__DOCUMENT_NAME__": "Armadura de Tecido Âmbar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Tecido Âmbar.webp"
+    },
+    "c6tMXz4rPf9ioQrf": {
+      "__DOCUMENT_NAME__": "Gibão Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gibão Lendário.webp"
+    },
+    "crIbCb9NZ4K0VpoU": {
+      "__DOCUMENT_NAME__": "Armadura de Placas Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Placas Avançada.webp"
+    },
+    "dvyQeUVRLc9y6rnt": {
+      "__DOCUMENT_NAME__": "Armadura do Tormento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura do Tormento.webp"
+    },
+    "epkAmlZVk7HOfUUT": {
+      "__DOCUMENT_NAME__": "Gibão Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gibão Avançado.webp"
+    },
+    "hAY6UgdGT7dj22Pr": {
+      "__DOCUMENT_NAME__": "Cota de Seda de Dunamis",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cota de Seda de Dunamis.webp"
+    },
+    "haULhuEg37zUUvhb": {
+      "__DOCUMENT_NAME__": "Cota de Malha",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cota de Malha.webp"
+    },
+    "itSOp2GCyem0f7oM": {
+      "__DOCUMENT_NAME__": "Armadura de Couro Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Couro Avançada.webp"
+    },
+    "jphnMZjnS2FkOH3s": {
+      "__DOCUMENT_NAME__": "Gibão Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gibão Aprimorado.webp"
+    },
+    "mNN6pvcsS10ChrWF": {
+      "__DOCUMENT_NAME__": "Armadura Concreta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Concreta.webp"
+    },
+    "mdQ69eFHyAQUDmE7": {
+      "__DOCUMENT_NAME__": "Armadura de Escamas de Dragão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Escamas de Dragão.webp"
+    },
+    "nibfdNtp2PtxvbVz": {
+      "__DOCUMENT_NAME__": "Armadura de Couro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Couro.webp"
+    },
+    "t91M61pSCMKStTNt": {
+      "__DOCUMENT_NAME__": "Armadura de Couro Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Couro Aprimorada.webp"
+    },
+    "tHlBUDQC24YMZqd6": {
+      "__DOCUMENT_NAME__": "Armadura Flutuante de Runetan",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Flutuante de Runetan.webp"
+    },
+    "tN8kAeBvNKM3EBFo": {
+      "__DOCUMENT_NAME__": "Armadura de Rosamata",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura de Rosamata.webp"
+    },
+    "tzZntboNtHL5C6VM": {
+      "__DOCUMENT_NAME__": "Peitoral de Placas de Pau-Ferro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Peitoral de Placas de Pau-Ferro.webp"
+    },
+    "vMJxEWz1srfwMsoj": {
+      "__DOCUMENT_NAME__": "Armadura da Canalização",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura da Canalização.webp"
+    },
+    "yJFp1bfpecDcStVK": {
+      "__DOCUMENT_NAME__": "Gibão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gibão.webp"
+    }
+  }
+}

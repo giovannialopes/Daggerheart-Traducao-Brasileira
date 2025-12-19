@@ -1,0 +1,115 @@
+{
+  "label": "Adversários e Ambientes (The Void)",
+  "folders": {},
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Owl Witch",
+      "name": "Bruxa Coruja",
+      "description": ""
+    },
+    {
+      "id": "Hallowed Choir",
+      "name": "Coro Sagrado",
+      "description": ""
+    },
+    {
+      "id": "Dragon Knight",
+      "name": "Cavaleiro Dragão",
+      "description": ""
+    },
+    {
+      "id": "Rabble Mawb",
+      "name": "Mawb da Ralé",
+      "description": ""
+    },
+    {
+      "id": "Gargoyle",
+      "name": "Gárgula",
+      "description": ""
+    },
+    {
+      "id": "Convergence, The City Of Portals",
+      "name": "Convergência, A Cidade dos Portais",
+      "description": ""
+    },
+    {
+      "id": "Chimera",
+      "name": "Quimera",
+      "description": ""
+    },
+    {
+      "id": "Doppelhünd",
+      "name": "Doppelhünd",
+      "description": ""
+    },
+    {
+      "id": "Enraged Mountain Troll - Evolution",
+      "name": "Troll da Montanha Enfurecido - Evolução",
+      "description": ""
+    },
+    {
+      "id": "Whisper Wraith",
+      "name": "Espectro Sussurrante",
+      "description": ""
+    },
+    {
+      "id": "Lamplight Beguiler",
+      "name": "Sedutor da Luz da Lanterna",
+      "description": ""
+    },
+    {
+      "id": "Grand Feast",
+      "name": "Grande Festim",
+      "description": ""
+    },
+    {
+      "id": "Xero, Castle Killer",
+      "name": "Xero, Assassino de Castelos",
+      "description": ""
+    },
+    {
+      "id": "Crystal Wasteland",
+      "name": "Deserto de Cristal",
+      "description": ""
+    },
+    {
+      "id": "Cephilith Priest",
+      "name": "Sacerdote Cefilita",
+      "description": ""
+    },
+    {
+      "id": "Redcap Candlemaker",
+      "name": "Fabricante de Velas de Barrete Vermelho",
+      "description": ""
+    },
+    {
+      "id": "Gobstalker",
+      "name": "Perseguidor de Goblins",
+      "description": ""
+    },
+    {
+      "id": "Redcap Butcher",
+      "name": "Açougueiro de Barrete Vermelho",
+      "description": ""
+    },
+    {
+      "id": "Mountain Troll",
+      "name": "Troll da Montanha",
+      "description": ""
+    },
+    {
+      "id": "Heist",
+      "name": "Assalto",
+      "description": ""
+    },
+    {
+      "id": "Fellmounted Shadow King",
+      "name": "Rei das Sombras Montado no Mal",
+      "description": ""
+    }
+  ]
+}
+

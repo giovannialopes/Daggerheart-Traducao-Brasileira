@@ -1,0 +1,224 @@
+{
+  "daggerheart.classes": {
+    "2Cyb9ZeuAesf5Sb3": {
+      "__DOCUMENT_NAME__": "Segurem Eles",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Segurem Eles.webp"
+    },
+    "3hNVqD1c0VIw2Nj5": {
+      "__DOCUMENT_NAME__": "Ataque de Oportunidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ataque de Oportunidade.webp"
+    },
+    "5IT8wYa0m1EFw8Zp": {
+      "__DOCUMENT_NAME__": "Oculto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Oculto.webp"
+    },
+    "5LwX4m8ziY3F1ZGC": {
+      "__DOCUMENT_NAME__": "Mago",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mago.webp"
+    },
+    "5QqpEwmwkPfZHpMW": {
+      "__DOCUMENT_NAME__": "Ataque Furtivo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ataque Furtivo.webp"
+    },
+    "5ZnlJ5bEoyOTkUJv": {
+      "__DOCUMENT_NAME__": "Serafim",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Serafim.webp"
+    },
+    "6YsfFjmCGuFYVhT4": {
+      "__DOCUMENT_NAME__": "Padrões Estranhos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Padrões Estranhos.webp"
+    },
+    "6rlxhrRwFaVgq9fe": {
+      "__DOCUMENT_NAME__": "Evolução",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Evolução.webp"
+    },
+    "8k76EgktQXFWHf8r": {
+      "__DOCUMENT_NAME__": "Bússola Quebrada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bússola Quebrada.webp"
+    },
+    "9AM1YsPeuWSysdDo": {
+      "__DOCUMENT_NAME__": "Orbe Sussurrante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Orbe Sussurrante.webp"
+    },
+    "BTyfve69LKqoOi9S": {
+      "__DOCUMENT_NAME__": "Caçador",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Caçador.webp"
+    },
+    "Bvr6wjf44EvCdidC": {
+      "__DOCUMENT_NAME__": "Livro de Romance",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Romance.webp"
+    },
+    "CHK32dfCTTyuxV1A": {
+      "__DOCUMENT_NAME__": "Sentido Arcano",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sentido Arcano.webp"
+    },
+    "CvHlkHZfpMiCz5uT": {
+      "__DOCUMENT_NAME__": "Ladino",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ladino.webp"
+    },
+    "DchOzHcWIJE9FKcR": {
+      "__DOCUMENT_NAME__": "Feiticeiro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Feiticeiro.webp"
+    },
+    "J1c708r5L9TYckER": {
+      "__DOCUMENT_NAME__": "Arpéu",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arpéu.webp"
+    },
+    "KuPuEAbUK4VKpS2O": {
+      "__DOCUMENT_NAME__": "Desenho de Alguém que Ama",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Desenho de Alguém que Ama.webp"
+    },
+    "LoQH7wpfyKsuMJ5l": {
+      "__DOCUMENT_NAME__": "Pedra de Amolar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pedra de Amolar.webp"
+    },
+    "LriTeh9hkwzEaCr1": {
+      "__DOCUMENT_NAME__": "Strange Dirty Pendant",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Strange Dirty Pendant.webp"
+    },
+    "N9E5skDDK2VgvohR": {
+      "__DOCUMENT_NAME__": "Fazer uma Cena",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fazer uma Cena.webp"
+    },
+    "P02cbN50LIoD662z": {
+      "__DOCUMENT_NAME__": "Canalizar Poder Bruto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Canalizar Poder Bruto.webp"
+    },
+    "P1K0jcnH2RiS6TLd": {
+      "__DOCUMENT_NAME__": "Forma de Fera",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Forma de Fera.webp"
+    },
+    "PnD2UCgzIlwX6cY3": {
+      "__DOCUMENT_NAME__": "Determinação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Determinação.webp"
+    },
+    "PydiMnNCKpd44SGS": {
+      "__DOCUMENT_NAME__": "Inspiração",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Inspiração.webp"
+    },
+    "SG2uw8h5YuwDviCn": {
+      "__DOCUMENT_NAME__": "Prestidigitação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Prestidigitação.webp"
+    },
+    "TVeEyqmPPiRa2r3i": {
+      "__DOCUMENT_NAME__": "Inspiração (Nível 5)",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Inspiração (Nível 5).webp"
+    },
+    "UUp0YGFj7E4x7Z6Z": {
+      "__DOCUMENT_NAME__": "Pequeno e Inofensivo Elemental de Estimação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pequeno e Inofensivo Elemental de Estimação.webp"
+    },
+    "VVvIPx1cduyAb8jr": {
+      "__DOCUMENT_NAME__": "Chave Secreta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chave Secreta.webp"
+    },
+    "XGWVVkHlVrF5fGm6": {
+      "__DOCUMENT_NAME__": "Carta (Nunca Aberta)",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Carta (Nunca Aberta).webp"
+    },
+    "Xd7RYhfTxIj9aWI2": {
+      "__DOCUMENT_NAME__": "Dados de Oração",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dados de Oração.webp"
+    },
+    "YS1g7YdWwOaS629x": {
+      "__DOCUMENT_NAME__": "Linha de Frente",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Linha de Frente.webp"
+    },
+    "Yum0uBtnEtTBcpax": {
+      "__DOCUMENT_NAME__": "Herança de Família",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Herança de Família.webp"
+    },
+    "ZNwUTCyGCEcidZFv": {
+      "__DOCUMENT_NAME__": "Druida",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Druida.webp"
+    },
+    "aLvek22hb5kNg9MF": {
+      "__DOCUMENT_NAME__": "Algumas Oferendas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Algumas Oferendas.webp"
+    },
+    "cshTYdtz9yoXYYB3": {
+      "__DOCUMENT_NAME__": "Ilusão Menor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ilusão Menor.webp"
+    },
+    "d3VdAtW65oO8j14Y": {
+      "__DOCUMENT_NAME__": "Totem de Seu Mentor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Totem de Seu Mentor.webp"
+    },
+    "eoSmuAJmgHUyULtp": {
+      "__DOCUMENT_NAME__": "Treinamento de Combate",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Treinamento de Combate.webp"
+    },
+    "eslejbiZRH6ODh9U": {
+      "__DOCUMENT_NAME__": "Troféu do Seu Primeiro Abate",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Troféu do Seu Primeiro Abate.webp"
+    },
+    "fhg3NK99tcgYQxdY": {
+      "__DOCUMENT_NAME__": "Livro que Você Está Tentando Traduzir",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro que Você Está Tentando Traduzir.webp"
+    },
+    "fqSdfUYUK9QUcVE4": {
+      "__DOCUMENT_NAME__": "Dádiva da Natureza",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dádiva da Natureza.webp"
+    },
+    "h3VE0jhcM5xHKBs4": {
+      "__DOCUMENT_NAME__": "Não Dessa Vez",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Não Dessa Vez.webp"
+    },
+    "hMST9iizQP1yz0MG": {
+      "__DOCUMENT_NAME__": "15 metros de Corda",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/15 metros de Corda.webp"
+    },
+    "hVaaPIjxoextIgSL": {
+      "__DOCUMENT_NAME__": "Esquiva de Ladino",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Esquiva de Ladino.webp"
+    },
+    "ieiQlD0joWSqt53D": {
+      "__DOCUMENT_NAME__": "Magia Volátil",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Magia Volátil.webp"
+    },
+    "lSlvSUHbOoX36q2j": {
+      "__DOCUMENT_NAME__": "Alicerce da Vida",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Alicerce da Vida.webp"
+    },
+    "nRAyoC0fOzXPDa4z": {
+      "__DOCUMENT_NAME__": "Guardião",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Guardião.webp"
+    },
+    "ncLx2P8BOUtrAD38": {
+      "__DOCUMENT_NAME__": "Marca da Presa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Marca da Presa.webp"
+    },
+    "njj2C3tMDeCHHOoh": {
+      "__DOCUMENT_NAME__": "Sem Piedade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sem Piedade.webp"
+    },
+    "o3G6szWvPoz7fo6T": {
+      "__DOCUMENT_NAME__": "Símbolo de Seu Deus",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Símbolo de Seu Deus.webp"
+    },
+    "todlyATSZzLPTqnU": {
+      "__DOCUMENT_NAME__": "Pequena Bolsa com Ossos e Pedras",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pequena Bolsa com Ossos e Pedras.webp"
+    },
+    "uoG5iq09mxJPXfmk": {
+      "__DOCUMENT_NAME__": "Suprimentos Básicos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Suprimentos Básicos.webp"
+    },
+    "vegl3bFOq3pcFTWT": {
+      "__DOCUMENT_NAME__": "Bardo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bardo.webp"
+    },
+    "xCUWwJz4WSthvLfy": {
+      "__DOCUMENT_NAME__": "Guerreiro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Guerreiro.webp"
+    },
+    "yqoO5aqDd4aD13pc": {
+      "__DOCUMENT_NAME__": "Conjunto de Ferramentas de Falsificação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Conjunto de Ferramentas de Falsificação.webp"
+    },
+    "zqeXrJTd1geX73Pw": {
+      "__DOCUMENT_NAME__": "Tocha",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Tocha.webp"
+    }
+  }
+}

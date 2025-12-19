@@ -1,0 +1,231 @@
+{
+  "label": "Domínios (The Void)",
+  "folders": {
+    "Level 1": "Nível 1",
+    "Level 2": "Nível 2",
+    "Level 3": "Nível 3",
+    "Level 4": "Nível 4",
+    "Level 5": "Nível 5",
+    "Level 6": "Nível 6",
+    "Level 7": "Nível 7",
+    "Level 8": "Nível 8",
+    "Level 9": "Nível 9",
+    "Level 10": "Nível 10"
+  },
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Sanguine Feast",
+      "name": "Festim Sanguíneo",
+      "description": ""
+    },
+    {
+      "id": "Vampiric Strike",
+      "name": "Golpe Vampírico",
+      "description": ""
+    },
+    {
+      "id": "Dire Strike",
+      "name": "Golpe Terrível",
+      "description": ""
+    },
+    {
+      "id": "Lifeblood Talisman",
+      "name": "Talismã do Sangue Vital",
+      "description": ""
+    },
+    {
+      "id": "Voice of Dread",
+      "name": "Voz do Pavor",
+      "description": ""
+    },
+    {
+      "id": "Hideous Retribution",
+      "name": "Retribuição Hedionda",
+      "description": ""
+    },
+    {
+      "id": "Blood Spike",
+      "name": "Espinho de Sangue",
+      "description": ""
+    },
+    {
+      "id": "Chains of Affliction",
+      "name": "Correntes da Aflição",
+      "description": ""
+    },
+    {
+      "id": "Vitality Manipulation",
+      "name": "Manipulação da Vitalidade",
+      "description": ""
+    },
+    {
+      "id": "Blood Puppet",
+      "name": "Marionete de Sangue",
+      "description": ""
+    },
+    {
+      "id": "Blighting Strike",
+      "name": "Golpe Destrutivo",
+      "description": ""
+    },
+    {
+      "id": "Blood-Touched",
+      "name": "Tocado pelo Sangue",
+      "description": ""
+    },
+    {
+      "id": "Brand of Castigation",
+      "name": "Marca da Castigação",
+      "description": ""
+    },
+    {
+      "id": "Parasite Of The Will",
+      "name": "Parasita da Vontade",
+      "description": ""
+    },
+    {
+      "id": "Siphon Essence",
+      "name": "Sifão de Essência",
+      "description": ""
+    },
+    {
+      "id": "Grisly Harpoon",
+      "name": "Arpão Macabro",
+      "description": ""
+    },
+    {
+      "id": "Avatar of Terror",
+      "name": "Avatar do Terror",
+      "description": ""
+    },
+    {
+      "id": "Umbra Veil",
+      "name": "Véu da Umbra",
+      "description": ""
+    },
+    {
+      "id": "Darkfire",
+      "name": "Fogo Sombrio",
+      "description": ""
+    },
+    {
+      "id": "Invoke Torment",
+      "name": "Invocar Tormento",
+      "description": ""
+    },
+    {
+      "id": "Mutual Suffering",
+      "name": "Sofrimento Mútuo",
+      "description": ""
+    },
+    {
+      "id": "Terrify",
+      "name": "Aterrorizar",
+      "description": ""
+    },
+    {
+      "id": "Shared Trauma",
+      "name": "Trauma Compartilhado",
+      "description": ""
+    },
+    {
+      "id": "Blood Bind",
+      "name": "Vínculo de Sangue",
+      "description": ""
+    },
+    {
+      "id": "Vital Ward",
+      "name": "Proteção Vital",
+      "description": ""
+    },
+    {
+      "id": "Crimson Adamance",
+      "name": "Firmeza Carmesim",
+      "description": ""
+    },
+    {
+      "id": "Dark Army",
+      "name": "Exército Sombrio",
+      "description": ""
+    },
+    {
+      "id": "Wailing Leap",
+      "name": "Salto Lamentoso",
+      "description": ""
+    },
+    {
+      "id": "Summon Horror",
+      "name": "Invocar Horror",
+      "description": ""
+    },
+    {
+      "id": "Damnation",
+      "name": "Danação",
+      "description": ""
+    },
+    {
+      "id": "Life Leash",
+      "name": "Rédea da Vida",
+      "description": ""
+    },
+    {
+      "id": "Spectral Mist",
+      "name": "Névoa Espectral",
+      "description": ""
+    },
+    {
+      "id": "Weave The Flesh",
+      "name": "Tecer a Carne",
+      "description": ""
+    },
+    {
+      "id": "Runic Adrenaline",
+      "name": "Adrenalina Rúnica",
+      "description": ""
+    },
+    {
+      "id": "Bloodbath",
+      "name": "Banho de Sangue",
+      "description": ""
+    },
+    {
+      "id": "Dread-Touched",
+      "name": "Tocado pelo Pavor",
+      "description": ""
+    },
+    {
+      "id": "Wall of Hunger",
+      "name": "Muralha da Fome",
+      "description": ""
+    },
+    {
+      "id": "Power Through Pain",
+      "name": "Poder Através da Dor",
+      "description": ""
+    },
+    {
+      "id": "Savor the Anguish",
+      "name": "Saborear a Angústia",
+      "description": ""
+    },
+    {
+      "id": "Burning Blood",
+      "name": "Sangue Ardente",
+      "description": ""
+    },
+    {
+      "id": "Eldritch Flesh",
+      "name": "Carne Arcanica",
+      "description": ""
+    },
+    {
+      "id": "Glyph of Hemorrhaging",
+      "name": "Glifo da Hemorragia",
+      "description": ""
+    }
+  ]
+}
+

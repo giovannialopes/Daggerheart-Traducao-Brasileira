@@ -1,0 +1,80 @@
+{
+  "daggerheart.environments": {
+    "1eZ32Esq7rfZOjlu": {
+      "__DOCUMENT_NAME__": "Cerco ao castelo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cerco ao castelo.webp"
+    },
+    "2Z1mKc65LxNk2PqR": {
+      "__DOCUMENT_NAME__": "Reino do caos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Reino do caos.webp"
+    },
+    "4DLYez7VbMCFDAuZ": {
+      "__DOCUMENT_NAME__": "Usurpação divina",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Usurpação divina.webp"
+    },
+    "EWD3ZsLoK6VMVOf7": {
+      "__DOCUMENT_NAME__": "Batalha campal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Batalha campal.webp"
+    },
+    "HZKA7hkej7JJY503": {
+      "__DOCUMENT_NAME__": "Mercado movimentado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mercado movimentado.webp"
+    },
+    "LPpfdlNKqiZIl04w": {
+      "__DOCUMENT_NAME__": "Ascensão íngreme",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ascensão íngreme.webp"
+    },
+    "OzYbizKraK92FDiI": {
+      "__DOCUMENT_NAME__": "Cidade assombrada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cidade assombrada.webp"
+    },
+    "QAXXiOKBDmCTauHD": {
+      "__DOCUMENT_NAME__": "Ritual de cultistas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ritual de cultistas.webp"
+    },
+    "YezryR32uo39xRxW": {
+      "__DOCUMENT_NAME__": "Localidade estratégica",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Localidade estratégica.webp"
+    },
+    "acMu9wJrMZZzLSTJ": {
+      "__DOCUMENT_NAME__": "Passagem montanhosa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Passagem montanhosa.webp"
+    },
+    "cM4X81DOyvxNIi52": {
+      "__DOCUMENT_NAME__": "Taverna local",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Taverna local.webp"
+    },
+    "dsA6j69AnaJhUyqH": {
+      "__DOCUMENT_NAME__": "Templo exaltado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Templo exaltado.webp"
+    },
+    "h3KyRL7AshhLAmcH": {
+      "__DOCUMENT_NAME__": "Ossuário do necromante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ossuário do necromante.webp"
+    },
+    "jr1xAoXzVwVblzxI": {
+      "__DOCUMENT_NAME__": "Corte imperial",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Corte imperial.webp"
+    },
+    "oY69NN4rYxoRE4hl": {
+      "__DOCUMENT_NAME__": "Coração ardente da floresta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Coração ardente da floresta.webp"
+    },
+    "pGEdzdLkqYtBhxnG": {
+      "__DOCUMENT_NAME__": "Bosque esquecido",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bosque esquecido.webp"
+    },
+    "t4cdqTfzcqP3H1vJ": {
+      "__DOCUMENT_NAME__": "Manancial raivoso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manancial raivoso.webp"
+    },
+    "uGEdNYERCTJBEjc5": {
+      "__DOCUMENT_NAME__": "Emboscados",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Emboscados.webp"
+    },
+    "uXZpebPR77YQ1oXI": {
+      "__DOCUMENT_NAME__": "Emboscada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Emboscada.webp"
+    }
+  }
+}

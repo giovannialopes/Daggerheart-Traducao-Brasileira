@@ -1,0 +1,190 @@
+{
+  "label": "Armaduras",
+  "folders": {
+    "Tier 4": "Patamar 4",
+    "Tier 1": "Patamar 1",
+    "Tier 2": "Patamar 2",
+    "Tier 3": "Patamar 3",
+    "Special": "Especial"
+  },  
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Full Fortified Armor",
+      "name": "Armadura Fortificada",
+      "description": "Fortificação: ao marcar 1 Ponto de Armadura, você reduz a gravidade de um ataque em dois limiares em vez de um."
+    },
+    {
+      "id": "Savior Chainmail",
+      "name": "Cota de Malha Salvadora",
+      "description": "Fatigante: –1 em todos os atributos e na Evasão."
+    },
+    {
+      "id": "Improved Full Plate Armor",
+      "name": "Armadura de Placas Aprimorada",
+      "description": "Muito Pesada: –2 em Evasão; –1 em Agilidade."
+    },
+    {
+      "id": "Monett's Cloak",
+      "name": "Capa de Monett",
+      "description": "Mágica: você não pode marcar PA para reduzir dano físico."
+    },
+    {
+      "id": "Legendary Chainmail Armor",
+      "name": "Cota de Malha Lendária",
+      "description": "Pesada: –1 em Evasão."
+    },
+    {
+      "id": "Bare Bones",
+      "name": "Armadura Corporal",
+      "description": "Enquanto não equipar uma armadura, você tem Armadura base igual a 3 + sua Força e usa estes limiares de dano base: 1º patamar: 9/19; 2º patamar: 11/24; 3º patamar: 13/31; 4º patamar: 15/38."
+    },
+    {
+      "id": "Improved Chainmail Armor",
+      "name": "Cota de Malha Aprimorada",
+      "description": "Pesada: –1 em Evasão."
+    },
+    {
+      "id": "Advanced Chainmail Armor",
+      "name": "Cota de Malha Avançada",
+      "description": "Pesada: –1 em Evasão."
+    },
+    {
+      "id": "Veritas Opal Armor",
+      "name": "Armadura de Opala da Verdade",
+      "description": "Veraz: esta armadura brilha quando uma criatura Próxima fala uma mentira."
+    },
+    {
+      "id": "Runes of Fortification",
+      "name": "Runas da Fortificação",
+      "description": "Excruciante: sempre que marcar 1 Ponto de Armadura, você também deve marcar 1 Ponto de Fadiga."
+    },
+    {
+      "id": "Tyris Soft Armor",
+      "name": "Armadura Graciosa de Tyris",
+      "description": "Furtividade: você recebe um bônus de +2 em testes para se deslocar silenciosamente."
+    },
+    {
+      "id": "Elundrian Chain Mail",
+      "name": "Cota de Malha Elundriana",
+      "description": "Égide: reduza sua Armadura do dano mágico sofrido antes de compará-lo com seus limiares de dano."
+    },
+    {
+      "id": "Spiked Plate Armor",
+      "name": "Armadura de Placas com Espinhos",
+      "description": "Cortante: ao acertar um ataque contra um alvo CaC, você recebe um bônus de +1d4 na rolagem de dano."
+    },
+    {
+      "id": "Legendary Full Plate Armor",
+      "name": "Armadura de Placas Lendária",
+      "description": "Muito Pesada: –2 em Evasão; –1 em Agilidade."
+    },
+    {
+      "id": "Legendary Leather Armor",
+      "name": "Armadura de Couro Lendária",
+      "description": ""
+    },
+    {
+      "id": "Full Plate Armor",
+      "name": "Armadura de Placas",
+      "description": "Muito Pesada: –2 em Evasão; –1 em Agilidade."
+    },
+    {
+      "id": "Bellamoi Fine Armor",
+      "name": "Armadura de Bellamoi",
+      "description": "Revestimento Dourado: +1 em Presença."
+    },
+    {
+      "id": "Emberwoven Armor",
+      "name": "Armadura de Tecido Âmbar",
+      "description": "Ardente: quando sofre um ataque de um adversário Corpo a Corpo, ele marca 1 Ponto de Fadiga."
+    },
+    {
+      "id": "Legendary Gambeson Armor",
+      "name": "Gibão Lendário",
+      "description": "Flexível: +1 em Evasão."
+    },
+    {
+      "id": "Advanced Full Plate Armor",
+      "name": "Armadura de Placas Avançada",
+      "description": "Muito Pesada: –2 em Evasão; –1 em Agilidade."
+    },
+    {
+      "id": "Harrowbone Armor",
+      "name": "Armadura do Tormento",
+      "description": "Resiliente: antes de marcar seu último Ponto de Armadura, role 1d6. Em um resultado 6, reduza a gravidade do dano em 1 limiar sem marcar 1 PA."
+    },
+    {
+      "id": "Advanced Gambeson Armor",
+      "name": "Gibão Avançado",
+      "description": "Flexível: +1 em Evasão."
+    },
+    {
+      "id": "Dunamis Silkchain",
+      "name": "Cota de Seda de Dunamis",
+      "description": "Lentidão Temporal: quando sofre um ataque, marque 1 Ponto de Armadura para somar um bônus de 1d4 na sua Evsão contra este ataque."
+    },
+    {
+      "id": "Chainmail Armor",
+      "name": "Cota de Malha",
+      "description": "Pesada: –1 em Evasão."
+    },
+    {
+      "id": "Advanced Leather Armor",
+      "name": "Armadura de Couro Avançada",
+      "description": ""
+    },
+    {
+      "id": "Improved Gambeson Armor",
+      "name": "Gibão Aprimorado",
+      "description": "Flexível: +1 em Evasão."
+    },
+    {
+      "id": "Bladefare Armor",
+      "name": "Armadura Concreta",
+      "description": "Física: você não pode marcar PA para reduzir dano mágico."
+    },
+    {
+      "id": "Dragonscale Armor",
+      "name": "Armadura de Escamas de Dragão",
+      "description": "Impenetrável: uma vez por descanso curto, você pode marcar Fadiga em vez de marcar seu último PV."
+    },
+    {
+      "id": "Leather Armor",
+      "name": "Armadura de Couro",
+      "description": ""
+    },
+    {
+      "id": "Improved Leather Armor",
+      "name": "Armadura de Couro Aprimorada",
+      "description": ""
+    },
+    {
+      "id": "Runetan Floating Armor",
+      "name": "Armadura Flutuante de Runetan",
+      "description": "Inconstante: ao sofrer um ataque, você pode marcar 1 PA para que o teste deste ataque seja feito com desvantagem."
+    },
+    {
+      "id": "Rosewild Armor",
+      "name": "Armadura de Rosamata",
+      "description": "Esperança: quando for gastar 1 Ponto de Esperança, você pode marcar 1 Ponto de Armadura em vez disso."
+    },
+    {
+      "id": "Irontree Breastplate Armor",
+      "name": "Peitoral de Placas de Pau-Ferro",
+      "description": "Reforços: quando marcar seu último Ponto de Armadura, aumente seus limiares de dano em +2 até você recuperar pelo menos 1 Ponto de Armadura."
+    },
+    {
+      "id": "Channeling Armor",
+      "name": "Armadura da Canalização",
+      "description": "Canalização: +1 em testes de conjuração."
+    },
+    {
+      "id": "Gambeson Armor",
+      "name": "Gibão",
+      "description": "Flexível: +1 em Evasão."
+    }
+  ]
+}

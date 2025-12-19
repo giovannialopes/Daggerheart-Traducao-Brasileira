@@ -1,0 +1,224 @@
+{
+  "daggerheart.beastforms": {
+    "0ey4kM9ssj2otHvb": {
+      "__DOCUMENT_NAME__": "Abate",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Abate.webp"
+    },
+    "1XrZWGDttBAAUxR1": {
+      "__DOCUMENT_NAME__": "Serpente Traiçoeira",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Serpente Traiçoeira.webp"
+    },
+    "2KlTnfzO03vneVS8": {
+      "__DOCUMENT_NAME__": "Picada Peçonhenta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Picada Peçonhenta.webp"
+    },
+    "33oFSZ1PwFqInHPe": {
+      "__DOCUMENT_NAME__": "Predador Furtivo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Predador Furtivo.webp"
+    },
+    "5BABxRe2XVrYTj8N": {
+      "__DOCUMENT_NAME__": "Lagarto Terrível",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lagarto Terrível.webp"
+    },
+    "8pUHJv3BYdjA4Qdf": {
+      "__DOCUMENT_NAME__": "Carapaça Vigilante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Carapaça Vigilante.webp"
+    },
+    "8u0HkK3WgtU9lWYs": {
+      "__DOCUMENT_NAME__": "Golpe Debilitante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpe Debilitante.webp"
+    },
+    "8upqfcZvi7b5hRLE": {
+      "__DOCUMENT_NAME__": "Ataque Violento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ataque Violento.webp"
+    },
+    "94tvcC3D5Kp4lzuN": {
+      "__DOCUMENT_NAME__": "Lagarto Poderoso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lagarto Poderoso.webp"
+    },
+    "9QkZSeuEKgXtlpHc": {
+      "__DOCUMENT_NAME__": "Disparada Massiva",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Disparada Massiva.webp"
+    },
+    "A0lgd6eVEfX6oqSB": {
+      "__DOCUMENT_NAME__": "Atropelar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Atropelar.webp"
+    },
+    "A4TVRY0D5r9EiVwA": {
+      "__DOCUMENT_NAME__": "Aracnídeo Espreitador",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aracnídeo Espreitador.webp"
+    },
+    "CItO8yX6amQaqyk7": {
+      "__DOCUMENT_NAME__": "Ruminante Arisco",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ruminante Arisco.webp"
+    },
+    "D73fS1iM4SZPFimu": {
+      "__DOCUMENT_NAME__": "Lança-teia",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lança-teia.webp"
+    },
+    "DfBXO8jTchwFG8dZ": {
+      "__DOCUMENT_NAME__": "Demolir",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Demolir.webp"
+    },
+    "EVOJTskJYf4rpuga": {
+      "__DOCUMENT_NAME__": "Besta de Carga",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta de Carga.webp"
+    },
+    "FNKQlWQcArSorMPK": {
+      "__DOCUMENT_NAME__": "Visão Aérea",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Visão Aérea.webp"
+    },
+    "GhHsSHOa509cwCvr": {
+      "__DOCUMENT_NAME__": "Disparada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Disparada.webp"
+    },
+    "HJbQcKWcFZ9NoFxs": {
+      "__DOCUMENT_NAME__": "Golpes Devastadores",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpes Devastadores.webp"
+    },
+    "ItBVeCl2u5uetgy7": {
+      "__DOCUMENT_NAME__": "Predador Aquático",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Predador Aquático.webp"
+    },
+    "Ky3rZD3sJMXYZOBC": {
+      "__DOCUMENT_NAME__": "Golpe Súbito",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpe Súbito.webp"
+    },
+    "ODudjX88Te4vDP57": {
+      "__DOCUMENT_NAME__": "Impávido",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Impávido.webp"
+    },
+    "QFg1hNCEoKVDd9Zo": {
+      "__DOCUMENT_NAME__": "Frágil",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Frágil.webp"
+    },
+    "QQtQ77tos8ijTHag": {
+      "__DOCUMENT_NAME__": "Ave de Rapina Mortal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ave de Rapina Mortal.webp"
+    },
+    "StabkQ3BzWRZa8Tz": {
+      "__DOCUMENT_NAME__": "Armadura Física",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Física.webp"
+    },
+    "WAbxCf2An8qmxyJ1": {
+      "__DOCUMENT_NAME__": "Híbrido Mítico",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Híbrido Mítico.webp"
+    },
+    "YLisKYYhAGca50WM": {
+      "__DOCUMENT_NAME__": "Predador de Bando",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Predador de Bando.webp"
+    },
+    "ZYbdXaWVj2zdcmaK": {
+      "__DOCUMENT_NAME__": "Couro Espesso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Couro Espesso.webp"
+    },
+    "a7Qvmm14nx9BCysA": {
+      "__DOCUMENT_NAME__": "Presa Arisca",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Presa Arisca.webp"
+    },
+    "a9UoCwtrbgKk02mK": {
+      "__DOCUMENT_NAME__": "Explorador Ágil",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Explorador Ágil.webp"
+    },
+    "afbMt4Ld6nY3mw0N": {
+      "__DOCUMENT_NAME__": "Grande Predador",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Grande Predador.webp"
+    },
+    "b4BMnTbJ3iPPidSb": {
+      "__DOCUMENT_NAME__": "Grande Fera Alada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Grande Fera Alada.webp"
+    },
+    "cTlqpQZPy5TvdDAT": {
+      "__DOCUMENT_NAME__": "Silvo de alerta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Silvo de alerta.webp"
+    },
+    "d3q8lfeiEMyTjusT": {
+      "__DOCUMENT_NAME__": "Caça em Bando",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Caça em Bando.webp"
+    },
+    "iDmOtiHJJ80AIAVT": {
+      "__DOCUMENT_NAME__": "Animal Doméstico",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Animal Doméstico.webp"
+    },
+    "jV6EuEacyQlHW4SN": {
+      "__DOCUMENT_NAME__": "Caçador Aéreo Mítico",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Caçador Aéreo Mítico.webp"
+    },
+    "jYUBi7yLHap5ljpa": {
+      "__DOCUMENT_NAME__": "Ataque Voraz",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ataque Voraz.webp"
+    },
+    "jhWSC5bNZyYUAA5Q": {
+      "__DOCUMENT_NAME__": "Companhia",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Companhia.webp"
+    },
+    "jp5KpPRBFBOIs46Q": {
+      "__DOCUMENT_NAME__": "Canhão Ricochete",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Canhão Ricochete.webp"
+    },
+    "kObobka52JdpWBSu": {
+      "__DOCUMENT_NAME__": "Fera Mítica",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fera Mítica.webp"
+    },
+    "kQWWx9P3fCyGSVOI": {
+      "__DOCUMENT_NAME__": "Aquático",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aquático.webp"
+    },
+    "m8BVTuJI1wCvzTcf": {
+      "__DOCUMENT_NAME__": "Fera Poderosa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fera Poderosa.webp"
+    },
+    "mZ4Wlqtss2FlNNvL": {
+      "__DOCUMENT_NAME__": "Fera Alada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fera Alada.webp"
+    },
+    "mqP6z4Wg4K3oDAom": {
+      "__DOCUMENT_NAME__": "Fera Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fera Lendária.webp"
+    },
+    "nDQZdIF2epKlhauX": {
+      "__DOCUMENT_NAME__": "Carapaça Reforçada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Carapaça Reforçada.webp"
+    },
+    "qjwMzPn33aKZACkv": {
+      "__DOCUMENT_NAME__": "Fera Massiva",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fera Massiva.webp"
+    },
+    "qqzdFCxyYupWZK23": {
+      "__DOCUMENT_NAME__": "Explorador Aquático",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Explorador Aquático.webp"
+    },
+    "rRUtgcUjimlpPhnn": {
+      "__DOCUMENT_NAME__": "Híbrido Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Híbrido Lendário.webp"
+    },
+    "tGDdEH40wyOCsFmH": {
+      "__DOCUMENT_NAME__": "Mestre do Oceano",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mestre do Oceano.webp"
+    },
+    "uW3853pViM9VAfHb": {
+      "__DOCUMENT_NAME__": "Bote Peçonhento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bote Peçonhento.webp"
+    },
+    "vEAQ4cfsoPmOv2Gg": {
+      "__DOCUMENT_NAME__": "Robusto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Robusto.webp"
+    },
+    "wT4xbF99I55yjKZV": {
+      "__DOCUMENT_NAME__": "Fera Aquática Épica",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fera Aquática Épica.webp"
+    },
+    "xLS5YT1B6yeCiNTg": {
+      "__DOCUMENT_NAME__": "Ágil",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ágil.webp"
+    },
+    "xVgmXhj2YgeqS1KK": {
+      "__DOCUMENT_NAME__": "Ossos Ocos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ossos Ocos.webp"
+    },
+    "zRLjqKx4Rn2TjivL": {
+      "__DOCUMENT_NAME__": "Trotador Robusto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Trotador Robusto.webp"
+    }
+  }
+}

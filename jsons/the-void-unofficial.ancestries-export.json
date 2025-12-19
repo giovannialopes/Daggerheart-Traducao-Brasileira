@@ -1,0 +1,84 @@
+{
+  "the-void-unofficial.ancestries": {
+    "23L5ntlteKSOXrQr": {
+      "__DOCUMENT_NAME__": "Magical Sense",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Magical Sense.webp"
+    },
+    "25DRta5lPI0TFNx9": {
+      "__DOCUMENT_NAME__": "Fireproof",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fireproof.webp"
+    },
+    "6aOtmaM5w9q3NXvc": {
+      "__DOCUMENT_NAME__": "Lifespring",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lifespring.webp"
+    },
+    "7F6OpuM3NNQ2Qcvv": {
+      "__DOCUMENT_NAME__": "Divine Countenance",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Divine Countenance.webp"
+    },
+    "8Ep9VCORyAuBG54N": {
+      "__DOCUMENT_NAME__": "Gale Force",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gale Force.webp"
+    },
+    "GVhmLouGq9GWCsN8": {
+      "__DOCUMENT_NAME__": "Amphibious",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Amphibious.webp"
+    },
+    "NzfWrRyj7uTyhVGB": {
+      "__DOCUMENT_NAME__": "Earthkin",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Earthkin.webp"
+    },
+    "O2HcOXLrgX562RwH": {
+      "__DOCUMENT_NAME__": "Drow",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Drow.webp"
+    },
+    "SqyoHiEZMtxH11Nw": {
+      "__DOCUMENT_NAME__": "Skykin",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Skykin.webp"
+    },
+    "YFK0BMaLqBmxwVhp": {
+      "__DOCUMENT_NAME__": "Emberkin",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Emberkin.webp"
+    },
+    "ZIBxqonsNfdvSGAw": {
+      "__DOCUMENT_NAME__": "Immoveable",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Immoveable.webp"
+    },
+    "ZgJFJwQt7IcF6tGm": {
+      "__DOCUMENT_NAME__": "Aetheris",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aetheris.webp"
+    },
+    "d8R09ir26IcUpIrT": {
+      "__DOCUMENT_NAME__": "Low-Light Living",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Low-Light Living.webp"
+    },
+    "g52veB0oxUeOsbcV": {
+      "__DOCUMENT_NAME__": "Ignition",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ignition.webp"
+    },
+    "rMs8kwvRjW4lknF3": {
+      "__DOCUMENT_NAME__": "Gnome",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gnome.webp"
+    },
+    "sRsezFAnQHJGwp0Z": {
+      "__DOCUMENT_NAME__": "Stoneskin",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stoneskin.webp"
+    },
+    "t85CN5RoTffG44Ui": {
+      "__DOCUMENT_NAME__": "Eye of the Storm",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Eye of the Storm.webp"
+    },
+    "tZBDjjAKuyxLgmWE": {
+      "__DOCUMENT_NAME__": "Hallowed Aura",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Hallowed Aura.webp"
+    },
+    "uOTRV5d4BZ7bnPM3": {
+      "__DOCUMENT_NAME__": "Tidekin",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Tidekin.webp"
+    },
+    "zMUT45f5tvbyVcZr": {
+      "__DOCUMENT_NAME__": "Nimble Fingers",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Nimble Fingers.webp"
+    }
+  }
+}

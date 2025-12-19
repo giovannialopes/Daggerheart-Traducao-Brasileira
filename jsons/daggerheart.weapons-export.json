@@ -1,0 +1,820 @@
+{
+  "daggerheart.weapons": {
+    "01izMUSJcAUo79IX": {
+      "__DOCUMENT_NAME__": "Chicote Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chicote Aprimorado.webp"
+    },
+    "0HmhnZnv1I6uX69c": {
+      "__DOCUMENT_NAME__": "Machado Sagrado Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado Sagrado Lendário.webp"
+    },
+    "0XpSBYXxtywvBFQi": {
+      "__DOCUMENT_NAME__": "Arco de Sangue de Yutari",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco de Sangue de Yutari.webp"
+    },
+    "0lAkBEUvbM9Osmqb": {
+      "__DOCUMENT_NAME__": "Martelo de Ecsota",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Martelo de Ecsota.webp"
+    },
+    "0thN0BpN05KT8Avx": {
+      "__DOCUMENT_NAME__": "Adaga Pequena Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Pequena Aprimorada.webp"
+    },
+    "14abPqQcROJfDChR": {
+      "__DOCUMENT_NAME__": "Espada Longa Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Longa Lendária.webp"
+    },
+    "1AuMNiJz96Ez9fur": {
+      "__DOCUMENT_NAME__": "Alabarda Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Alabarda Lendária.webp"
+    },
+    "1G6xX2QL9O0Rsgz7": {
+      "__DOCUMENT_NAME__": "Besta Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta Lendária.webp"
+    },
+    "1N1jggda5DfdzdMj": {
+      "__DOCUMENT_NAME__": "Manoplas Sorvedouras",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manoplas Sorvedouras.webp"
+    },
+    "1R4uzOpWD8bkYRUm": {
+      "__DOCUMENT_NAME__": "Martelo da Ira",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Martelo da Ira.webp"
+    },
+    "1ZciqG7vIKLYpKsP": {
+      "__DOCUMENT_NAME__": "Bordão Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bordão Lendário.webp"
+    },
+    "1cwWNt4sqlgA8gCT": {
+      "__DOCUMENT_NAME__": "Espada Larga",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Larga.webp"
+    },
+    "1jOJHHKdtk3s2jaY": {
+      "__DOCUMENT_NAME__": "Dardo de Corda",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dardo de Corda.webp"
+    },
+    "1nztpLzoHGfbKf5x": {
+      "__DOCUMENT_NAME__": "Machado de Batalha Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado de Batalha Lendário.webp"
+    },
+    "2Fbf2cxLfbdGkU4I": {
+      "__DOCUMENT_NAME__": "Espada Conjuradora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Conjuradora.webp"
+    },
+    "2Khzuj768yoWN9QK": {
+      "__DOCUMENT_NAME__": "Cetro Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cetro Aprimorado.webp"
+    },
+    "32nYyMaeDWaakSxz": {
+      "__DOCUMENT_NAME__": "Besta de Mão Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta de Mão Lendária.webp"
+    },
+    "3HGs0AgVrdIBTaKG": {
+      "__DOCUMENT_NAME__": "Besta Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta Aprimorada.webp"
+    },
+    "3T3o9zfe61t22L1H": {
+      "__DOCUMENT_NAME__": "Gancho Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gancho Aprimorado.webp"
+    },
+    "3vti3xfo0wJND7ew": {
+      "__DOCUMENT_NAME__": "Lâminas Flutuantes",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lâminas Flutuantes.webp"
+    },
+    "3whiedn0jBMNRdIb": {
+      "__DOCUMENT_NAME__": "Runas de Mão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Runas de Mão.webp"
+    },
+    "4UzxqfkwF8gDSdu7": {
+      "__DOCUMENT_NAME__": "Cajado Grande Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Grande Aprimorado.webp"
+    },
+    "4e5pWxi2qohuGsWh": {
+      "__DOCUMENT_NAME__": "Lança Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lança Lendária.webp"
+    },
+    "4fQpVfQ3NVwTHStA": {
+      "__DOCUMENT_NAME__": "Lâmina do Retorno",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lâmina do Retorno.webp"
+    },
+    "55NwHIIZHUeKSE3M": {
+      "__DOCUMENT_NAME__": "Besta Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta Aprimorada.webp"
+    },
+    "5faflfNz20cFW1EM": {
+      "__DOCUMENT_NAME__": "Chicote Laminado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chicote Laminado.webp"
+    },
+    "6ZWl6ARfvYBaAMwY": {
+      "__DOCUMENT_NAME__": "Arco Curto Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Curto Aprimorado.webp"
+    },
+    "6bkbw4Ap644KZGvJ": {
+      "__DOCUMENT_NAME__": "Alabarda de Aço",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Alabarda de Aço.webp"
+    },
+    "6d9B2b5X2d2U56jt": {
+      "__DOCUMENT_NAME__": "Varinha Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Varinha Aprimorada.webp"
+    },
+    "6gFvOFTE97QZ74Zr": {
+      "__DOCUMENT_NAME__": "Lâmina Fantasma",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lâmina Fantasma.webp"
+    },
+    "70ysaFJDREwTgvZa": {
+      "__DOCUMENT_NAME__": "Montante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Montante.webp"
+    },
+    "7vvhVl4TDJHtjpFK": {
+      "__DOCUMENT_NAME__": "Gancho Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gancho Avançado.webp"
+    },
+    "8Lipw3RRKDgBVP0p": {
+      "__DOCUMENT_NAME__": "Martelo de Guerra Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Martelo de Guerra Avançado.webp"
+    },
+    "8Z5QrThfwkYPXNco": {
+      "__DOCUMENT_NAME__": "Pingente de Widogast",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pingente de Widogast.webp"
+    },
+    "9xkB3MWXahrsVP4N": {
+      "__DOCUMENT_NAME__": "Espada Longa Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Longa Aprimorada.webp"
+    },
+    "A28WL9E2lJ3iLZHW": {
+      "__DOCUMENT_NAME__": "Escudo Redondo Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo Redondo Lendário.webp"
+    },
+    "AokqTusPzn0hghkE": {
+      "__DOCUMENT_NAME__": "Revólver da Pólvora Negra",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Revólver da Pólvora Negra.webp"
+    },
+    "BEmAR60PM3ZaiNXa": {
+      "__DOCUMENT_NAME__": "Bordão Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bordão Aprimorado.webp"
+    },
+    "BakN97v4jTePcXiZ": {
+      "__DOCUMENT_NAME__": "Rapieira Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rapieira Lendária.webp"
+    },
+    "BdLfy5i488VZgkjP": {
+      "__DOCUMENT_NAME__": "Foice de Midas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Foice de Midas.webp"
+    },
+    "BiyXKX2Mo1TQbKgk": {
+      "__DOCUMENT_NAME__": "Machado Sagrado Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado Sagrado Avançado.webp"
+    },
+    "BtCm2RhWEfs00g38": {
+      "__DOCUMENT_NAME__": "Cajado de Fogo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado de Fogo.webp"
+    },
+    "BuMfupnCzHbziQ8o": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Leve Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Leve Avançada.webp"
+    },
+    "C5wSGglR8e0euQnY": {
+      "__DOCUMENT_NAME__": "Adaga Devoradora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Devoradora.webp"
+    },
+    "C8gQn7onAc9wsrCs": {
+      "__DOCUMENT_NAME__": "Alabarda Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Alabarda Aprimorada.webp"
+    },
+    "C9aWpK1shVMWP4m5": {
+      "__DOCUMENT_NAME__": "Escudo-torre",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo-torre.webp"
+    },
+    "CWrbnethuILXrEpA": {
+      "__DOCUMENT_NAME__": "Cimitarra",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cimitarra.webp"
+    },
+    "CmtWqw6DwoePnX7W": {
+      "__DOCUMENT_NAME__": "Chicote",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chicote.webp"
+    },
+    "D3SbNvNJZAFuzfhg": {
+      "__DOCUMENT_NAME__": "Cajado Curto Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Curto Lendário.webp"
+    },
+    "DWLkswhluXuMy3bB": {
+      "__DOCUMENT_NAME__": "Runas de Mão Lendárias",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Runas de Mão Lendárias.webp"
+    },
+    "DlinEBGZfIlvreO3": {
+      "__DOCUMENT_NAME__": "Escudo Redondo Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo Redondo Aprimorado.webp"
+    },
+    "E9QDh5o9eQ1Qx0kH": {
+      "__DOCUMENT_NAME__": "Machado Ricochete",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado Ricochete.webp"
+    },
+    "EG6mZhr3ib56r974": {
+      "__DOCUMENT_NAME__": "Runas da Ruína",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Runas da Ruína.webp"
+    },
+    "EmFTp9wzT6MHSaNz": {
+      "__DOCUMENT_NAME__": "Broquel",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Broquel.webp"
+    },
+    "F9PETfCQGwczBPif": {
+      "__DOCUMENT_NAME__": "Alabarda Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Alabarda Aprimorada.webp"
+    },
+    "FPX4ouDrxXiQ5MDf": {
+      "__DOCUMENT_NAME__": "Montante Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Montante Aprimorada.webp"
+    },
+    "FcbvY1ydbNVMjKvk": {
+      "__DOCUMENT_NAME__": "Machado de Batalha Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado de Batalha Avançado.webp"
+    },
+    "Fk69R40svV0kanZD": {
+      "__DOCUMENT_NAME__": "Adaga Curva",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Curva.webp"
+    },
+    "FtsQGwOg3r8uUCST": {
+      "__DOCUMENT_NAME__": "Machado Retornável",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado Retornável.webp"
+    },
+    "G7rH31KQ5eEZXcv0": {
+      "__DOCUMENT_NAME__": "Lâmina do Ego",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lâmina do Ego.webp"
+    },
+    "GZh345N8fmuS4Jeh": {
+      "__DOCUMENT_NAME__": "Cetro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cetro.webp"
+    },
+    "Gi26Zk9VqlAAgx3E": {
+      "__DOCUMENT_NAME__": "Sabre de Meridin",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sabre de Meridin.webp"
+    },
+    "GmTg3Fdne1UPNs8t": {
+      "__DOCUMENT_NAME__": "Adaga Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Lendária.webp"
+    },
+    "I1nDGpulg29GpWOW": {
+      "__DOCUMENT_NAME__": "Arco de Cardo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco de Cardo.webp"
+    },
+    "IZ4CWNxfuM46JeCN": {
+      "__DOCUMENT_NAME__": "Cetro Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cetro Lendário.webp"
+    },
+    "InQoh8mZPnwarQkX": {
+      "__DOCUMENT_NAME__": "Anéis Luminosos Aprimorados",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anéis Luminosos Aprimorados.webp"
+    },
+    "IoMVDz92WVvfGGdc": {
+      "__DOCUMENT_NAME__": "Cajado Sangrento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Sangrento.webp"
+    },
+    "IrtUj0UntBMNn49G": {
+      "__DOCUMENT_NAME__": "Gancho Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gancho Lendário.webp"
+    },
+    "ItWisJFNGMNWeaCV": {
+      "__DOCUMENT_NAME__": "Varinha",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Varinha.webp"
+    },
+    "Iv8BZM1R24QMT72M": {
+      "__DOCUMENT_NAME__": "Espada Longa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Longa.webp"
+    },
+    "JdWcn9W1edhAEInL": {
+      "__DOCUMENT_NAME__": "Arco Ancião",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Ancião.webp"
+    },
+    "JpSlJvDR0X8VFDns": {
+      "__DOCUMENT_NAME__": "Arco Curto Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Curto Avançado.webp"
+    },
+    "KxFne76d7cak15dO": {
+      "__DOCUMENT_NAME__": "Rapieira Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rapieira Aprimorada.webp"
+    },
+    "L5KeCtrs768PmYWW": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Pesada Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Pesada Aprimorada.webp"
+    },
+    "LCuTrYXi4lhg6LqW": {
+      "__DOCUMENT_NAME__": "Cajado Grande Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Grande Aprimorado.webp"
+    },
+    "LFPH8nD2f4Blv3AM": {
+      "__DOCUMENT_NAME__": "Rapieira Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rapieira Aprimorada.webp"
+    },
+    "Lsvocst8aGqkBj7g": {
+      "__DOCUMENT_NAME__": "Besta de Mão Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta de Mão Avançada.webp"
+    },
+    "M5CywMAyPKGgebsJ": {
+      "__DOCUMENT_NAME__": "Arco Longo Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Longo Aprimorado.webp"
+    },
+    "MAC6YWTo4lzSotQc": {
+      "__DOCUMENT_NAME__": "Montante Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Montante Avançada.webp"
+    },
+    "MXBpbqQsZFln4rZk": {
+      "__DOCUMENT_NAME__": "Arco Grande",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Grande.webp"
+    },
+    "MaJIROht7A9LxIZx": {
+      "__DOCUMENT_NAME__": "Escudo-torre Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo-torre Lendário.webp"
+    },
+    "Mn8ja5Oi1sXvvPSk": {
+      "__DOCUMENT_NAME__": "Cajado Curto Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Curto Aprimorado.webp"
+    },
+    "MyGz8nd5sieRQ7zl": {
+      "__DOCUMENT_NAME__": "Canhão de Mão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Canhão de Mão.webp"
+    },
+    "N5amhkxR1xn3B7r2": {
+      "__DOCUMENT_NAME__": "Anéis Luminosos Aprimorados",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anéis Luminosos Aprimorados.webp"
+    },
+    "N9P695V5KKlJbAY5": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Arcana Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Arcana Aprimorada.webp"
+    },
+    "NacNonjbzyoVMNhI": {
+      "__DOCUMENT_NAME__": "Arco Longo Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Longo Aprimorado.webp"
+    },
+    "O1w8KPYH85ZS8X64": {
+      "__DOCUMENT_NAME__": "Arco com Espinhos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco com Espinhos.webp"
+    },
+    "OcKeLJxvmdT81VBc": {
+      "__DOCUMENT_NAME__": "Espada Larga Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Larga Aprimorada.webp"
+    },
+    "OfOzQbs4hg6QbfTG": {
+      "__DOCUMENT_NAME__": "Escudo-torre Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo-torre Avançado.webp"
+    },
+    "OxsEmffWriiQmqJK": {
+      "__DOCUMENT_NAME__": "Machado-martelo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado-martelo.webp"
+    },
+    "PC5EyEIq7NWBV0n5": {
+      "__DOCUMENT_NAME__": "Manoplas Arcanas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manoplas Arcanas.webp"
+    },
+    "PQACczSghZIVTdgZ": {
+      "__DOCUMENT_NAME__": "Runas de Mão Avançadas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Runas de Mão Avançadas.webp"
+    },
+    "PReWrfuPjoNQuieo": {
+      "__DOCUMENT_NAME__": "Anéis Luminosos Lendários",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anéis Luminosos Lendários.webp"
+    },
+    "Px3Rh3kIvAqyISxJ": {
+      "__DOCUMENT_NAME__": "Adaga Pequena Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Pequena Lendária.webp"
+    },
+    "QEvgVoz9xKBSKsGi": {
+      "__DOCUMENT_NAME__": "Escudo da Bravura",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo da Bravura.webp"
+    },
+    "QZrWAkprA2tL2MOI": {
+      "__DOCUMENT_NAME__": "Espada da Bravura",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada da Bravura.webp"
+    },
+    "QyBZ5NxM8F9nCL9s": {
+      "__DOCUMENT_NAME__": "Espada Longa Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Longa Aprimorada.webp"
+    },
+    "RAIaoMi6iO1PKIlK": {
+      "__DOCUMENT_NAME__": "Funda",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Funda.webp"
+    },
+    "Rpyz0jbFJ1SwqfyD": {
+      "__DOCUMENT_NAME__": "Cimitarra Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cimitarra Lendária.webp"
+    },
+    "RsDsy7tIhrhaAQQc": {
+      "__DOCUMENT_NAME__": "Maça Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Maça Lendária.webp"
+    },
+    "S6nB0CNlzdU05o5U": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Pesada Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Pesada Lendária.webp"
+    },
+    "SFqganS8Du4aEKjQ": {
+      "__DOCUMENT_NAME__": "Luva com Garras",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Luva com Garras.webp"
+    },
+    "SKNwkW23eVQjN4Zy": {
+      "__DOCUMENT_NAME__": "Lâmina do Retorno Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lâmina do Retorno Aprimorada.webp"
+    },
+    "SLFrK0WmldPo0shz": {
+      "__DOCUMENT_NAME__": "Bacamarte",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bacamarte.webp"
+    },
+    "ScjTkb9qrndhlk9S": {
+      "__DOCUMENT_NAME__": "Adaga Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Aprimorada.webp"
+    },
+    "SxcblanBvqaest3A": {
+      "__DOCUMENT_NAME__": "Lasca de Apoio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lasca de Apoio.webp"
+    },
+    "T5exRCqOXhrjSYnI": {
+      "__DOCUMENT_NAME__": "Cajado Curto Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Curto Avançado.webp"
+    },
+    "TF85tKJetUjLwh54": {
+      "__DOCUMENT_NAME__": "Lança",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lança.webp"
+    },
+    "TMrUzVC3KvcHmdt8": {
+      "__DOCUMENT_NAME__": "Rifle de Ilmari",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rifle de Ilmari.webp"
+    },
+    "TVPCWnSELOVBv6G1": {
+      "__DOCUMENT_NAME__": "Espada da Luz e da Chama",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada da Luz e da Chama.webp"
+    },
+    "U8gfyvxoHm024inM": {
+      "__DOCUMENT_NAME__": "Soqueira com Lâmina",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Soqueira com Lâmina.webp"
+    },
+    "Utt1GpoH1fhaTOtN": {
+      "__DOCUMENT_NAME__": "Arco Longo Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Longo Lendário.webp"
+    },
+    "Vayg7CnRTFBrunjM": {
+      "__DOCUMENT_NAME__": "Machado Sagrado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado Sagrado.webp"
+    },
+    "VwcOgqnzjf9LBj2S": {
+      "__DOCUMENT_NAME__": "Alfange Dourado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Alfange Dourado.webp"
+    },
+    "W9ymfEDck2icfvla": {
+      "__DOCUMENT_NAME__": "Martelo de Guerra Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Martelo de Guerra Lendário.webp"
+    },
+    "Wcdbf6yS3LEt7nsg": {
+      "__DOCUMENT_NAME__": "Chicote Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chicote Lendário.webp"
+    },
+    "WreMYiH5uhVDaoVw": {
+      "__DOCUMENT_NAME__": "Maça Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Maça Aprimorada.webp"
+    },
+    "WtQAGz0TUgz8Xg70": {
+      "__DOCUMENT_NAME__": "Espada Larga Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Larga Avançada.webp"
+    },
+    "X5x3sC7v2f3L9sjL": {
+      "__DOCUMENT_NAME__": "Cajado Duplo Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Duplo Avançado.webp"
+    },
+    "XEDRkuw3BhMoVBn9": {
+      "__DOCUMENT_NAME__": "Besta de Mão Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta de Mão Aprimorada.webp"
+    },
+    "XKBmBUEoGLdLcuqQ": {
+      "__DOCUMENT_NAME__": "Orbe Mágico",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Orbe Mágico.webp"
+    },
+    "XRChepscgr75Uug7": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Arcana",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Arcana.webp"
+    },
+    "XjPQjhRCH08VUIbr": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Pesada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Pesada.webp"
+    },
+    "Xt8tVSn5Fu6ly6LF": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Leve Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Leve Lendária.webp"
+    },
+    "YcS1rHgfnSlla8Xf": {
+      "__DOCUMENT_NAME__": "Machado de Fortunis",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado de Fortunis.webp"
+    },
+    "YfVs6Se903az4Yet": {
+      "__DOCUMENT_NAME__": "Arco Longo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Longo.webp"
+    },
+    "Yk8pTEmyLLi4095S": {
+      "__DOCUMENT_NAME__": "Cajado Grande",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Grande.webp"
+    },
+    "ZJsetdHKV77ygtCE": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Leve Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Leve Aprimorada.webp"
+    },
+    "ZXh1GQahBiODfSTC": {
+      "__DOCUMENT_NAME__": "Martelo de Guerra",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Martelo de Guerra.webp"
+    },
+    "Zg6IutksQVOqAg8K": {
+      "__DOCUMENT_NAME__": "Manopla do Impacto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manopla do Impacto.webp"
+    },
+    "ZrRGNjGCgZTTfgDG": {
+      "__DOCUMENT_NAME__": "Varinha de Essek",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Varinha de Essek.webp"
+    },
+    "acPGwIaUhx3R0mTq": {
+      "__DOCUMENT_NAME__": "Cetro de Elias",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cetro de Elias.webp"
+    },
+    "bW3xw5S9DbaLCN3E": {
+      "__DOCUMENT_NAME__": "Manopla Fortalecida",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manopla Fortalecida.webp"
+    },
+    "bw9WO9lxkM9bWZxQ": {
+      "__DOCUMENT_NAME__": "Cimitarra Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cimitarra Avançada.webp"
+    },
+    "bxt3NsbMqTSdI5ab": {
+      "__DOCUMENT_NAME__": "Escudo-torre Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo-torre Aprimorado.webp"
+    },
+    "cKQCDyM2UopDL9zF": {
+      "__DOCUMENT_NAME__": "Maça",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Maça.webp"
+    },
+    "cjGZpXCoshEqi1FI": {
+      "__DOCUMENT_NAME__": "Espada Curta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Curta.webp"
+    },
+    "ctTgFfMbM3YtmsYU": {
+      "__DOCUMENT_NAME__": "Arco Dourado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Dourado.webp"
+    },
+    "cw7HG1Z7hp7OOLD0": {
+      "__DOCUMENT_NAME__": "Besta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta.webp"
+    },
+    "dEumq3BIZBk5xYTk": {
+      "__DOCUMENT_NAME__": "Espada Curta Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Curta Lendária.webp"
+    },
+    "ddRjXnp2vbohu7rJ": {
+      "__DOCUMENT_NAME__": "Cimitarra Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cimitarra Aprimorada.webp"
+    },
+    "eT2Qwb0RdrLX2hH1": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Pesada Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Pesada Avançada.webp"
+    },
+    "f7hhHlZ5nL3AhYEM": {
+      "__DOCUMENT_NAME__": "Cajado Duplo Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Duplo Aprimorado.webp"
+    },
+    "fJHKMxZokVP34MCi": {
+      "__DOCUMENT_NAME__": "Pique Estendido",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pique Estendido.webp"
+    },
+    "fbDYUja3ll9vCtrB": {
+      "__DOCUMENT_NAME__": "Machado de Batalha",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado de Batalha.webp"
+    },
+    "ftTp8VlsBQ1r4LFD": {
+      "__DOCUMENT_NAME__": "Chicote Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chicote Aprimorado.webp"
+    },
+    "gA2tiET9VHGhwMoO": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Arcana Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Arcana Lendária.webp"
+    },
+    "hXR56fTKwZ6s1obs": {
+      "__DOCUMENT_NAME__": "Manoplas Arcanas Avançadas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manoplas Arcanas Avançadas.webp"
+    },
+    "hiEOGF2reabGLUoi": {
+      "__DOCUMENT_NAME__": "Escudo Redondo Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo Redondo Avançado.webp"
+    },
+    "i8CqVTzqoRoCewNe": {
+      "__DOCUMENT_NAME__": "Sabre Retrátil",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sabre Retrátil.webp"
+    },
+    "iEzPscUc18GuFoB6": {
+      "__DOCUMENT_NAME__": "Gancho",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gancho.webp"
+    },
+    "iStO0BbeMTTR0rQi": {
+      "__DOCUMENT_NAME__": "Adaga",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga.webp"
+    },
+    "iaGnlUkShBgdeMo0": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Leve",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Leve.webp"
+    },
+    "ijWppQzSOqVCb3rE": {
+      "__DOCUMENT_NAME__": "Machado de Labrys",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado de Labrys.webp"
+    },
+    "ijodu5yNBoMxpkHV": {
+      "__DOCUMENT_NAME__": "Arco de Aantari",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco de Aantari.webp"
+    },
+    "j5Pt1thLfcvopBij": {
+      "__DOCUMENT_NAME__": "Lança Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lança Aprimorada.webp"
+    },
+    "j7kp36jaetfn5jb3": {
+      "__DOCUMENT_NAME__": "Arco Curto Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Curto Lendário.webp"
+    },
+    "j8cdNeIUYxxzFVji": {
+      "__DOCUMENT_NAME__": "Cajado Duplo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Duplo.webp"
+    },
+    "jDtvEabkHY1GFgfc": {
+      "__DOCUMENT_NAME__": "Cajado Grande Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Grande Lendário.webp"
+    },
+    "jGykNGQiKm63tCiE": {
+      "__DOCUMENT_NAME__": "Revólver de Magus",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Revólver de Magus.webp"
+    },
+    "jMEukC3VpNDz5AOD": {
+      "__DOCUMENT_NAME__": "Runas de Mão Aprimoradas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Runas de Mão Aprimoradas.webp"
+    },
+    "jU9jWIardjtdAQcs": {
+      "__DOCUMENT_NAME__": "Varinha Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Varinha Aprimorada.webp"
+    },
+    "jlLtgK468rO5IssR": {
+      "__DOCUMENT_NAME__": "Garras-lâmina",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Garras-lâmina.webp"
+    },
+    "kENTDpa1hr5LDhIT": {
+      "__DOCUMENT_NAME__": "Manoplas Arcanas Aprimoradas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manoplas Arcanas Aprimoradas.webp"
+    },
+    "la3sAWgnvadc4NvP": {
+      "__DOCUMENT_NAME__": "Cadeira de Rodas Arcana Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cadeira de Rodas Arcana Avançada.webp"
+    },
+    "mcj3CPkcSSDdAcBB": {
+      "__DOCUMENT_NAME__": "Lâmina do Retorno Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lâmina do Retorno Lendária.webp"
+    },
+    "mlIj88p1wcQNjEDG": {
+      "__DOCUMENT_NAME__": "Bordão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bordão.webp"
+    },
+    "mrioysDjNQEIE8hN": {
+      "__DOCUMENT_NAME__": "Adaga Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Avançada.webp"
+    },
+    "mxwWKDujgsRcZWPT": {
+      "__DOCUMENT_NAME__": "Escudo Redondo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo Redondo.webp"
+    },
+    "n1oPTk5czTIGTkVj": {
+      "__DOCUMENT_NAME__": "Punhal Abençoado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Punhal Abençoado.webp"
+    },
+    "nMuF8ZDZ2aXZVTg6": {
+      "__DOCUMENT_NAME__": "Adaga Pequena Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Pequena Aprimorada.webp"
+    },
+    "nXjuBa215H1sTUK3": {
+      "__DOCUMENT_NAME__": "Espada Dupla",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Dupla.webp"
+    },
+    "nxGUpuHLmuKdKsDC": {
+      "__DOCUMENT_NAME__": "Machado de Batalha Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado de Batalha Aprimorado.webp"
+    },
+    "o3rsLvImcLAx5TvD": {
+      "__DOCUMENT_NAME__": "Cajado Duplo Lendário",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Duplo Lendário.webp"
+    },
+    "p3nz5CaGUoyuGVg0": {
+      "__DOCUMENT_NAME__": "Espada Curta Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Curta Avançada.webp"
+    },
+    "p9tdjQr2AZP19RYm": {
+      "__DOCUMENT_NAME__": "Arco Curto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Curto.webp"
+    },
+    "pK6dsNABKKp1CIGN": {
+      "__DOCUMENT_NAME__": "Lança Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lança Avançada.webp"
+    },
+    "pxaN4ZK4eqKrjtWj": {
+      "__DOCUMENT_NAME__": "Martelo de Guerra Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Martelo de Guerra Aprimorado.webp"
+    },
+    "q382JqMkqLaaFLIr": {
+      "__DOCUMENT_NAME__": "Cajado do Defensor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado do Defensor.webp"
+    },
+    "qT7FfmauAumOjJoq": {
+      "__DOCUMENT_NAME__": "Alabarda",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Alabarda.webp"
+    },
+    "rSyBNRwemBVuTo3H": {
+      "__DOCUMENT_NAME__": "Espada Curta Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Curta Aprimorada.webp"
+    },
+    "sIGXA4KMeYBUjcEO": {
+      "__DOCUMENT_NAME__": "Lâmina do Retorno Avançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lâmina do Retorno Avançada.webp"
+    },
+    "tP6vmnrmTq2h5sj7": {
+      "__DOCUMENT_NAME__": "Varinha do Fascínio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Varinha do Fascínio.webp"
+    },
+    "taAZDkDCpeNgxhnn": {
+      "__DOCUMENT_NAME__": "Adaga Aparadora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Aparadora.webp"
+    },
+    "tj26lbNkwy8bORF4": {
+      "__DOCUMENT_NAME__": "Cetro Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cetro Aprimorado.webp"
+    },
+    "uK1RhtYAsDeoPNGx": {
+      "__DOCUMENT_NAME__": "Luvas de Liga",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Luvas de Liga.webp"
+    },
+    "umADDPYCaykXDc1v": {
+      "__DOCUMENT_NAME__": "Manoplas Arcanas Lendárias",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manoplas Arcanas Lendárias.webp"
+    },
+    "vHDHG3STcxTEfYAM": {
+      "__DOCUMENT_NAME__": "Cajado Curto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Curto.webp"
+    },
+    "vzyzFwLUniWZV1rt": {
+      "__DOCUMENT_NAME__": "Escudo com Espinhos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escudo com Espinhos.webp"
+    },
+    "wFOXMN2uiX4j6Gd9": {
+      "__DOCUMENT_NAME__": "Machado Sagrado Aprimorado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Machado Sagrado Aprimorado.webp"
+    },
+    "wG9f5NpCwSbaLy8t": {
+      "__DOCUMENT_NAME__": "Anéis Luminosos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anéis Luminosos.webp"
+    },
+    "wKklDxs5nkzILNp4": {
+      "__DOCUMENT_NAME__": "Adaga Pequena",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaga Pequena.webp"
+    },
+    "wPjg0LufJH9vUfVM": {
+      "__DOCUMENT_NAME__": "Varinha Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Varinha Lendária.webp"
+    },
+    "xLJ5RRpUoTRmAC3G": {
+      "__DOCUMENT_NAME__": "Lâmina do Oscilume",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lâmina do Oscilume.webp"
+    },
+    "xm1yU7k58fMgXxRR": {
+      "__DOCUMENT_NAME__": "Mangual Duplo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mangual Duplo.webp"
+    },
+    "y3hfTPfZhMognyaJ": {
+      "__DOCUMENT_NAME__": "Espada Larga Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Larga Lendária.webp"
+    },
+    "ykF3jouxHZ6YR8Bg": {
+      "__DOCUMENT_NAME__": "Arco Fio-de-cabelo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arco Fio-de-cabelo.webp"
+    },
+    "z6yEdFYQJ5IzgTX3": {
+      "__DOCUMENT_NAME__": "Foice de Guerra",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Foice de Guerra.webp"
+    },
+    "zGm6Wa1fGF6cECY5": {
+      "__DOCUMENT_NAME__": "Espada Larga de Urok",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espada Larga de Urok.webp"
+    },
+    "zJtm2f9ZFKZRtCRg": {
+      "__DOCUMENT_NAME__": "Bordão Avançado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bordão Avançado.webp"
+    },
+    "zMZ46F9VR7zdTxb9": {
+      "__DOCUMENT_NAME__": "Montante Lendária",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Montante Lendária.webp"
+    },
+    "zSLx52U4Yltqx8F1": {
+      "__DOCUMENT_NAME__": "Maça Aprimorada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Maça Aprimorada.webp"
+    },
+    "zkAgEW6zMkRZalEm": {
+      "__DOCUMENT_NAME__": "Rapieira",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rapieira.webp"
+    },
+    "zxKt6qXe7uZB6ljm": {
+      "__DOCUMENT_NAME__": "Besta de Mão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Besta de Mão.webp"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "the-void-unofficial.weapons": {
+    "8LzsXmE2aEgjDPRP": {
+      "__DOCUMENT_NAME__": "Fangs",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fangs.webp"
+    },
+    "cg2pnUEwJ7q4k28d": {
+      "__DOCUMENT_NAME__": "Unarmed Strikes Powerhouse (d10+d6)",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Unarmed Strikes Powerhouse (d10+d6).webp"
+    },
+    "lHFiIpH2lrBBaT4o": {
+      "__DOCUMENT_NAME__": "Unarmed Strikes (d8+d6)",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Unarmed Strikes (d8+d6).webp"
+    }
+  }
+}

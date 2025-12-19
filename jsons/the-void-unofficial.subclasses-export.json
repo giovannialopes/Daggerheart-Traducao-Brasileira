@@ -1,0 +1,368 @@
+{
+  "the-void-unofficial.subclasses": {
+    "0J4jLxLWzoDye1ew": {
+      "__DOCUMENT_NAME__": "Stance - Compounding",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Compounding.webp"
+    },
+    "0vY0uFlL2glAg4MO": {
+      "__DOCUMENT_NAME__": "Moonbeam",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Moonbeam.webp"
+    },
+    "1JDQNi8jpPWLdC1j": {
+      "__DOCUMENT_NAME__": "Not Done Yet",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Not Done Yet.webp"
+    },
+    "1PPk39iarFpWylOi": {
+      "__DOCUMENT_NAME__": "Order of the Lycan",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Order of the Lycan.webp"
+    },
+    "2hc4yqjBl4OBUqyi": {
+      "__DOCUMENT_NAME__": "Dark Aegis",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dark Aegis.webp"
+    },
+    "2xcf2LtJxhHIwdii": {
+      "__DOCUMENT_NAME__": "Patron's Mantle",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Patron's Mantle.webp"
+    },
+    "3hlcRfU3pyOkd0QO": {
+      "__DOCUMENT_NAME__": "Poison Compendium",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poison Compendium.webp"
+    },
+    "4Jaekd41DdaPdWkw": {
+      "__DOCUMENT_NAME__": "Order of the Mutant",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Order of the Mutant.webp"
+    },
+    "6jexZv6ufhinEvNp": {
+      "__DOCUMENT_NAME__": "Stance - Nimble",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Nimble.webp"
+    },
+    "7FU7iLVhR5uPLFI3": {
+      "__DOCUMENT_NAME__": "Divine Ire",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Divine Ire.webp"
+    },
+    "84XJzmb6ZORSDA5Q": {
+      "__DOCUMENT_NAME__": "Stance - Devastating",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Devastating.webp"
+    },
+    "8EGGJmnqPBs9CrO9": {
+      "__DOCUMENT_NAME__": "Shadowed Grit",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Shadowed Grit.webp"
+    },
+    "8nNEye6mUp0ct0tR": {
+      "__DOCUMENT_NAME__": "Overwhelm",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Overwhelm.webp"
+    },
+    "8wGHiaqfE9vTL4b4": {
+      "__DOCUMENT_NAME__": "Stance - Deadly",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Deadly.webp"
+    },
+    "9B0vYW02mCTo2TNZ": {
+      "__DOCUMENT_NAME__": "Spirit Blast",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Spirit Blast.webp"
+    },
+    "B1cRvAutx7hJ2bSv": {
+      "__DOCUMENT_NAME__": "Diminish My Foes",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Diminish My Foes.webp"
+    },
+    "BWdPOFAVPDiLyuTf": {
+      "__DOCUMENT_NAME__": "Eye for an Eye",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Eye for an Eye.webp"
+    },
+    "BknIK490FjvSPQ1Y": {
+      "__DOCUMENT_NAME__": "Backstab",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Backstab.webp"
+    },
+    "BnGRJDnIO6CqDY6W": {
+      "__DOCUMENT_NAME__": "Stance - Immovable",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Immovable.webp"
+    },
+    "BpeJi5xFnTxmi1Ru": {
+      "__DOCUMENT_NAME__": "Stance - Steady",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Steady.webp"
+    },
+    "C0ZrpyxqH34H3HUd": {
+      "__DOCUMENT_NAME__": "Stance - Discerning",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Discerning.webp"
+    },
+    "CIl8Pe4wzhEGuzp9": {
+      "__DOCUMENT_NAME__": "Stance - Deflecting",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Deflecting.webp"
+    },
+    "E4mCXEhDgircBtUz": {
+      "__DOCUMENT_NAME__": "Scorpion's Poise",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Scorpion's Poise.webp"
+    },
+    "GXYbLE8fG6fmGvFE": {
+      "__DOCUMENT_NAME__": "Lycan Regeneration",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lycan Regeneration.webp"
+    },
+    "H8iGhoEsLwbhmUjb": {
+      "__DOCUMENT_NAME__": "Master the Beast",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Master the Beast.webp"
+    },
+    "IRDj7cX6vLINhusw": {
+      "__DOCUMENT_NAME__": "Stance - Inexorable",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Inexorable.webp"
+    },
+    "ISXRuxaNUPhIwV9k": {
+      "__DOCUMENT_NAME__": "Draining Invoaction",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Draining Invoaction.webp"
+    },
+    "JIO4bvmWGH4tTXpQ": {
+      "__DOCUMENT_NAME__": "Werewolf",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Werewolf.webp"
+    },
+    "JWlQd6XSBB22ASBs": {
+      "__DOCUMENT_NAME__": "Executioner's Guild",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Executioner's Guild.webp"
+    },
+    "JiPSjjjWxSbnoQRe": {
+      "__DOCUMENT_NAME__": "Improved Mutagens",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Improved Mutagens.webp"
+    },
+    "Jo2boavBA4SIjW9s": {
+      "__DOCUMENT_NAME__": "Focus",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Focus.webp"
+    },
+    "M1CBMs4kVOxMnUIT": {
+      "__DOCUMENT_NAME__": "Stance - Quick",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Quick.webp"
+    },
+    "MHKcMoI1FOlEbi7M": {
+      "__DOCUMENT_NAME__": "Stance - Brutal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Brutal.webp"
+    },
+    "Ml0J1AIRZybDEVB3": {
+      "__DOCUMENT_NAME__": "Lunar Phases",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lunar Phases.webp"
+    },
+    "NQk8DYJvqHIoGk3k": {
+      "__DOCUMENT_NAME__": "First Strike",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/First Strike.webp"
+    },
+    "NiwO97xwVdBY3gBN": {
+      "__DOCUMENT_NAME__": "Moon",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Moon.webp"
+    },
+    "OZ8r71TiDaHkYkAo": {
+      "__DOCUMENT_NAME__": "Toxic Concoctions",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Toxic Concoctions.webp"
+    },
+    "PEvHamXOy4Ru6UnS": {
+      "__DOCUMENT_NAME__": "True Strike",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/True Strike.webp"
+    },
+    "PLGeJvQDPaa1GvtG": {
+      "__DOCUMENT_NAME__": "Envenomate",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Envenomate.webp"
+    },
+    "PlOmkkaDCr2cr7Kz": {
+      "__DOCUMENT_NAME__": "Stance - Hindering",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Hindering.webp"
+    },
+    "SQIFYA6kXrkhAqVF": {
+      "__DOCUMENT_NAME__": "Martial Form",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Martial Form.webp"
+    },
+    "T0X88UuKtmf5Adlb": {
+      "__DOCUMENT_NAME__": "Stance - Infuriating",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Infuriating.webp"
+    },
+    "Ty34dVRK56nsP2A9": {
+      "__DOCUMENT_NAME__": "Limit Breaker",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Limit Breaker.webp"
+    },
+    "UeY92YRyTAeTPnam": {
+      "__DOCUMENT_NAME__": "Tethered Talisman",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Tethered Talisman.webp"
+    },
+    "UtwvKjk5GHjTNaRc": {
+      "__DOCUMENT_NAME__": "Venomancer",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Venomancer.webp"
+    },
+    "WzzhboGOu8DVPo6i": {
+      "__DOCUMENT_NAME__": "Stance - Dueling",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Dueling.webp"
+    },
+    "X6DgNzoKpJbG3VXf": {
+      "__DOCUMENT_NAME__": "Martial Artist",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Martial Artist.webp"
+    },
+    "XNzu91GBdGoQW8c6": {
+      "__DOCUMENT_NAME__": "Adder's Blessing",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adder's Blessing.webp"
+    },
+    "XOYTovtyz7MwsRlP": {
+      "__DOCUMENT_NAME__": "Stance - Favored",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Favored.webp"
+    },
+    "XeSsopeDDreSRv5A": {
+      "__DOCUMENT_NAME__": "Control the Beast",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Control the Beast.webp"
+    },
+    "YN38IzjqW5paIy92": {
+      "__DOCUMENT_NAME__": "Veilwalker",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Veilwalker.webp"
+    },
+    "ZYdJamwMgRsiG733": {
+      "__DOCUMENT_NAME__": "Spectral Form",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Spectral Form.webp"
+    },
+    "aFtWBHgUBxsCptI2": {
+      "__DOCUMENT_NAME__": "Feral Hide",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Feral Hide.webp"
+    },
+    "ancvKGl3z9tFzTnC": {
+      "__DOCUMENT_NAME__": "Stance - Defensive",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Defensive.webp"
+    },
+    "cRpZSf8BS9PZ3t1H": {
+      "__DOCUMENT_NAME__": "Pact of the Wrathful",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pact of the Wrathful.webp"
+    },
+    "cpQEaPhWDTtzJaM0": {
+      "__DOCUMENT_NAME__": "Stance - Otherworldly",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Otherworldly.webp"
+    },
+    "dnoz8nrt9YwBXGpG": {
+      "__DOCUMENT_NAME__": "Rugged",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rugged.webp"
+    },
+    "f3gYBycYNvTeskIU": {
+      "__DOCUMENT_NAME__": "Menacing Reach",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Menacing Reach.webp"
+    },
+    "fhkx0mmwpQBsD6T6": {
+      "__DOCUMENT_NAME__": "Keen Defenses",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Keen Defenses.webp"
+    },
+    "fq4ZRGcHFFUqmkjt": {
+      "__DOCUMENT_NAME__": "Twin Fang",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Twin Fang.webp"
+    },
+    "gAB29yCHpBCmvcoY": {
+      "__DOCUMENT_NAME__": "Stance - Precise",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Precise.webp"
+    },
+    "gZh90ynsXE7DR7qA": {
+      "__DOCUMENT_NAME__": "Favored Weapon",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Favored Weapon.webp"
+    },
+    "h0PlfOo87vjMIR2n": {
+      "__DOCUMENT_NAME__": "Mutagens",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mutagens.webp"
+    },
+    "h3bzYGrnwkKQBJ6d": {
+      "__DOCUMENT_NAME__": "Chasing Death",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chasing Death.webp"
+    },
+    "hVQW2ZDnvUKZ8iaA": {
+      "__DOCUMENT_NAME__": "Stance - Sheltering",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Sheltering.webp"
+    },
+    "iQAXTA6y0KhzKUcU": {
+      "__DOCUMENT_NAME__": "Stance - Invigorating",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Invigorating.webp"
+    },
+    "ihGjGgVizC2rS40H": {
+      "__DOCUMENT_NAME__": "Stance - Crushing",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Crushing.webp"
+    },
+    "mRNqGokQNZEK8GSP": {
+      "__DOCUMENT_NAME__": "Volatile Toxins",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Volatile Toxins.webp"
+    },
+    "mtSB83J6AVHQCyST": {
+      "__DOCUMENT_NAME__": "Walk Between Worlds",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Walk Between Worlds.webp"
+    },
+    "n9rDbUzeOhbcvnZf": {
+      "__DOCUMENT_NAME__": "Death Strike",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Death Strike.webp"
+    },
+    "oW8fm6mYYiQh4mV5": {
+      "__DOCUMENT_NAME__": "Stance - Scary",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Scary.webp"
+    },
+    "odsZlBla7ScnH71d": {
+      "__DOCUMENT_NAME__": "Draining Bane",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Draining Bane.webp"
+    },
+    "pYtLdnmhKmVtxsIM": {
+      "__DOCUMENT_NAME__": "Herbal Remedies",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Herbal Remedies.webp"
+    },
+    "pj9E3iEGM6CSrGXW": {
+      "__DOCUMENT_NAME__": "Stance - Grappling",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Grappling.webp"
+    },
+    "pyLk7uFA6tq1hx4e": {
+      "__DOCUMENT_NAME__": "Hedge",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Hedge.webp"
+    },
+    "s6dmv9mJFNDBRCp3": {
+      "__DOCUMENT_NAME__": "Juggernaut",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Juggernaut.webp"
+    },
+    "sajwdoQ5JVzqeqsj": {
+      "__DOCUMENT_NAME__": "Poisoner's Guild",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Poisoner's Guild.webp"
+    },
+    "siGdOAZuHWDRGgo4": {
+      "__DOCUMENT_NAME__": "Circle of Power",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Circle of Power.webp"
+    },
+    "t1lIvKp3fvKVu8nJ": {
+      "__DOCUMENT_NAME__": "Deadly Devotion",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Deadly Devotion.webp"
+    },
+    "ulURXMXGHT33vnD9": {
+      "__DOCUMENT_NAME__": "Mastered Mutagens",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mastered Mutagens.webp"
+    },
+    "uomGREZnjHjwy0YA": {
+      "__DOCUMENT_NAME__": "Fearsome Attack",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fearsome Attack.webp"
+    },
+    "uuN9pmLxcM5ZeF3d": {
+      "__DOCUMENT_NAME__": "Enhanced Hex",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Enhanced Hex.webp"
+    },
+    "vCuAtUqMUzUXmRek": {
+      "__DOCUMENT_NAME__": "Ambush",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ambush.webp"
+    },
+    "vS5zCTDM113UepaH": {
+      "__DOCUMENT_NAME__": "Night's Glamour",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Night's Glamour.webp"
+    },
+    "w4jBE2N9ElpuXTH6": {
+      "__DOCUMENT_NAME__": "Pummeljoy",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pummeljoy.webp"
+    },
+    "wMugZ0ELzCDSPxb8": {
+      "__DOCUMENT_NAME__": "Ire of Pale Light",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ire of Pale Light.webp"
+    },
+    "wTKUd4DxHykGwODz": {
+      "__DOCUMENT_NAME__": "Stance - Sweeping",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Stance - Sweeping.webp"
+    },
+    "xxveojkHyNP87id8": {
+      "__DOCUMENT_NAME__": "Herald of Death",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Herald of Death.webp"
+    },
+    "yqhWXbgBDFkW2wCA": {
+      "__DOCUMENT_NAME__": "Pact of the Endless",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pact of the Endless.webp"
+    },
+    "z3VfJAbaZNiU40FS": {
+      "__DOCUMENT_NAME__": "Powerhouse",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Powerhouse.webp"
+    },
+    "zkpNSVJfpnR0InYL": {
+      "__DOCUMENT_NAME__": "Order of the Ghost Slayer",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Order of the Ghost Slayer.webp"
+    }
+  }
+}

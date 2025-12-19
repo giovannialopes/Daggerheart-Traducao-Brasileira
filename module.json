@@ -1,0 +1,62 @@
+{
+  "id": "daggerheart-ptbr",
+  "title": "Daggerheart - Tradução Brasileira",
+  "description": "<p>Adiciona o idioma Português (Brasil) para o sistema de jogo Daggerheart.</p>",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "pt-BR",
+        "type": "module",
+        "manifest": "https://github.com/mclemente/fvtt-ptbr-core-translation/releases/latest/download/module.json",
+        "compatibility": {}
+      }      
+    ]
+  },
+  "authors": [
+    {
+      "name": "Adags",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "scripts/babele.js"
+  ],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/daggerheart-ptbr/assets/dh-thumb.webp",
+      "loop": false
+    }
+  ],  
+
+  "styles": ["css/pause.css"],
+  
+  "url": "https://github.com/giovannialopes/Daggerheart-Traducao-Brasileira",
+  "manifest": "https://raw.githubusercontent.com/giovannialopes/Daggerheart-Traducao-Brasileira/main/module.json",
+  "download": "https://codeload.github.com/giovannialopes/Daggerheart-Traducao-Brasileira/zip/main"
+}

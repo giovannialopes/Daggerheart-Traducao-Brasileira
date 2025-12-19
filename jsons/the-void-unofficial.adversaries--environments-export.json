@@ -1,0 +1,88 @@
+{
+  "the-void-unofficial.adversaries--environments": {
+    "0IWZIrFaZeDruAl7": {
+      "__DOCUMENT_NAME__": "Owl Witch",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Owl Witch.webp"
+    },
+    "3HJa4BGTTX13whw6": {
+      "__DOCUMENT_NAME__": "Hallowed Choir",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Hallowed Choir.webp"
+    },
+    "6cbaxmwtfSD93kUM": {
+      "__DOCUMENT_NAME__": "Dragon Knight",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dragon Knight.webp"
+    },
+    "BDIu3Cv2O8n0dDhP": {
+      "__DOCUMENT_NAME__": "Rabble Mawb",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rabble Mawb.webp"
+    },
+    "F5QgCR1cFXdIIGpj": {
+      "__DOCUMENT_NAME__": "Gargoyle",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gargoyle.webp"
+    },
+    "Gtigxf2glxKYsNGW": {
+      "__DOCUMENT_NAME__": "Convergence, The City Of Portals",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Convergence, The City of Portals.webp"
+    },
+    "I3g1151tJX61GRpr": {
+      "__DOCUMENT_NAME__": "Chimera",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chimera.webp"
+    },
+    "JyPEYHugLYqEq2LB": {
+      "__DOCUMENT_NAME__": "Doppelhünd",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Doppelhünd.webp"
+    },
+    "UOgTnYKuZmfANobw": {
+      "__DOCUMENT_NAME__": "Enraged Mountain Troll - Evolution",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Enraged Mountain Troll - Evolution.webp"
+    },
+    "YjEhTSi8EjrRwCJX": {
+      "__DOCUMENT_NAME__": "Whisper Wraith",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Whisper Wraith.webp"
+    },
+    "cEth1BsIdT1mRcpv": {
+      "__DOCUMENT_NAME__": "Lamplight Beguiler",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lamplight Beguiler.webp"
+    },
+    "eOAAPPIg4OxPo7Yt": {
+      "__DOCUMENT_NAME__": "Grand Feast",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Grand Feast.webp"
+    },
+    "eYK89poz6JDCPjQU": {
+      "__DOCUMENT_NAME__": "Xero, Castle Killer",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Xero, Castle Killer.webp"
+    },
+    "fEeO0Im5HGnKPyBF": {
+      "__DOCUMENT_NAME__": "Crystal Wasteland",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Crystal Wasteland.webp"
+    },
+    "fvtlKK0dgiZNURSI": {
+      "__DOCUMENT_NAME__": "Cephilith Priest",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cephilith Priest.webp"
+    },
+    "q2ONjPiFTsIg2eVL": {
+      "__DOCUMENT_NAME__": "Redcap Candlemaker",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Redcap Candlemaker.webp"
+    },
+    "tf8vNgDBfrDGMZRx": {
+      "__DOCUMENT_NAME__": "Gobstalker",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gobstalker.webp"
+    },
+    "v2snB0qmT6yxjE9b": {
+      "__DOCUMENT_NAME__": "Redcap Butcher",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Redcap Butcher.webp"
+    },
+    "vFGpPuA1WF3KN8ma": {
+      "__DOCUMENT_NAME__": "Mountain Troll",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mountain Troll.webp"
+    },
+    "vSoAtj2KOEMtBmr5": {
+      "__DOCUMENT_NAME__": "Heist",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Heist.webp"
+    },
+    "xVyJ7N3qKOIKAggE": {
+      "__DOCUMENT_NAME__": "Fellmounted Shadow King",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fellmounted Shadow King.webp"
+    }
+  }
+}

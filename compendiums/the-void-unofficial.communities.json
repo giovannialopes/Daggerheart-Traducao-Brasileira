@@ -1,0 +1,70 @@
+{
+  "label": "Comunidades (The Void)",
+  "folders": {},
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Hardy",
+      "name": "Resistente",
+      "description": ""
+    },
+    {
+      "id": "Warborne",
+      "name": "Nascido da Guerra",
+      "description": ""
+    },
+    {
+      "id": "Unbound",
+      "name": "Desatado",
+      "description": ""
+    },
+    {
+      "id": "Found Family",
+      "name": "Família Encontrada",
+      "description": ""
+    },
+    {
+      "id": "Hearthborne",
+      "name": "Nascido do Lar",
+      "description": ""
+    },
+    {
+      "id": "Brave Face",
+      "name": "Rosto Corajoso",
+      "description": ""
+    },
+    {
+      "id": "Reborne",
+      "name": "Renascido",
+      "description": ""
+    },
+    {
+      "id": "Duneborne",
+      "name": "Nascido das Dunas",
+      "description": ""
+    },
+    {
+      "id": "Close-Knit",
+      "name": "Unido",
+      "description": ""
+    },
+    {
+      "id": "Oasis",
+      "name": "Oásis",
+      "description": ""
+    },
+    {
+      "id": "Frostborne",
+      "name": "Nascido da Geada",
+      "description": ""
+    },
+    {
+      "id": "Freeborne",
+      "name": "Nascido Livre",
+      "description": ""
+    }
+  ]
+}
+

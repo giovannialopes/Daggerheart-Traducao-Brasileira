@@ -1,0 +1,760 @@
+{
+  "daggerheart.domains": {
+    "06UapZuaA5S6fAKl": {
+      "__DOCUMENT_NAME__": "Coletor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Coletor.webp"
+    },
+    "0kAVO6rordCfZqYP": {
+      "__DOCUMENT_NAME__": "Corrente de Relâmpagos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Corrente de Relâmpagos.webp"
+    },
+    "0vdpIn06ifF3xxqZ": {
+      "__DOCUMENT_NAME__": "Recuo Espectral",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Recuo Espectral.webp"
+    },
+    "1ROT08E1UVBwHLAS": {
+      "__DOCUMENT_NAME__": "Caminhar na Parede",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Caminhar na Parede.webp"
+    },
+    "1VXzwRbvbBj5bd5V": {
+      "__DOCUMENT_NAME__": "Livro de Tyfar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Tyfar.webp"
+    },
+    "1p1cOmbnRd5CoKBp": {
+      "__DOCUMENT_NAME__": "Impacto Defensivo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Impacto Defensivo.webp"
+    },
+    "2ZeuCGVatQdPOVC6": {
+      "__DOCUMENT_NAME__": "Lampejo Hipnótico",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Lampejo Hipnótico.webp"
+    },
+    "2ooUo2yoilGifY81": {
+      "__DOCUMENT_NAME__": "Ataque Imprudente",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ataque Imprudente.webp"
+    },
+    "38znCh6kHTkaPwYi": {
+      "__DOCUMENT_NAME__": "Dissimulação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dissimulação.webp"
+    },
+    "3A7LZ1xmDEMGa165": {
+      "__DOCUMENT_NAME__": "Imitador",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Imitador.webp"
+    },
+    "3zvjgZ5Od343wHzx": {
+      "__DOCUMENT_NAME__": "Guerra e Glória",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Guerra e Glória.webp"
+    },
+    "4uAFGp3LxiC07woC": {
+      "__DOCUMENT_NAME__": "Feixe de Remissão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Feixe de Remissão.webp"
+    },
+    "54GUjNuBEy7xdzMz": {
+      "__DOCUMENT_NAME__": "Voo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Voo.webp"
+    },
+    "5EP2Lgf7ojfrc0Is": {
+      "__DOCUMENT_NAME__": "Incendiar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Incendiar.webp"
+    },
+    "5PvMQKCjrgSxzstn": {
+      "__DOCUMENT_NAME__": "Dom Arcano",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom Arcano.webp"
+    },
+    "5b1awkgTmMp3FVrm": {
+      "__DOCUMENT_NAME__": "Aproximação Estratégica",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aproximação Estratégica.webp"
+    },
+    "5bBU9jWHOuOY12lR": {
+      "__DOCUMENT_NAME__": "Mexa-se",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mexa-se.webp"
+    },
+    "62Sj67PdPFzwWVe3": {
+      "__DOCUMENT_NAME__": "Eclipse",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Eclipse.webp"
+    },
+    "6dhqo1kzGxejCjHa": {
+      "__DOCUMENT_NAME__": "Contramágica",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Contramágica.webp"
+    },
+    "7Pu83ABdMukTxu3e": {
+      "__DOCUMENT_NAME__": "Dom do Códice",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom do Códice.webp"
+    },
+    "7b0mzV5QMPjVPT4o": {
+      "__DOCUMENT_NAME__": "Espionar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espionar.webp"
+    },
+    "8UANBgSdhMZ0sqfO": {
+      "__DOCUMENT_NAME__": "Golpe Debilitante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpe Debilitante.webp"
+    },
+    "8nRle10pw1HO8QVu": {
+      "__DOCUMENT_NAME__": "Partilhar o Fardo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Partilhar o Fardo.webp"
+    },
+    "9DwSxHoUwl8Kxj3n": {
+      "__DOCUMENT_NAME__": "Amontoar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Amontoar.webp"
+    },
+    "9QElncQUDSakuSdR": {
+      "__DOCUMENT_NAME__": "Intocável",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Intocável.webp"
+    },
+    "9a6xP5pxhVvdugk9": {
+      "__DOCUMENT_NAME__": "Soberania Vegetal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Soberania Vegetal.webp"
+    },
+    "9dFvcM1i3bxG3BSA": {
+      "__DOCUMENT_NAME__": "Fortaleza Selvagem",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fortaleza Selvagem.webp"
+    },
+    "A0XzD6MmBXYdk7Ps": {
+      "__DOCUMENT_NAME__": "Caçador Sombrio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Caçador Sombrio.webp"
+    },
+    "ABp9pUfBS69NomTD": {
+      "__DOCUMENT_NAME__": "Inspiração Crítica",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Inspiração Crítica.webp"
+    },
+    "AIbHfryMA2Rvs1ut": {
+      "__DOCUMENT_NAME__": "Banir",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Banir.webp"
+    },
+    "B4choj481tqajWb9": {
+      "__DOCUMENT_NAME__": "Sondar Pensamentos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sondar Pensamentos.webp"
+    },
+    "B5HXqYRJiL3xMNKT": {
+      "__DOCUMENT_NAME__": "Glifo do Ocaso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Glifo do Ocaso.webp"
+    },
+    "BFWN2cObMdlk9uVz": {
+      "__DOCUMENT_NAME__": "Levante-se",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Levante-se.webp"
+    },
+    "BNevJyGk7hmN7XOY": {
+      "__DOCUMENT_NAME__": "Raio Luminoso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Raio Luminoso.webp"
+    },
+    "BdePs1ZWpZTZvY1Z": {
+      "__DOCUMENT_NAME__": "Palavras de Conforto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Palavras de Conforto.webp"
+    },
+    "C0qLOwSSvZ6PG3Ws": {
+      "__DOCUMENT_NAME__": "Terremoto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Terremoto.webp"
+    },
+    "CUIQmrPjf9VCHmwJ": {
+      "__DOCUMENT_NAME__": "Invencível",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Invencível.webp"
+    },
+    "DjnKlZQYaWdQGKcK": {
+      "__DOCUMENT_NAME__": "Aspecto Selvagem",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aspecto Selvagem.webp"
+    },
+    "Ef1JsUG50LIoKx2F": {
+      "__DOCUMENT_NAME__": "Grito de Guerra",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Grito de Guerra.webp"
+    },
+    "F2m9wvZ3v5c3yCtv": {
+      "__DOCUMENT_NAME__": "Santuário Selvagem",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Santuário Selvagem.webp"
+    },
+    "FXLsB3QbQvTtqX5B": {
+      "__DOCUMENT_NAME__": "Espírito da Meia-noite",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espírito da Meia-noite.webp"
+    },
+    "FgzBppvLjXr0UbUI": {
+      "__DOCUMENT_NAME__": "Telecinese",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Telecinese.webp"
+    },
+    "GBMIElIpk4cvk1Bd": {
+      "__DOCUMENT_NAME__": "Esvanecer",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Esvanecer.webp"
+    },
+    "GEhBUmv9Bj7oJfHk": {
+      "__DOCUMENT_NAME__": "Proteção Rúnica",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Proteção Rúnica.webp"
+    },
+    "GRL0cvs96vrTDckZ": {
+      "__DOCUMENT_NAME__": "Fúria",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fúria.webp"
+    },
+    "Gb5bqpFSBiuBxUix": {
+      "__DOCUMENT_NAME__": "Dom da Lâmina",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom da Lâmina.webp"
+    },
+    "GlRm1Dxlc0Z1b04o": {
+      "__DOCUMENT_NAME__": "Campo Curativo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Campo Curativo.webp"
+    },
+    "H6TqCJBaa1eWEQ1z": {
+      "__DOCUMENT_NAME__": "Passo Célere",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Passo Célere.webp"
+    },
+    "HTv9QEPS466WsstP": {
+      "__DOCUMENT_NAME__": "Não Minta Para Mim",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Não Minta Para Mim.webp"
+    },
+    "HdgZUfWd7Hyj7nBW": {
+      "__DOCUMENT_NAME__": "Delinquente",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Delinquente.webp"
+    },
+    "HnPwVrWblYa9hwSt": {
+      "__DOCUMENT_NAME__": "Teleporte",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Teleporte.webp"
+    },
+    "HtWx5IIemCoorMj2": {
+      "__DOCUMENT_NAME__": "Barreira Revigorante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Barreira Revigorante.webp"
+    },
+    "HufF5KzuNfEb9RTi": {
+      "__DOCUMENT_NAME__": "Incitar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Incitar.webp"
+    },
+    "I7pNsQ9Yx6mRJX4V": {
+      "__DOCUMENT_NAME__": "Massacrar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Massacrar.webp"
+    },
+    "IqxzvvjZiYbgx21A": {
+      "__DOCUMENT_NAME__": "Notoriedade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Notoriedade.webp"
+    },
+    "J1ovx2FpNDvPq1o6": {
+      "__DOCUMENT_NAME__": "Livro de Yarrow",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Yarrow.webp"
+    },
+    "JT5dM3gVL6chDBYU": {
+      "__DOCUMENT_NAME__": "Dom do Esplendor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom do Esplendor.webp"
+    },
+    "Jkp6cMDiHHaBZQRS": {
+      "__DOCUMENT_NAME__": "Conjurar Montarias",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Conjurar Montarias.webp"
+    },
+    "JrdZedm1BFKeV7Yb": {
+      "__DOCUMENT_NAME__": "Insolência",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Insolência.webp"
+    },
+    "JrkUMTzaFmQNBHVm": {
+      "__DOCUMENT_NAME__": "Espíritos da Floresta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espíritos da Floresta.webp"
+    },
+    "JwfhtgmmuRxg4zhI": {
+      "__DOCUMENT_NAME__": "Desprezar Fraqueza",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Desprezar Fraqueza.webp"
+    },
+    "JzSvxy9Mu3RJp1jV": {
+      "__DOCUMENT_NAME__": "Reflexo Arcano",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Reflexo Arcano.webp"
+    },
+    "K8oFepK24UVsAX8B": {
+      "__DOCUMENT_NAME__": "Adivinhação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adivinhação.webp"
+    },
+    "KAuNb51AwhD8KEXk": {
+      "__DOCUMENT_NAME__": "Dom da Graça",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom da Graça.webp"
+    },
+    "KHkzA4Zrw8EWN1CH": {
+      "__DOCUMENT_NAME__": "Invisibilidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Invisibilidade.webp"
+    },
+    "KOf6LLpMRNwjezDx": {
+      "__DOCUMENT_NAME__": "Sou Seu Escudo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sou Seu Escudo.webp"
+    },
+    "Kp6RejHGimnuoBom": {
+      "__DOCUMENT_NAME__": "Um Passo à Frente",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Um Passo à Frente.webp"
+    },
+    "LWRkhNY968Cu2Zl5": {
+      "__DOCUMENT_NAME__": "Golpe Pessoal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpe Pessoal.webp"
+    },
+    "LzVpMkD5I4QeaIHf": {
+      "__DOCUMENT_NAME__": "Força da Natureza",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Força da Natureza.webp"
+    },
+    "MCgNRlh0s5XUPCfl": {
+      "__DOCUMENT_NAME__": "Golpe da Morte",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpe da Morte.webp"
+    },
+    "MMl7abdGRLl7TJLO": {
+      "__DOCUMENT_NAME__": "Frenesi",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Frenesi.webp"
+    },
+    "McdncxmO9K1YNP7Y": {
+      "__DOCUMENT_NAME__": "Jamais Esquecido",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Jamais Esquecido.webp"
+    },
+    "NIUhmuQGwbb3UClZ": {
+      "__DOCUMENT_NAME__": "Mestre da Furtividade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mestre da Furtividade.webp"
+    },
+    "Nbw6Jnh1vRZzwHQI": {
+      "__DOCUMENT_NAME__": "Últimas Palavras",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Últimas Palavras.webp"
+    },
+    "NeEOghgfyDUBTwBG": {
+      "__DOCUMENT_NAME__": "Calejado pela Batalha",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Calejado pela Batalha.webp"
+    },
+    "O38MQMhJWdZnXi6b": {
+      "__DOCUMENT_NAME__": "Conhece teu Inimigo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Conhece teu Inimigo.webp"
+    },
+    "ON5bvnoQBy0SYc9Y": {
+      "__DOCUMENT_NAME__": "Dom da Falange",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom da Falange.webp"
+    },
+    "OszbCj0jTqq2ADx9": {
+      "__DOCUMENT_NAME__": "Sigilo da Vida",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sigilo da Vida.webp"
+    },
+    "P0ezScyQ5t8ruByf": {
+      "__DOCUMENT_NAME__": "Monstro de Batalha",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Monstro de Batalha.webp"
+    },
+    "QED2PDYePOSTbLtC": {
+      "__DOCUMENT_NAME__": "Palavras Tranquilizantes",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Palavras Tranquilizantes.webp"
+    },
+    "QXs4vssSqNGQu5b8": {
+      "__DOCUMENT_NAME__": "Resistir",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Resistir.webp"
+    },
+    "Qu0iA4s3Xov10Erd": {
+      "__DOCUMENT_NAME__": "Translocação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Translocação.webp"
+    },
+    "R0LNheiZycZlZzV3": {
+      "__DOCUMENT_NAME__": "Livro de Grynn",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Grynn.webp"
+    },
+    "R5GYUalYXLLFRlNl": {
+      "__DOCUMENT_NAME__": "Estrangulamento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Estrangulamento.webp"
+    },
+    "R8NDiJXJWmC48WSr": {
+      "__DOCUMENT_NAME__": "Aura de Confusão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aura de Confusão.webp"
+    },
+    "RiuN0lMlfoTAhLJz": {
+      "__DOCUMENT_NAME__": "Sigilo da Retaliação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sigilo da Retaliação.webp"
+    },
+    "SDjjV61TC1NceV1m": {
+      "__DOCUMENT_NAME__": "Tributo do Anoitecer",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Tributo do Anoitecer.webp"
+    },
+    "SZMNR3uGNinJcN4N": {
+      "__DOCUMENT_NAME__": "Livro de Ronin",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Ronin.webp"
+    },
+    "SgvjJfMyubZowPxS": {
+      "__DOCUMENT_NAME__": "Testar os Limites",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Testar os Limites.webp"
+    },
+    "TGjR4vJVNbQRV8zr": {
+      "__DOCUMENT_NAME__": "Toque Reparador",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Toque Reparador.webp"
+    },
+    "TV56wSysbU5xAlOa": {
+      "__DOCUMENT_NAME__": "Disfarce Inquietante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Disfarce Inquietante.webp"
+    },
+    "TYKfM3H9vBXyWiH4": {
+      "__DOCUMENT_NAME__": "Ataque Fragmentado",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ataque Fragmentado.webp"
+    },
+    "Tag303LoRNC5zGgl": {
+      "__DOCUMENT_NAME__": "Familiar da Natureza",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Familiar da Natureza.webp"
+    },
+    "TtGOtWkbr23VhHfH": {
+      "__DOCUMENT_NAME__": "Muralha",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Muralha.webp"
+    },
+    "U1uWJE94HZVudujz": {
+      "__DOCUMENT_NAME__": "Punição",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Punição.webp"
+    },
+    "Ucenef6JpjQxwXni": {
+      "__DOCUMENT_NAME__": "Chuva de Lâminas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chuva de Lâminas.webp"
+    },
+    "VKAHS6eWz28ukcDs": {
+      "__DOCUMENT_NAME__": "Impulso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Impulso.webp"
+    },
+    "VOIgm2j2Ijszwc5m": {
+      "__DOCUMENT_NAME__": "Livro de Vyola",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Vyola.webp"
+    },
+    "VOSFaQHZbmhMyXwi": {
+      "__DOCUMENT_NAME__": "Dom da Sabedoria",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom da Sabedoria.webp"
+    },
+    "VZ2b4zfRzV73XTuT": {
+      "__DOCUMENT_NAME__": "Rastreador Talentoso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rastreador Talentoso.webp"
+    },
+    "WChWEH36lUpXAC0K": {
+      "__DOCUMENT_NAME__": "Táticas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Táticas.webp"
+    },
+    "WTlhnQMajc1r8i50": {
+      "__DOCUMENT_NAME__": "Mãos Curativas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mãos Curativas.webp"
+    },
+    "WnGldYhJPDhx8v9X": {
+      "__DOCUMENT_NAME__": "Abalo Sísmico",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Abalo Sísmico.webp"
+    },
+    "WtwSWXTRZa7QVvmo": {
+      "__DOCUMENT_NAME__": "Livro de Norai",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Norai.webp"
+    },
+    "X7YaZgFieBlqaPdZ": {
+      "__DOCUMENT_NAME__": "Tempestade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Tempestade.webp"
+    },
+    "X8OfkEoI5gLTRf1B": {
+      "__DOCUMENT_NAME__": "Revigorar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Revigorar.webp"
+    },
+    "XTT8c8uJ4D7fvtbL": {
+      "__DOCUMENT_NAME__": "Inevitável",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Inevitável.webp"
+    },
+    "XtSc0jIJLOoMTMYS": {
+      "__DOCUMENT_NAME__": "Golpe Curativo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpe Curativo.webp"
+    },
+    "Y08dLFuPXsgeRrHi": {
+      "__DOCUMENT_NAME__": "Fraternidade Marcial",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fraternidade Marcial.webp"
+    },
+    "YNOCNmZ96sCp9NEr": {
+      "__DOCUMENT_NAME__": "Projeção Astral",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Projeção Astral.webp"
+    },
+    "YWCRplmtwpCjpq5i": {
+      "__DOCUMENT_NAME__": "Líder Exemplar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Líder Exemplar.webp"
+    },
+    "YtZzYBtR0yLPPA93": {
+      "__DOCUMENT_NAME__": "Livro de Ava",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Ava.webp"
+    },
+    "Zhw7PtK8nMPlsOqD": {
+      "__DOCUMENT_NAME__": "Ocultação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ocultação.webp"
+    },
+    "ZjAdi1FSNCDDHI3X": {
+      "__DOCUMENT_NAME__": "Palavras de Discórdia",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Palavras de Discórdia.webp"
+    },
+    "Zp2S2EnLS5Iv3XuT": {
+      "__DOCUMENT_NAME__": "Ajustar Realidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ajustar Realidade.webp"
+    },
+    "a8lFiKX1o8T924ze": {
+      "__DOCUMENT_NAME__": "Enfeitiçar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Enfeitiçar.webp"
+    },
+    "aC43NiFQLpOADyjO": {
+      "__DOCUMENT_NAME__": "Premonição",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Premonição.webp"
+    },
+    "aQz8jKkCd8M9aKMA": {
+      "__DOCUMENT_NAME__": "Força Esmagadora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Força Esmagadora.webp"
+    },
+    "aknDDYtN7EObv94t": {
+      "__DOCUMENT_NAME__": "Livro de Vagras",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Vagras.webp"
+    },
+    "anO0arioUy7I5zBg": {
+      "__DOCUMENT_NAME__": "Turbilhão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Turbilhão.webp"
+    },
+    "atWLorlCOxcrq8WB": {
+      "__DOCUMENT_NAME__": "Voz da Natureza",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Voz da Natureza.webp"
+    },
+    "bap1eCWryPNowbyo": {
+      "__DOCUMENT_NAME__": "Acuidade Cruel",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Acuidade Cruel.webp"
+    },
+    "cWRFHJdxEZ0M1dAg": {
+      "__DOCUMENT_NAME__": "Livro de Korvax",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Korvax.webp"
+    },
+    "cWu1o82ZF7GvnbXc": {
+      "__DOCUMENT_NAME__": "Palavras Inspiradoras",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Palavras Inspiradoras.webp"
+    },
+    "cy8GjBPGc9w9RaGO": {
+      "__DOCUMENT_NAME__": "Armeiro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armeiro.webp"
+    },
+    "dT95m0Jam8sWbeuC": {
+      "__DOCUMENT_NAME__": "Disfarce em Massa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Disfarce em Massa.webp"
+    },
+    "db4xV3YErHRslbVE": {
+      "__DOCUMENT_NAME__": "Moldar Material",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Moldar Material.webp"
+    },
+    "dc4rAXlv95srZUct": {
+      "__DOCUMENT_NAME__": "Movimento Ligeiro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Movimento Ligeiro.webp"
+    },
+    "df4iRqQzRntrF6Qw": {
+      "__DOCUMENT_NAME__": "Livro de Illiat",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Illiat.webp"
+    },
+    "eq8VNqYMRHhF9xw9": {
+      "__DOCUMENT_NAME__": "Livro de Sitil",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Sitil.webp"
+    },
+    "ewhIzXQ2h9fS9I8c": {
+      "__DOCUMENT_NAME__": "Carga Mágica",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Carga Mágica.webp"
+    },
+    "faU0XkJCbar69PiN": {
+      "__DOCUMENT_NAME__": "Redirecionar",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Redirecionar.webp"
+    },
+    "ffPbSEvLuFrFsMxl": {
+      "__DOCUMENT_NAME__": "Novo Fôlego",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Novo Fôlego.webp"
+    },
+    "gFMx08ogQ8hS2Obi": {
+      "__DOCUMENT_NAME__": "Livro de Homet",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Homet.webp"
+    },
+    "gV4L5ZZmfPrEbIDh": {
+      "__DOCUMENT_NAME__": "Véu da Noite",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Véu da Noite.webp"
+    },
+    "gZOMzskSOfeiXn54": {
+      "__DOCUMENT_NAME__": "Projeção Sensorial",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Projeção Sensorial.webp"
+    },
+    "gsiQFT6q3WOgqerJ": {
+      "__DOCUMENT_NAME__": "Recuperação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Recuperação.webp"
+    },
+    "gwmYasmfgXZ7tFS6": {
+      "__DOCUMENT_NAME__": "Silêncio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Silêncio.webp"
+    },
+    "hZJp9mdkMnqKDROe": {
+      "__DOCUMENT_NAME__": "Chuva Arcana",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chuva Arcana.webp"
+    },
+    "iEBLySZD9z8CLdz7": {
+      "__DOCUMENT_NAME__": "Aura Esmagadora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aura Esmagadora.webp"
+    },
+    "iQhgqmLwhcSTYnvr": {
+      "__DOCUMENT_NAME__": "Espectro das Trevas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espectro das Trevas.webp"
+    },
+    "iYNVTB7uAD1FTCZu": {
+      "__DOCUMENT_NAME__": "Validação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Validação.webp"
+    },
+    "jSQsSP61CX4MhSN7": {
+      "__DOCUMENT_NAME__": "Ferocidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ferocidade.webp"
+    },
+    "k1AtYd3lSchIymBr": {
+      "__DOCUMENT_NAME__": "Dom do Bastião",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom do Bastião.webp"
+    },
+    "kVkoCLBXLAIifqpz": {
+      "__DOCUMENT_NAME__": "União Transcendental",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/União Transcendental.webp"
+    },
+    "kdFoLo3KXwn4LqTG": {
+      "__DOCUMENT_NAME__": "Manter Posição",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Manter Posição.webp"
+    },
+    "kguhWlidhxe2GbT0": {
+      "__DOCUMENT_NAME__": "Sombra Traiçoeira",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sombra Traiçoeira.webp"
+    },
+    "kja5qvh4rdeDBB96": {
+      "__DOCUMENT_NAME__": "Onda Desintegradora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Onda Desintegradora.webp"
+    },
+    "klahWDFwihqqEhXP": {
+      "__DOCUMENT_NAME__": "Em Dobro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Em Dobro.webp"
+    },
+    "l5D9kq901JDESaXw": {
+      "__DOCUMENT_NAME__": "Armadura Corporal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Corporal.webp"
+    },
+    "lOZaRb4fCVgQsWB5": {
+      "__DOCUMENT_NAME__": "Zona de Proteção",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Zona de Proteção.webp"
+    },
+    "lRHo6ZkK1zybeEoG": {
+      "__DOCUMENT_NAME__": "Fulgor Atordoante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fulgor Atordoante.webp"
+    },
+    "lmBLMPuR8qLbuzNf": {
+      "__DOCUMENT_NAME__": "Refúgio Seguro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Refúgio Seguro.webp"
+    },
+    "n0P3VS1WfxvmXbB6": {
+      "__DOCUMENT_NAME__": "Tronco Descomunal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Tronco Descomunal.webp"
+    },
+    "nCNCqSH7UgW4O3To": {
+      "__DOCUMENT_NAME__": "Golpe de Raspão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpe de Raspão.webp"
+    },
+    "o62i0QdbUDIiAhSq": {
+      "__DOCUMENT_NAME__": "Caos Liberto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Caos Liberto.webp"
+    },
+    "oDIZoC4l19Nli0Fj": {
+      "__DOCUMENT_NAME__": "Altivez",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Altivez.webp"
+    },
+    "oUipGK84E2KjoKqh": {
+      "__DOCUMENT_NAME__": "Pele de Espinhos",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pele de Espinhos.webp"
+    },
+    "oVa49lI107eZILZr": {
+      "__DOCUMENT_NAME__": "Armadura Fortificada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Fortificada.webp"
+    },
+    "oVs2MSC6Uf5GbgEG": {
+      "__DOCUMENT_NAME__": "Livro de Ecsota",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Livro de Ecsota.webp"
+    },
+    "pcbYD33rBBdAo5f9": {
+      "__DOCUMENT_NAME__": "Golpe Inspirador",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Golpe Inspirador.webp"
+    },
+    "qJaSNTuDfbPVr8Lb": {
+      "__DOCUMENT_NAME__": "Projétil Corrosivo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Projétil Corrosivo.webp"
+    },
+    "qvpvTnkAoRn9vYO4": {
+      "__DOCUMENT_NAME__": "Vinha Voraz",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Vinha Voraz.webp"
+    },
+    "rZPH0BY8Sznc9sFG": {
+      "__DOCUMENT_NAME__": "Conjurar Enxame",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Conjurar Enxame.webp"
+    },
+    "rfIv6lln40Fh6EIl": {
+      "__DOCUMENT_NAME__": "Aura Defensora",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aura Defensora.webp"
+    },
+    "rnejRbUQsNGX1GMC": {
+      "__DOCUMENT_NAME__": "Vantagem do Campeão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Vantagem do Campeão.webp"
+    },
+    "s3zRsOMeUkuDwgd8": {
+      "__DOCUMENT_NAME__": "Armadura Irredutível",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Armadura Irredutível.webp"
+    },
+    "sWUlSPOJEaXyQLCj": {
+      "__DOCUMENT_NAME__": "Vitalidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Vitalidade.webp"
+    },
+    "stId5syX7YpP2JGz": {
+      "__DOCUMENT_NAME__": "Bastião",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bastião.webp"
+    },
+    "t3RRGH6mMYYJJCcF": {
+      "__DOCUMENT_NAME__": "Voz da Razão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Voz da Razão.webp"
+    },
+    "tNzFNlVHghloKsFi": {
+      "__DOCUMENT_NAME__": "Carisma Infinito",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Carisma Infinito.webp"
+    },
+    "tceJDcCUefrMS2Ov": {
+      "__DOCUMENT_NAME__": "Contra-ataque Rápido",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Contra-ataque Rápido.webp"
+    },
+    "tdsL00yTSLNgZWs6": {
+      "__DOCUMENT_NAME__": "Presença Corajosa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Presença Corajosa.webp"
+    },
+    "uSyGKVxOJcnp28po": {
+      "__DOCUMENT_NAME__": "Dom das Sombras",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Dom das Sombras.webp"
+    },
+    "ubpixIgZrJXKyM3b": {
+      "__DOCUMENT_NAME__": "Enfeitiçar em Massa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Enfeitiçar em Massa.webp"
+    },
+    "vd5STqX29RpYbGxa": {
+      "__DOCUMENT_NAME__": "Fenda Espacial",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fenda Espacial.webp"
+    },
+    "wOQLu7nLMQ7v6Ogw": {
+      "__DOCUMENT_NAME__": "Olho Flutuante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Olho Flutuante.webp"
+    },
+    "wQ53ImDswEHv5SGQ": {
+      "__DOCUMENT_NAME__": "Versatilidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Versatilidade.webp"
+    },
+    "wUQFsRtww18naYaq": {
+      "__DOCUMENT_NAME__": "Restauração",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Restauração.webp"
+    },
+    "x0FVGE1YbfXalJiw": {
+      "__DOCUMENT_NAME__": "Constrição Mortal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Constrição Mortal.webp"
+    },
+    "xFOSn8IVVNizgHFq": {
+      "__DOCUMENT_NAME__": "Trajeto Mortal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Trajeto Mortal.webp"
+    },
+    "xheQZOIYp0ERQhT9": {
+      "__DOCUMENT_NAME__": "Não o Suficiente",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Não o Suficiente.webp"
+    },
+    "xxZOXC4tiZQ6kg1e": {
+      "__DOCUMENT_NAME__": "Concentração Mortal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Concentração Mortal.webp"
+    },
+    "yAGTwXHUC3qxpTeK": {
+      "__DOCUMENT_NAME__": "Mestre do Ofício",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Mestre do Ofício.webp"
+    },
+    "yL2qrSWmTwXVOySH": {
+      "__DOCUMENT_NAME__": "Sussurros Sombrios",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sussurros Sombrios.webp"
+    },
+    "z30ciOwQI7g3tHla": {
+      "__DOCUMENT_NAME__": "Ressurreição",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ressurreição.webp"
+    },
+    "z8FFPhDh2SdFkFfS": {
+      "__DOCUMENT_NAME__": "Imposição",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Imposição.webp"
+    },
+    "zbxPl81kbWEegKQN": {
+      "__DOCUMENT_NAME__": "Quase Lá",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Quase Lá.webp"
+    },
+    "zcldCuqOg3dphUVI": {
+      "__DOCUMENT_NAME__": "Terror Noturno",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Terror Noturno.webp"
+    }
+  }
+}

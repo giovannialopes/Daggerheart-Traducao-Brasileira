@@ -1,0 +1,244 @@
+{
+  "daggerheart.loot": {
+    "1TLpFsp3PLDsqoTw": {
+      "__DOCUMENT_NAME__": "Receita de Poção de Vigor Menor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Receita de Poção de Vigor Menor.webp"
+    },
+    "2ULPgNyqCrxea0v0": {
+      "__DOCUMENT_NAME__": "Fragmento de Memória",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fragmento de Memória.webp"
+    },
+    "4STt98biZwjFoKOe": {
+      "__DOCUMENT_NAME__": "Capa Arcana",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Capa Arcana.webp"
+    },
+    "5YZls8XH3MB7twNa": {
+      "__DOCUMENT_NAME__": "Receita de Pó Mítico",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Receita de Pó Mítico.webp"
+    },
+    "7yywua9TmQ4WP5WH": {
+      "__DOCUMENT_NAME__": "Pedra do Poder",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pedra do Poder.webp"
+    },
+    "9DcFR75tsnBYIp6Z": {
+      "__DOCUMENT_NAME__": "Medalhão da Esperança",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Medalhão da Esperança.webp"
+    },
+    "9P9jqGSlxVCbTdLe": {
+      "__DOCUMENT_NAME__": "Relíquia do Charme",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Relíquia do Charme.webp"
+    },
+    "9VKYSBQxN9XFWlAm": {
+      "__DOCUMENT_NAME__": "Pingente do Oscilume",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pingente do Oscilume.webp"
+    },
+    "ARuv48PWUGJGBC4n": {
+      "__DOCUMENT_NAME__": "Rede Trançada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Rede Trançada.webp"
+    },
+    "CGzjBpHJRG8KSt5Y": {
+      "__DOCUMENT_NAME__": "Luvas-lagartixa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Luvas-lagartixa.webp"
+    },
+    "CiXwelozmBDcPY48": {
+      "__DOCUMENT_NAME__": "Paraquedas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Paraquedas.webp"
+    },
+    "CrvJ7vb4s40YgEcy": {
+      "__DOCUMENT_NAME__": "Gema do Controle",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gema do Controle.webp"
+    },
+    "F4hoRfvVdZq5bhhI": {
+      "__DOCUMENT_NAME__": "Corrente dos Princípios",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Corrente dos Princípios.webp"
+    },
+    "FfJISMzYATaPQPLc": {
+      "__DOCUMENT_NAME__": "Relíquia da Velocidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Relíquia da Velocidade.webp"
+    },
+    "G0RktbmtnuAlKCRH": {
+      "__DOCUMENT_NAME__": "Espírito Sussurrante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Espírito Sussurrante.webp"
+    },
+    "GkmATIuemyFtQX1D": {
+      "__DOCUMENT_NAME__": "Algemas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Algemas.webp"
+    },
+    "HCvcAu3sdHCspGMP": {
+      "__DOCUMENT_NAME__": "Frasco Duplo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Frasco Duplo.webp"
+    },
+    "I63LTFD6GXHgyGpR": {
+      "__DOCUMENT_NAME__": "Flechas Perfurantes",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Flechas Perfurantes.webp"
+    },
+    "Iedjw1LVWEozVh0J": {
+      "__DOCUMENT_NAME__": "Bolsa Infinita",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bolsa Infinita.webp"
+    },
+    "JsPYzrqpITqGj23I": {
+      "__DOCUMENT_NAME__": "Arquivo Infausto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Arquivo Infausto.webp"
+    },
+    "K1ysGnTpNyxPu5Au": {
+      "__DOCUMENT_NAME__": "Anel do Silêncio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anel do Silêncio.webp"
+    },
+    "LZrG6CFiSjpLA2F1": {
+      "__DOCUMENT_NAME__": "Orbes da Comunicação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Orbes da Comunicação.webp"
+    },
+    "MeEg57T6MKpw3sme": {
+      "__DOCUMENT_NAME__": "Tocha de Alistair",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Tocha de Alistair.webp"
+    },
+    "MhCo8i0cRXzdnXbA": {
+      "__DOCUMENT_NAME__": "Receita de Frasco de Fumaça Negra",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Receita de Frasco de Fumaça Negra.webp"
+    },
+    "Mn1eo2Mdtu1kzyxB": {
+      "__DOCUMENT_NAME__": "Prisma Arcano",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Prisma Arcano.webp"
+    },
+    "NgvmrJYKpA2PrRSo": {
+      "__DOCUMENT_NAME__": "Botas do Passo D'água",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Botas do Passo D'água.webp"
+    },
+    "PQxvxAVBbkt0TleC": {
+      "__DOCUMENT_NAME__": "Receita de Poção de Vida Menor",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Receita de Poção de Vida Menor.webp"
+    },
+    "Pj17cvdJ1XG1jv6I": {
+      "__DOCUMENT_NAME__": "Pedra do Glamour",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pedra do Glamour.webp"
+    },
+    "PkmTZXRMZL022O75": {
+      "__DOCUMENT_NAME__": "Amuleto do Desaparecimento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Amuleto do Desaparecimento.webp"
+    },
+    "QGYPNBIufpBguwjC": {
+      "__DOCUMENT_NAME__": "Saco de Dormir de Qualidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Saco de Dormir de Qualidade.webp"
+    },
+    "QNtzJSVENww63THa": {
+      "__DOCUMENT_NAME__": "Pena de Fênix",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pena de Fênix.webp"
+    },
+    "QPGBDItjrRhXU6iJ": {
+      "__DOCUMENT_NAME__": "Relíquia do Controle",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Relíquia do Controle.webp"
+    },
+    "SAAnEAeXDnhBbLjB": {
+      "__DOCUMENT_NAME__": "Relíquia do Aperfeiçoamento",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Relíquia do Aperfeiçoamento.webp"
+    },
+    "TbgeT9ZxKHqFqJSN": {
+      "__DOCUMENT_NAME__": "Gema da Sintonia",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gema da Sintonia.webp"
+    },
+    "V25uXkAQvK3hUta4": {
+      "__DOCUMENT_NAME__": "Caixinha do Companheiro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Caixinha do Companheiro.webp"
+    },
+    "X6RMkIt89wf7qX2E": {
+      "__DOCUMENT_NAME__": "Jarro de Fogo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Jarro de Fogo.webp"
+    },
+    "aUqRifqR5JXXa1dN": {
+      "__DOCUMENT_NAME__": "Anel da Resistência",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anel da Resistência.webp"
+    },
+    "bZyT7Qw7iafswlTY": {
+      "__DOCUMENT_NAME__": "Caixa das Muitas Posses",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Caixa das Muitas Posses.webp"
+    },
+    "cTYvyaSKBxosM9Y9": {
+      "__DOCUMENT_NAME__": "Amuleto do Alcance",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Amuleto do Alcance.webp"
+    },
+    "eRd5Gk7J7hPCqp11": {
+      "__DOCUMENT_NAME__": "Semente de Portal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Semente de Portal.webp"
+    },
+    "edkNgwy4xghZreBa": {
+      "__DOCUMENT_NAME__": "Chave Mestra",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Chave Mestra.webp"
+    },
+    "gFzkUGCjkRJtyoe9": {
+      "__DOCUMENT_NAME__": "Cinturão da Unidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cinturão da Unidade.webp"
+    },
+    "gsUDP90d4SRtLEUn": {
+      "__DOCUMENT_NAME__": "Aljava de Carga",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aljava de Carga.webp"
+    },
+    "hMu9It3ThCLCXuCA": {
+      "__DOCUMENT_NAME__": "Gema do Charme",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gema do Charme.webp"
+    },
+    "kn71qCQY0DnjmQBJ": {
+      "__DOCUMENT_NAME__": "Anel da Vontade de Ferro",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anel da Vontade de Ferro.webp"
+    },
+    "lGIk9vBNz0jvskXD": {
+      "__DOCUMENT_NAME__": "Companheiro de Argila",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Companheiro de Argila.webp"
+    },
+    "m3EpxlDgxn2tCDDR": {
+      "__DOCUMENT_NAME__": "Relíquia do Impulso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Relíquia do Impulso.webp"
+    },
+    "nnj12RiFanq7s5zv": {
+      "__DOCUMENT_NAME__": "Cajado Suspenso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cajado Suspenso.webp"
+    },
+    "oMd78vhL2x2NO8Mg": {
+      "__DOCUMENT_NAME__": "Pedra da Brutalidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pedra da Brutalidade.webp"
+    },
+    "p2yy61uKsyIsl8cU": {
+      "__DOCUMENT_NAME__": "Baú Vazio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Baú Vazio.webp"
+    },
+    "rtSInNPc4B3ChBUZ": {
+      "__DOCUMENT_NAME__": "Gema do Impulso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gema do Impulso.webp"
+    },
+    "tgFFMxpuRSiRrrEB": {
+      "__DOCUMENT_NAME__": "Pingente Tranquilizante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pingente Tranquilizante.webp"
+    },
+    "ua351S7CsH22X1x2": {
+      "__DOCUMENT_NAME__": "Gema da Iluminação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gema da Iluminação.webp"
+    },
+    "v4PIoCCEjeE3acys": {
+      "__DOCUMENT_NAME__": "Apito-flauta",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Apito-flauta.webp"
+    },
+    "v758j4FwNVAurhYK": {
+      "__DOCUMENT_NAME__": "Bolsa de Areia Errática",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bolsa de Areia Errática.webp"
+    },
+    "vK6bKyQTT3m8WvMh": {
+      "__DOCUMENT_NAME__": "Relíquia da Sintonia",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Relíquia da Sintonia.webp"
+    },
+    "vSGx1f9SYUiA29L3": {
+      "__DOCUMENT_NAME__": "Relíquia da Iluminação",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Relíquia da Iluminação.webp"
+    },
+    "y7zABzR0Q2fRskTw": {
+      "__DOCUMENT_NAME__": "Pedra da Resiliência",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pedra da Resiliência.webp"
+    },
+    "yrAGYlDyoe4OYl7d": {
+      "__DOCUMENT_NAME__": "Bússolas Harmônicas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Bússolas Harmônicas.webp"
+    },
+    "zecFwBUSWtB3HW8X": {
+      "__DOCUMENT_NAME__": "Gema da Velocidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gema da Velocidade.webp"
+    }
+  }
+}

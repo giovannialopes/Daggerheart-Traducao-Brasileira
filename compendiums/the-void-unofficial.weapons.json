@@ -1,0 +1,30 @@
+{
+  "label": "Armas (The Void)",
+  "folders": {
+    "Tier 1": "Patamar 1",
+    "Tier 2": "Patamar 2",
+    "Tier 3": "Patamar 3",
+    "Tier 4": "Patamar 4"
+  },
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Fangs",
+      "name": "Presas",
+      "description": ""
+    },
+    {
+      "id": "Unarmed Strikes Powerhouse (d10+d6)",
+      "name": "Golpes Desarmados Poderosos (d10+d6)",
+      "description": ""
+    },
+    {
+      "id": "Unarmed Strikes (d8+d6)",
+      "name": "Golpes Desarmados (d8+d6)",
+      "description": ""
+    }
+  ]
+}
+

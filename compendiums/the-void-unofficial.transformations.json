@@ -1,0 +1,70 @@
+{
+  "label": "Transformações (The Void)",
+  "folders": {},
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Demigod - Ichor of the God",
+      "name": "Semideus - Ícor do Deus",
+      "description": ""
+    },
+    {
+      "id": "Ghost - Ephemeral",
+      "name": "Fantasma - Efêmero",
+      "description": ""
+    },
+    {
+      "id": "Demigod - Weight of Divinity",
+      "name": "Semideus - Peso da Divindade",
+      "description": ""
+    },
+    {
+      "id": "Shapeshifter - Only Skin Deep",
+      "name": "Metamorfo - Apenas Superficial",
+      "description": ""
+    },
+    {
+      "id": "Shapeshifter - Change Shape",
+      "name": "Metamorfo - Mudar Forma",
+      "description": ""
+    },
+    {
+      "id": "Werewolf - Wolf Form",
+      "name": "Lobisomem - Forma de Lobo",
+      "description": ""
+    },
+    {
+      "id": "Ghost - Spirit Form",
+      "name": "Fantasma - Forma Espiritual",
+      "description": ""
+    },
+    {
+      "id": "Vampire - Feed",
+      "name": "Vampiro - Alimentar",
+      "description": ""
+    },
+    {
+      "id": "Reanimated - Stitch Up",
+      "name": "Reanimado - Costurar",
+      "description": ""
+    },
+    {
+      "id": "Werewolf - Frenzy",
+      "name": "Lobisomem - Frenesi",
+      "description": ""
+    },
+    {
+      "id": "Vampire - Fangs",
+      "name": "Vampiro - Presas",
+      "description": ""
+    },
+    {
+      "id": "Reanimated - Corpse",
+      "name": "Reanimado - Cadáver",
+      "description": ""
+    }
+  ]
+}
+

@@ -1,0 +1,220 @@
+{
+  "daggerheart.ancestries": {
+    "0NSPSuB8KSEYTJIP": {
+      "__DOCUMENT_NAME__": "Reação Rápida",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Reação Rápida.webp"
+    },
+    "0RN0baBxh95GT1cm": {
+      "__DOCUMENT_NAME__": "Vigoroso",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Vigoroso.webp"
+    },
+    "2xlqKOkDxWHbuj4t": {
+      "__DOCUMENT_NAME__": "Eficiente",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Eficiente.webp"
+    },
+    "2yMLxxn7CHEvmShj": {
+      "__DOCUMENT_NAME__": "Símio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Símio.webp"
+    },
+    "3U8CncG92a7ERIJ0": {
+      "__DOCUMENT_NAME__": "Gigante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Gigante.webp"
+    },
+    "3lNqft3LmOlEIEkw": {
+      "__DOCUMENT_NAME__": "Ágil",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Ágil.webp"
+    },
+    "60o3cKUZzxO9EDQF": {
+      "__DOCUMENT_NAME__": "Robusto",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Robusto.webp"
+    },
+    "8O6SQQMxKWr430QA": {
+      "__DOCUMENT_NAME__": "Talismã da Sorte",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Talismã da Sorte.webp"
+    },
+    "9tmeXm623hl4Qnws": {
+      "__DOCUMENT_NAME__": "Conexão Fungril",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Conexão Fungril.webp"
+    },
+    "A6a87OWA3tx16g9V": {
+      "__DOCUMENT_NAME__": "Carapaça",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Carapaça.webp"
+    },
+    "AA2CZlJSWW8GPhrR": {
+      "__DOCUMENT_NAME__": "Investida",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Investida.webp"
+    },
+    "AXqcoxnRoWBbbKpK": {
+      "__DOCUMENT_NAME__": "Cheiro de Perigo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Cheiro de Perigo.webp"
+    },
+    "BNofV1UC4ZbdFTkb": {
+      "__DOCUMENT_NAME__": "Adaptabilidade",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Adaptabilidade.webp"
+    },
+    "CtL2jDjvPOJxNJKm": {
+      "__DOCUMENT_NAME__": "Pequenino",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pequenino.webp"
+    },
+    "D1RbUsRV9HpTrPuF": {
+      "__DOCUMENT_NAME__": "Orc",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Orc.webp"
+    },
+    "EKPEdIz9lA9grPqH": {
+      "__DOCUMENT_NAME__": "Goblin",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Goblin.webp"
+    },
+    "G5pE8FW94V1W9jJx": {
+      "__DOCUMENT_NAME__": "Inabalável",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Inabalável.webp"
+    },
+    "GVhmLouGq9GWCsN8": {
+      "__DOCUMENT_NAME__": "Anfíbio",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anfíbio.webp"
+    },
+    "HMXNJZ7ynzajR2KT": {
+      "__DOCUMENT_NAME__": "Resiliência",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Resiliência.webp"
+    },
+    "HaYhe6WqoXW5EbRl": {
+      "__DOCUMENT_NAME__": "Fauno",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fauno.webp"
+    },
+    "HwOoBKXOL9Tf5j85": {
+      "__DOCUMENT_NAME__": "Quacho",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Quacho.webp"
+    },
+    "IlWvn5kCqCBMuUJn": {
+      "__DOCUMENT_NAME__": "Destemido",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Destemido.webp"
+    },
+    "J1hX7nBBc5jQiHli": {
+      "__DOCUMENT_NAME__": "Fungril",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fungril.webp"
+    },
+    "S0Ww7pYOSREt8qKg": {
+      "__DOCUMENT_NAME__": "Pele Espessa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Pele Espessa.webp"
+    },
+    "TfolXWFG2W2hx6sK": {
+      "__DOCUMENT_NAME__": "Transe Celestial",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Transe Celestial.webp"
+    },
+    "U6iFjZgLYawlOlQZ": {
+      "__DOCUMENT_NAME__": "Testar a Sorte",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Testar a Sorte.webp"
+    },
+    "UFR67BUOhNGLFyg9": {
+      "__DOCUMENT_NAME__": "Retração",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Retração.webp"
+    },
+    "VLeOEqkLS0RbF0tB": {
+      "__DOCUMENT_NAME__": "Drakona",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Drakona.webp"
+    },
+    "WRs2jvwM0STmkWIW": {
+      "__DOCUMENT_NAME__": "Alcance",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Alcance.webp"
+    },
+    "WquAjoOcso8lwySW": {
+      "__DOCUMENT_NAME__": "Asas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Asas.webp"
+    },
+    "WuwXH2r2uM9sDJtj": {
+      "__DOCUMENT_NAME__": "Vínculo Mortal",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Vínculo Mortal.webp"
+    },
+    "XzJVbb5NT9k79ykR": {
+      "__DOCUMENT_NAME__": "Fada",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Fada.webp"
+    },
+    "YhxD1ujZpftPu19w": {
+      "__DOCUMENT_NAME__": "Presas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Presas.webp"
+    },
+    "YsJticxv8OFndd4D": {
+      "__DOCUMENT_NAME__": "Passo Firme",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Passo Firme.webp"
+    },
+    "Zj69cAeb3NjIa8Hn": {
+      "__DOCUMENT_NAME__": "Garras Retráteis",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Garras Retráteis.webp"
+    },
+    "e2Cu6exxtvfQzc1e": {
+      "__DOCUMENT_NAME__": "Senso de Direção",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Senso de Direção.webp"
+    },
+    "eZNG5Iv0yfbHs5CO": {
+      "__DOCUMENT_NAME__": "Galapa",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Galapa.webp"
+    },
+    "ed8BoLR4SHOpeV00": {
+      "__DOCUMENT_NAME__": "Clank",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Clank.webp"
+    },
+    "g6I4tRUQNgL4vZ6H": {
+      "__DOCUMENT_NAME__": "Projeto Intencional",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Projeto Intencional.webp"
+    },
+    "gpW19TfJk0WWFh1S": {
+      "__DOCUMENT_NAME__": "Coice",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Coice.webp"
+    },
+    "hyxcuF2I0xcZSGkm": {
+      "__DOCUMENT_NAME__": "Infernis",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Infernis.webp"
+    },
+    "hzKmydI8sR3uk4CO": {
+      "__DOCUMENT_NAME__": "Firbolg",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Firbolg.webp"
+    },
+    "i92lYjDhVB0LyPid": {
+      "__DOCUMENT_NAME__": "Aspecto Apavorante",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Aspecto Apavorante.webp"
+    },
+    "lNgbbYnCKgrdvA85": {
+      "__DOCUMENT_NAME__": "Instinto Felino",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Instinto Felino.webp"
+    },
+    "nLL2zuDDDbbyxlrQ": {
+      "__DOCUMENT_NAME__": "Salto Caprino",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Salto Caprino.webp"
+    },
+    "oWbdlh51ajn1Q5kL": {
+      "__DOCUMENT_NAME__": "Linguarudo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Linguarudo.webp"
+    },
+    "pDt6fI6otv2E2odf": {
+      "__DOCUMENT_NAME__": "Anão",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Anão.webp"
+    },
+    "q2l6g3Ssa04K84GO": {
+      "__DOCUMENT_NAME__": "Elfo",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Elfo.webp"
+    },
+    "sRaE3CgkgjBF1UpV": {
+      "__DOCUMENT_NAME__": "Sopro Elemental",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Sopro Elemental.webp"
+    },
+    "soQvPL0MrTLLcc31": {
+      "__DOCUMENT_NAME__": "Escalador Natural",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escalador Natural.webp"
+    },
+    "tXWEMdLXafUSZTbK": {
+      "__DOCUMENT_NAME__": "Resistência",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Resistência.webp"
+    },
+    "u8ZhV962rNmUlzkp": {
+      "__DOCUMENT_NAME__": "Escamas",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Escamas.webp"
+    },
+    "wtJ5V5qRppLQn61n": {
+      "__DOCUMENT_NAME__": "Humano",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Humano.webp"
+    },
+    "yyW0UM8srD9WuwW7": {
+      "__DOCUMENT_NAME__": "Katari",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Katari.webp"
+    }
+  }
+}

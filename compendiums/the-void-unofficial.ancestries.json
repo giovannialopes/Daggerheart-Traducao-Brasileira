@@ -1,0 +1,112 @@
+{
+  "label": "Ancestralidades (The Void)",
+  "folders": {
+    "Ancestry Features": "Características de Ancestralidade"
+  },
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Magical Sense",
+      "name": "Senso Mágico",
+      "description": ""
+    },
+    {
+      "id": "Fireproof",
+      "name": "À Prova de Fogo",
+      "description": ""
+    },
+    {
+      "id": "Lifespring",
+      "name": "Fonte de Vida",
+      "description": ""
+    },
+    {
+      "id": "Divine Countenance",
+      "name": "Aparência Divina",
+      "description": ""
+    },
+    {
+      "id": "Gale Force",
+      "name": "Força da Rajada",
+      "description": ""
+    },
+    {
+      "id": "Amphibious",
+      "name": "Anfíbio",
+      "description": ""
+    },
+    {
+      "id": "Earthkin",
+      "name": "Filho da Terra",
+      "description": ""
+    },
+    {
+      "id": "Drow",
+      "name": "Drow",
+      "description": ""
+    },
+    {
+      "id": "Skykin",
+      "name": "Filho do Céu",
+      "description": ""
+    },
+    {
+      "id": "Emberkin",
+      "name": "Filho da Brasa",
+      "description": ""
+    },
+    {
+      "id": "Immoveable",
+      "name": "Imóvel",
+      "description": ""
+    },
+    {
+      "id": "Aetheris",
+      "name": "Aetheris",
+      "description": ""
+    },
+    {
+      "id": "Low-Light Living",
+      "name": "Vida em Baixa Luz",
+      "description": ""
+    },
+    {
+      "id": "Ignition",
+      "name": "Ignição",
+      "description": ""
+    },
+    {
+      "id": "Gnome",
+      "name": "Gnomo",
+      "description": ""
+    },
+    {
+      "id": "Stoneskin",
+      "name": "Pele de Pedra",
+      "description": ""
+    },
+    {
+      "id": "Eye of the Storm",
+      "name": "Olho da Tempestade",
+      "description": ""
+    },
+    {
+      "id": "Hallowed Aura",
+      "name": "Aura Sagrada",
+      "description": ""
+    },
+    {
+      "id": "Tidekin",
+      "name": "Filho da Maré",
+      "description": ""
+    },
+    {
+      "id": "Nimble Fingers",
+      "name": "Dedos Ágeis",
+      "description": ""
+    }
+  ]
+}
+

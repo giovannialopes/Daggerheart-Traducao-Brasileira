@@ -1,0 +1,52 @@
+{
+  "the-void-unofficial.communities": {
+    "3lH8A9WKl0ikwHrp": {
+      "__DOCUMENT_NAME__": "Hardy",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Hardy.webp"
+    },
+    "6URy3kwrCzFejmO0": {
+      "__DOCUMENT_NAME__": "Warborne",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Warborne.webp"
+    },
+    "7mmabZUnaBKxsnuD": {
+      "__DOCUMENT_NAME__": "Unbound",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Unbound.webp"
+    },
+    "99bJKqN7zQ5GU6mg": {
+      "__DOCUMENT_NAME__": "Found Family",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Found Family.webp"
+    },
+    "BER7vUtZV7QmrjMV": {
+      "__DOCUMENT_NAME__": "Hearthborne",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Hearthborne.webp"
+    },
+    "KrqCfjp4E1r10XQr": {
+      "__DOCUMENT_NAME__": "Brave Face",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Brave Face.webp"
+    },
+    "TGeBSqw47AW25tvJ": {
+      "__DOCUMENT_NAME__": "Reborne",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Reborne.webp"
+    },
+    "dU9uCKeEc2rRtL4W": {
+      "__DOCUMENT_NAME__": "Duneborne",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Duneborne.webp"
+    },
+    "lTJoENAJIjB8zgB7": {
+      "__DOCUMENT_NAME__": "Close-Knit",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Close-Knit.webp"
+    },
+    "mk1LK5LOQgxeQWzT": {
+      "__DOCUMENT_NAME__": "Oasis",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Oasis.webp"
+    },
+    "muFSdSfFYalZT56W": {
+      "__DOCUMENT_NAME__": "Frostborne",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Frostborne.webp"
+    },
+    "tkTwPJHo6PCXgjmM": {
+      "__DOCUMENT_NAME__": "Freeborne",
+      "actor": "modules/art-for-daggerheart/adversaries/portraits/Freeborne.webp"
+    }
+  }
+}
