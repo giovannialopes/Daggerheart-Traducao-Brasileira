@@ -19,12 +19,12 @@
     {
       "id": "Sanguine Feast",
       "name": "Festim Sanguíneo",
-      "description": ""
+      "description": "Faça uma Rolagem de Conjuração contra um adversário dentro de alcance Próximo. Em um sucesso, gaste 2 Pontos de Esperança para marcar 1-3 Pontos de Vida, e o alvo marca o dobro do número de Pontos de Vida que você marcou. Se isso fizer o alvo marcar seu último Ponto de Vida, você pode limpar os Pontos de Vida que marcou para conjurar esta magia."
     },
     {
       "id": "Vampiric Strike",
       "name": "Golpe Vampírico",
-      "description": ""
+      "description": "Quando você faz uma rolagem de ataque bem-sucedida contra um adversário e causa que eles marquem 2 ou mais Pontos de Vida, você pode gastar um Ponto de Esperança para limpar um Ponto de Vida ou Estresse."
     },
     {
       "id": "Dire Strike",
@@ -34,7 +34,7 @@
     {
       "id": "Lifeblood Talisman",
       "name": "Talismã do Sangue Vital",
-      "description": ""
+      "description": "Marque um Ponto de Vida para conjurar um talismã infundido com sua essência vital. O talismã aparece na sua mão, e quem quer que carregue o talismã ganha seu benefício: Sempre que o portador do talismã marcar 2 ou mais Pontos de Vida, eles podem gastar um Ponto de Esperança para reduzir o número de Pontos de Vida marcados em 1. O talismã desaparece se você não tiver Pontos de Vida marcados ou usar esta magia novamente."
     },
     {
       "id": "Voice of Dread",
@@ -49,7 +49,7 @@
     {
       "id": "Blood Spike",
       "name": "Espinho de Sangue",
-      "description": ""
+      "description": "Faça uma Rolagem de Conjuração contra um alvo dentro de alcance Longo. Em um sucesso, marque um Estresse para causar d10 de dano mágico ao alvo usando sua Proficiência. Em um sucesso com Esperança, o alvo também marca um Estresse. Em uma rolagem com Medo, marque um Estresse."
     },
     {
       "id": "Chains of Affliction",
@@ -59,12 +59,12 @@
     {
       "id": "Vitality Manipulation",
       "name": "Manipulação da Vitalidade",
-      "description": ""
+      "description": "Faça uma Rolagem de Conjuração contra um alvo dentro de alcance Muito Próximo. Se você conjurar isso em um aliado, faça a rolagem com vantagem. Em um sucesso, marque um Estresse e escolha um dos seguintes efeitos: O alvo fica mais calmo e limpa um Estresse. Em um sucesso com Esperança, eles limpam 2 Estresses. O alvo fica mais ansioso e marca um Estresse. Em um sucesso com Esperança, eles marcam 2 Estresses."
     },
     {
       "id": "Blood Puppet",
       "name": "Marionete de Sangue",
-      "description": ""
+      "description": "Faça uma Rolagem de Conjuração contra uma criatura (viva ou morta) dentro de alcance Longo. Em um sucesso, gaste um Ponto de Esperança para controlar o alvo fazendo com que eles se movam, ataquem ou ambos. Se você fizer ambos, você escolhe a ordem. Se você fizer a criatura se mover, ela se move para um local que você escolhe que está dentro de alcance Próximo dela. Se você fizer a criatura atacar, faça uma Rolagem de Conjuração contra um alvo dentro de alcance Corpo a Corpo dela. Em um sucesso, cause d10 de dano físico usando sua Proficiência."
     },
     {
       "id": "Blighting Strike",
@@ -74,17 +74,17 @@
     {
       "id": "Blood-Touched",
       "name": "Tocado pelo Sangue",
-      "description": ""
+      "description": "Enquanto 4 ou mais das cartas de domínio no seu equipamento são do domínio do Sangue, ganhe os seguintes benefícios: • Quando você sofre dano suficiente para marcar 2 ou mais Pontos de Vida, ganhe um Ponto de Esperança. • Para cada 3 Pontos de Vida que você tiver marcados, ganhe um bônus de +1 à sua Evasão."
     },
     {
       "id": "Brand of Castigation",
       "name": "Marca da Castigação",
-      "description": ""
+      "description": "Quando você causa dano a uma criatura, marque um Estresse para marcar uma marca mágica vermelha nela. Até esta marca desaparecer, você sempre sabe a direção da criatura marcada em relação a você, e essa criatura marca um Estresse cada vez que causa dano a você ou a um aliado seu dentro de alcance Muito Próximo de você. A marca desaparece quando você usar esta magia novamente."
     },
     {
       "id": "Parasite Of The Will",
       "name": "Parasita da Vontade",
-      "description": ""
+      "description": "Faça uma Rolagem de Conjuração contra uma criatura dentro de alcance Muito Longo. Em um sucesso, marque um Ponto de Vida para conjurar um minúsculo verme mágico de sangue que se enterra no alvo. Em um sucesso com Esperança, o alvo não está ciente do verme dentro. Você tem vantagem em qualquer rolagem de Presença contra o alvo, e sempre que eles fizerem uma rolagem, você pode gastar um Ponto de Esperança para dar desvantagem à rolagem. Você pode destruir o verme de sangue para fazer o alvo marcar um Ponto de Vida."
     },
     {
       "id": "Siphon Essence",
@@ -94,7 +94,7 @@
     {
       "id": "Grisly Harpoon",
       "name": "Arpão Macabro",
-      "description": ""
+      "description": "Você lança um arpão de sangue em um local ou criatura dentro de alcance Longo. Se o alvo for um local, faça uma Rolagem de Conjuração (13). Em um sucesso, marque um Estresse para se puxar para uma posição dentro de alcance Corpo a Corpo dele. Se o alvo for uma criatura, faça uma Rolagem de Conjuração contra ela. Em um sucesso, marque um Estresse para causar 3d8 de dano mágico ao alvo. Você então puxa o alvo direto em sua direção ou se puxa direto em direção ao alvo, terminando dentro de alcance Corpo a Corpo um do outro."
     },
     {
       "id": "Avatar of Terror",
@@ -119,7 +119,7 @@
     {
       "id": "Mutual Suffering",
       "name": "Sofrimento Mútuo",
-      "description": ""
+      "description": "Quando um ataque de uma criatura faz com que você marque um ou mais Pontos de Vida, você pode fazer uma Rolagem de Reação usando seu traço de Conjuração contra a criatura. Em um sucesso, a criatura marca o mesmo número de Pontos de Vida que você marcou, e você não pode usar esta magia novamente até terminar um descanso."
     },
     {
       "id": "Terrify",
@@ -134,17 +134,17 @@
     {
       "id": "Blood Bind",
       "name": "Vínculo de Sangue",
-      "description": ""
+      "description": "Faça uma Rolagem de Conjuração contra um alvo dentro de alcance Longo. Em um sucesso, marque um Estresse enquanto retarda a vitalidade do alvo. O alvo fica temporariamente Restringido e temporariamente Vulnerável. Cada vez que o alvo é destacado enquanto qualquer uma dessas condições persistir nele, o alvo sofre d10 de dano mágico usando sua Proficiência. A magia termina cedo no alvo se você usá-la novamente."
     },
     {
       "id": "Vital Ward",
       "name": "Proteção Vital",
-      "description": ""
+      "description": "Marque um Ponto de Vida para traçar um círculo de sangue ao redor de si mesmo em alcance Muito Próximo. Enquanto estiver no círculo, você tem resistência à sua escolha de dano físico ou mágico (escolha quando conjurar a magia). Aliados também ganham este benefício enquanto estiverem no círculo. O círculo desaparece se você sair dele, marcar 2 ou mais Pontos de Vida, ou conjurar esta magia novamente."
     },
     {
       "id": "Crimson Adamance",
       "name": "Firmeza Carmesim",
-      "description": ""
+      "description": "Quando você marcaria seu último Ponto de Vida, gaste um Ponto de Esperança para marcar um Estresse em vez disso."
     },
     {
       "id": "Dark Army",
@@ -169,7 +169,7 @@
     {
       "id": "Life Leash",
       "name": "Rédea da Vida",
-      "description": ""
+      "description": "Gaste um Ponto de Esperança para permitir que você e um aliado disposto dentro de alcance Longo redistribuam Pontos de Vida marcados entre os dois. Você então não pode escolher esse aliado novamente com Rédea da Vida até terminar um descanso."
     },
     {
       "id": "Spectral Mist",
@@ -179,17 +179,17 @@
     {
       "id": "Weave The Flesh",
       "name": "Tecer a Carne",
-      "description": ""
+      "description": "Uma vez por descanso, marque um Ponto de Vida para permitir que cada aliado dentro de alcance Próximo limpe um Ponto de Vida ou um Estresse. Você pode marcar um Estresse para permitir que esses aliados limpem um de cada."
     },
     {
       "id": "Runic Adrenaline",
       "name": "Adrenalina Rúnica",
-      "description": ""
+      "description": "Sua prática de magia de sangue se infiltrou na sua corrente sanguínea, aprimorando seus órgãos vitais em momentos de urgência. Quando você rola com vantagem, use um d8 em vez de um d6 como seu dado de vantagem se você tiver 1 ou mais Pontos de Vida marcados. Depois de fazer uma rolagem de Força, Agilidade ou Destreza, você pode marcar um Ponto de Vida para rolar 1d8 e adicioná-lo ao resultado."
     },
     {
       "id": "Bloodbath",
       "name": "Banho de Sangue",
-      "description": ""
+      "description": "Uma vez por descanso, gaste um Ponto de Esperança para liberar ondas de sangue ao redor de si mesmo. Faça uma única Rolagem de Conjuração contra cada adversário dentro de alcance Próximo. Em um sucesso, um alvo marca um Ponto de Vida e um Estresse. Em uma falha, um alvo marca um Estresse. Cada aliado dentro de alcance Próximo marca um Estresse mas limpa um Ponto de Vida."
     },
     {
       "id": "Dread-Touched",
@@ -204,7 +204,7 @@
     {
       "id": "Power Through Pain",
       "name": "Poder Através da Dor",
-      "description": ""
+      "description": "Se você tiver pelo menos um Ponto de Vida marcado, você ganha um bônus às suas rolagens de dano. O bônus é igual ao dobro do seu número de Pontos de Vida marcados."
     },
     {
       "id": "Savor the Anguish",
@@ -214,7 +214,7 @@
     {
       "id": "Burning Blood",
       "name": "Sangue Ardente",
-      "description": ""
+      "description": "Faça uma Rolagem de Conjuração (12). Em um sucesso, marque um Ponto de Vida enquanto conjura uma gota de sangue, que você lança em um ponto dentro de alcance Longo. Uma onda de calor preenche a área dentro de alcance Muito Próximo desse ponto, inflamando os órgãos internos daqueles pegos dentro. Cada alvo dentro da área marca 1 Ponto de Vida. Em um sucesso com Esperança, cada alvo dentro da área marca 2 Pontos de Vida em vez disso."
     },
     {
       "id": "Eldritch Flesh",
@@ -224,7 +224,7 @@
     {
       "id": "Glyph of Hemorrhaging",
       "name": "Glifo da Hemorragia",
-      "description": ""
+      "description": "Faça uma Rolagem de Conjuração contra uma criatura dentro de alcance Longo. Em um sucesso, marque um Ponto de Vida para marcar o alvo com um glifo mágico que dura até o Mestre gastar 2 Medos para removê-lo ou você sofrer dano Severo. Sempre que o alvo marcar quaisquer Pontos de Vida enquanto o glifo permanecer, você pode marcar um Estresse para fazê-lo marcar um Ponto de Vida adicional."
     }
   ]
 }

@@ -28,8 +28,8 @@
     {
       "id": "Order of the Lycan",
       "name": "Ordem do Licano",
-      "description": ""
-    },
+      "description": "A Ordem do Licano é uma subclasse do Blood Hunter que permite transformação em lobisomem."
+    }
     {
       "id": "Dark Aegis",
       "name": "Égide Sombria",
@@ -48,8 +48,8 @@
     {
       "id": "Order of the Mutant",
       "name": "Ordem do Mutante",
-      "description": ""
-    },
+      "description": "A Ordem do Mutante é uma subclasse do Blood Hunter que utiliza mutagênicos para aprimorar suas habilidades."
+    }
     {
       "id": "Stance - Nimble",
       "name": "Postura - Ágil",
@@ -68,7 +68,7 @@
     {
       "id": "Shadowed Grit",
       "name": "Determinação Sombria",
-      "description": ""
+      "description": "Quando o Mestre ganha um Medo de uma rolagem de Dado de Dualidade, você pode marcar um Estresse para ganhar um Ponto de Esperança."
     },
     {
       "id": "Overwhelm",
@@ -128,12 +128,12 @@
     {
       "id": "Lycan Regeneration",
       "name": "Regeneração Licana",
-      "description": ""
+      "description": "Enquanto estiver na sua Forma de Lobo com todos os seus Pontos de Vida marcados, você pode marcar um Estresse para limpar um Ponto de Vida. Você pode fazer isso enquanto estiver inconsciente."
     },
     {
       "id": "Master the Beast",
       "name": "Dominar a Fera",
-      "description": ""
+      "description": "Quando você está na sua Forma de Lobo e marcaria seu último Estresse, você pode em vez disso colocar uma de suas cartas de Domínio do seu Equipamento no seu Cofre; você não pode Recuperar essa carta de Domínio até terminar um descanso longo. Quando você entra em Frenesi por marcar seu último Estresse enquanto está na Forma de Lobo, você ganha 2 Pontos de Esperança."
     },
     {
       "id": "Stance - Inexorable",
@@ -148,7 +148,7 @@
     {
       "id": "Werewolf",
       "name": "Lobisomem",
-      "description": ""
+      "description": "Você ganha a carta de Transformação Lobisomem. Suas rolagens para perceber via audição e olfato têm vantagem."
     },
     {
       "id": "Executioner's Guild",
@@ -158,7 +158,7 @@
     {
       "id": "Improved Mutagens",
       "name": "Mutagênicos Aprimorados",
-      "description": ""
+      "description": "Quando você escolhe um benefício de mutagênico, suas opções também incluem o seguinte: Nervos de Aço (sempre que você deve marcar um Estresse, você pode gastar 2 Pontos de Esperança em vez disso), Rapidez (sua Evasão aumenta em 1), Pele de Ferro (seu limite de dano Severo aumenta em um número igual à sua Proficiência), ou Toxinas Voláteis (você pode escolher dois benefícios de mutagênico em vez de um. Se fizer isso, marque um Ponto de Vida que não pode ser limpo até você terminar seu próximo descanso)."
     },
     {
       "id": "Focus",
@@ -258,22 +258,22 @@
     {
       "id": "Control the Beast",
       "name": "Controlar a Fera",
-      "description": ""
+      "description": "Enquanto estiver na sua Forma de Lobo, você pode aplicar o dado de bônus dessa forma às suas Rolagens de Ação de Agilidade e Força."
     },
     {
       "id": "Veilwalker",
       "name": "Caminhante do Véu",
-      "description": ""
+      "description": "Você pode brevemente deslizar para o reino entre os vivos e os mortos. Gaste 2 Pontos de Esperança para desaparecer e então reaparecer ao lado de uma criatura ou um cadáver dentro de alcance Longo. Você então tem vantagem na próxima rolagem de ataque que fizer nesta cena."
     },
     {
       "id": "Spectral Form",
       "name": "Forma Espectral",
-      "description": ""
+      "description": "Você tem outra opção de movimento de morte: Forma Espectral. Quando você escolhe esta opção, você limpa um Ponto de Vida, seu corpo se torna espectral, você tem resistência a dano físico e pode passar através de objetos. Esta forma termina se você limpar mais Pontos de Vida. Ela também termina se você marcar seu último Ponto de Vida, o que força você a fazer um movimento de morte diferente. Você é empurrado para o espaço aberto mais próximo se estiver dentro de um objeto quando a forma terminar."
     },
     {
       "id": "Feral Hide",
       "name": "Pele Selvagem",
-      "description": ""
+      "description": "Enquanto estiver na sua Forma de Lobo, você ganha um bônus aos seus Limites de Dano igual ao seu Patamar."
     },
     {
       "id": "Stance - Defensive",
@@ -323,12 +323,12 @@
     {
       "id": "Mutagens",
       "name": "Mutagênicos",
-      "description": ""
+      "description": "Você emprega toxinas mutagênicas criadas para aprimorar suas habilidades. Quando você termina um descanso, você pode beber uma dessas toxinas para ganhar seus efeitos, que duram até você terminar seu próximo descanso. Estes efeitos incluem um bônus de +1 a um traço de sua escolha, uma penalidade de -1 a um traço diferente de sua escolha, e sua escolha de um dos seguintes benefícios: Celeridade (se você estiver Restringido ou Vulnerável, você pode marcar um Estresse para terminar a condição em si mesmo), Durável (seu Valor de Armadura aumenta em 2), ou Sentidos do Caçador (você tem vantagem em qualquer rolagem de ação que fizer para rastrear uma criatura, e você pode ver na escuridão completa)."
     },
     {
       "id": "Chasing Death",
       "name": "Perseguindo a Morte",
-      "description": ""
+      "description": "Enquanto você tem 1-3 Pontos de Vida não marcados, você pode usar sua característica Rito Carmesim sem pagar o custo de Ponto de Vida. Se você tiver apenas 1 Ponto de Vida não marcado, você rola d8s em vez de d6s para o dano extra do seu Rito Carmesim."
     },
     {
       "id": "Stance - Sheltering",
@@ -408,7 +408,7 @@
     {
       "id": "Mastered Mutagens",
       "name": "Mutagênicos Dominados",
-      "description": ""
+      "description": "O bônus e penalidade de traço que você obtém da sua característica Mutagênicos muda para +2 e -2, respectivamente. Quando você escolhe um benefício de mutagênico, suas opções também incluem o seguinte: Sangue Etéreo (dentro da sua linha de visão, você pode ver criaturas e objetos que estão invisíveis, e ilusões visuais aparecem transparentes para você. Se uma criatura ou objeto dentro da sua linha de visão foi transformado por magia, você pode ver sua forma verdadeira), Fúria (quando você faz uma rolagem de ataque, você pode marcar um Estresse para ganhar um bônus na rolagem igual à sua Proficiência), ou Carne de Aço (seu limite de dano Maior aumenta em um número igual à sua Proficiência)."
     },
     {
       "id": "Fearsome Attack",
@@ -463,7 +463,7 @@
     {
       "id": "Order of the Ghost Slayer",
       "name": "Ordem do Caçador de Fantasmas",
-      "description": ""
+      "description": "A Ordem do Caçador de Fantasmas é uma subclasse do Blood Hunter focada em combater criaturas sobrenaturais e fantasmas."
     }
   ]
 }

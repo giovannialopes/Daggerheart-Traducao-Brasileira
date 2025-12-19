@@ -26,7 +26,7 @@
     {
       "id": "Blood Hunter",
       "name": "Caçador de Sangue",
-      "description": ""
+      "description": "Como caçador de sangue, você utiliza o poder da hemocraft—isto é, magia de sangue—em sua busca implacável por criaturas malignas."
     },
     {
       "id": "Combo Strikes (D10)",
@@ -81,7 +81,7 @@
     {
       "id": "Grim Psychometry",
       "name": "Psicometria Sombria",
-      "description": ""
+      "description": "Enquanto inspeciona uma criatura, um local ou um objeto dentro de alcance Muito Próximo, faça uma Rolagem de Conjuração (12). Em um sucesso, marque um Estresse para ter uma visão da violência mais recente envolvendo o alvo, e até você terminar um descanso, você tem vantagem em qualquer rolagem de ação para recordar conhecimento sobre coisas na visão."
     },
     {
       "id": "Get In & Get Out",
@@ -101,7 +101,7 @@
     {
       "id": "Blood Maledict",
       "name": "Maldição de Sangue",
-      "description": ""
+      "description": "Gaste 3 Pontos de Esperança para escolher uma criatura dentro de alcance Longo ou em uma visão da sua Psicometria Sombria. Até você terminar um descanso, sofrer dano Severo ou usar esta característica novamente, você tem vantagem em todas as rolagens de ação contra o alvo."
     },
     {
       "id": "50ft of Rope",
@@ -126,7 +126,7 @@
     {
       "id": "Crimson Rite",
       "name": "Rito Carmesim",
-      "description": ""
+      "description": "Você pode encantar seus golpes com poder sedento de sangue ao custo da sua vitalidade. Marque um Ponto de Vida para encantar uma de suas armas ativas. Até você terminar seu próximo descanso, essa arma causa dano físico ou mágico (escolha quando usar esta característica) e um dano extra de 1d6 quando você acertar com ela. Este dano extra aumenta para 2d6 no nível 5 e 3d6 no nível 8."
     },
     {
       "id": "Witch",
